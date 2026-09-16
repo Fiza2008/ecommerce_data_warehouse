@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price
+1,Wireless Headphones,Electronics,1999
+2,Smart Watch,Electronics,3499
+3,Bluetooth Speaker,Electronics,2499
+4,USB-C Hub,Electronics,1299
+5,Mechanical Keyboard,Electronics,2999
+6,Air Fryer,Home,4999
+7,Coffee Maker,Home,3299
+8,Desk Lamp,Home,999
+9,Storage Box,Home,699
+10,Electric Kettle,Home,1599
+11,Running Shoes,Fashion,2799
+12,Backpack,Fashion,1499
+13,Denim Jacket,Fashion,2999
+14,T-Shirt,Fashion,799
+15,Sneakers,Fashion,3199
+16,Data Engineering Book,Books,899
+17,Python Programming,Books,749
+18,SQL Handbook,Books,699
+19,Machine Learning Guide,Books,999
+20,Cloud Computing Book,Books,849

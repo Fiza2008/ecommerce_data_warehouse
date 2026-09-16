@@ -1,0 +1,5001 @@
+order_id,payment_method,amount,payment_status
+1,Credit Card,16781.55,Paid
+2,Credit Card,3597,Refunded
+3,Net Banking,18042,Paid
+4,Debit Card,4497,Paid
+5,UPI,7601.55,Paid
+6,Credit Card,17376.55,Paid
+7,Debit Card,4226.4,Paid
+8,Debit Card,17567.4,Refunded
+9,Credit Card,14393.7,Paid
+10,UPI,0,Failed
+11,Cash on Delivery,8834.05,Paid
+12,Cash on Delivery,0,Failed
+13,Debit Card,14491,Paid
+14,Credit Card,14061.55,Refunded
+15,Debit Card,4046,Paid
+16,UPI,1898.1,Paid
+17,Debit Card,8497,Paid
+18,Net Banking,12996,Paid
+19,Cash on Delivery,778,Paid
+20,Net Banking,4416.6,Paid
+21,Credit Card,0,Failed
+22,Cash on Delivery,3396,Paid
+23,Net Banking,0,Failed
+24,Cash on Delivery,1578,Paid
+25,Net Banking,19095,Paid
+26,Net Banking,4758.3,Paid
+27,Debit Card,5791.2,Paid
+28,UPI,25925.5,Paid
+29,Debit Card,0,Failed
+30,Debit Card,0,Failed
+31,Credit Card,22741,Refunded
+32,Credit Card,15464.05,Paid
+33,Net Banking,7049.9,Refunded
+34,Net Banking,7495,Paid
+35,Debit Card,1992.15,Paid
+36,Credit Card,2248,Refunded
+37,Net Banking,0,Failed
+38,Net Banking,5998,Paid
+39,Cash on Delivery,9796,Paid
+40,Credit Card,3559.65,Paid
+41,Cash on Delivery,6071.55,Refunded
+42,Debit Card,8920.75,Refunded
+43,Debit Card,0,Failed
+44,Credit Card,17993.7,Refunded
+45,Debit Card,20992,Refunded
+46,Cash on Delivery,5037.3,Paid
+47,Net Banking,20608.35,Paid
+48,Debit Card,7597,Paid
+49,Net Banking,5695.25,Paid
+50,Cash on Delivery,0,Failed
+51,Debit Card,0,Failed
+52,UPI,3945,Paid
+53,Debit Card,14400.7,Paid
+54,Cash on Delivery,0,Failed
+55,Net Banking,0,Failed
+56,Debit Card,0,Failed
+57,Cash on Delivery,17676.9,Paid
+58,Debit Card,0,Failed
+59,Debit Card,6286.6,Paid
+60,Net Banking,0,Failed
+61,Credit Card,3984.3,Paid
+62,UPI,5746,Paid
+63,Credit Card,2549.15,Paid
+64,UPI,11595,Refunded
+65,UPI,9998,Refunded
+66,Debit Card,17188.35,Refunded
+67,Debit Card,4697,Paid
+68,Credit Card,12395,Refunded
+69,Credit Card,7691.2,Paid
+70,UPI,14393,Paid
+71,Net Banking,8593,Paid
+72,Net Banking,7855.7,Paid
+73,Credit Card,0,Failed
+74,Cash on Delivery,16392,Paid
+75,UPI,0,Failed
+76,Debit Card,0,Failed
+77,Credit Card,15802.35,Refunded
+78,Net Banking,0,Failed
+79,Cash on Delivery,11695.5,Paid
+80,Cash on Delivery,843.1,Paid
+81,Cash on Delivery,5998,Refunded
+82,Credit Card,10824.3,Paid
+83,UPI,26000.1,Paid
+84,Net Banking,5350.75,Paid
+85,Cash on Delivery,14935.5,Refunded
+86,Cash on Delivery,10596,Paid
+87,Cash on Delivery,2124.15,Paid
+88,Credit Card,11063.7,Paid
+89,Cash on Delivery,6296.4,Paid
+90,Cash on Delivery,13193,Paid
+91,Credit Card,3036.2,Paid
+92,Credit Card,0,Failed
+93,UPI,0,Failed
+94,Net Banking,4673.3,Refunded
+95,Cash on Delivery,7877.4,Refunded
+96,Debit Card,8112.4,Refunded
+97,Cash on Delivery,2698.2,Paid
+98,Net Banking,3149.1,Refunded
+99,Net Banking,4499.1,Refunded
+100,Net Banking,928.15,Paid
+101,Credit Card,9998,Paid
+102,Credit Card,1359.15,Paid
+103,UPI,0,Failed
+104,Net Banking,0,Failed
+105,UPI,1698,Paid
+106,UPI,8797,Refunded
+107,Net Banking,2999,Paid
+108,Cash on Delivery,1899.05,Paid
+109,Cash on Delivery,10363.2,Paid
+110,Debit Card,2877.3,Paid
+111,UPI,5393.7,Paid
+112,Cash on Delivery,19418.95,Paid
+113,Cash on Delivery,12955.5,Paid
+114,Credit Card,24021.0,Paid
+115,UPI,13491.9,Paid
+116,Credit Card,15382.4,Paid
+117,Cash on Delivery,9939.05,Refunded
+118,UPI,9131.4,Paid
+119,Cash on Delivery,6196,Refunded
+120,Credit Card,19493,Paid
+121,Net Banking,0,Failed
+122,Credit Card,22792,Refunded
+123,Debit Card,7097,Paid
+124,Cash on Delivery,12437.4,Paid
+125,Credit Card,1998,Paid
+126,Cash on Delivery,18241,Paid
+127,Net Banking,11696,Paid
+128,Debit Card,12144,Paid
+129,Cash on Delivery,9855.75,Paid
+130,Credit Card,0,Failed
+131,Credit Card,3199,Paid
+132,Cash on Delivery,21556.45,Refunded
+133,UPI,4000.5,Paid
+134,Net Banking,10256.4,Paid
+135,Net Banking,23265.5,Refunded
+136,UPI,9117.15,Paid
+137,Cash on Delivery,3036.2,Paid
+138,Credit Card,13494,Paid
+139,Debit Card,7787.15,Paid
+140,Net Banking,16495,Refunded
+141,Cash on Delivery,8396,Paid
+142,UPI,5756.4,Refunded
+143,Cash on Delivery,18843,Paid
+144,UPI,21191,Paid
+145,Credit Card,15394,Paid
+146,Net Banking,0,Failed
+147,Debit Card,16590,Paid
+148,Debit Card,0,Failed
+149,Cash on Delivery,4117.4,Paid
+150,Cash on Delivery,828,Paid
+151,Credit Card,4317.3,Refunded
+152,UPI,8157.45,Paid
+153,Credit Card,5896,Refunded
+154,UPI,26992,Refunded
+155,Net Banking,11293,Paid
+156,UPI,6843,Paid
+157,Credit Card,24293.7,Paid
+158,Credit Card,12693,Refunded
+159,Debit Card,14292,Paid
+160,Net Banking,11692,Paid
+161,Debit Card,2519.1,Refunded
+162,Net Banking,12913.35,Paid
+163,Net Banking,0,Failed
+164,Credit Card,12595,Paid
+165,Cash on Delivery,8096,Paid
+166,UPI,20308.2,Paid
+167,Debit Card,7121.2,Refunded
+168,UPI,4498,Paid
+169,Net Banking,4197,Paid
+170,Credit Card,6998,Paid
+171,Debit Card,8260.25,Refunded
+172,UPI,0,Failed
+173,Net Banking,5244,Paid
+174,Debit Card,6295,Paid
+175,Cash on Delivery,2562.15,Paid
+176,Cash on Delivery,2796,Refunded
+177,Cash on Delivery,4745.25,Paid
+178,Credit Card,0,Failed
+179,Cash on Delivery,4509.65,Paid
+180,Cash on Delivery,19493,Paid
+181,Net Banking,9803.7,Refunded
+182,Credit Card,0,Failed
+183,Cash on Delivery,14247.15,Paid
+184,Credit Card,7407.15,Paid
+185,Debit Card,7295,Refunded
+186,UPI,18891.9,Paid
+187,UPI,7788.1,Refunded
+188,UPI,11896.6,Paid
+189,Cash on Delivery,2397,Paid
+190,Debit Card,12614.85,Paid
+191,Net Banking,7647.45,Paid
+192,Net Banking,4077.45,Paid
+193,Debit Card,8454.6,Paid
+194,Net Banking,15745.5,Paid
+195,Net Banking,7560.75,Paid
+196,Net Banking,6242,Paid
+197,Credit Card,0,Failed
+198,Net Banking,16314.05,Refunded
+199,Net Banking,2164.95,Paid
+200,Debit Card,0,Failed
+201,Credit Card,5306.4,Paid
+202,UPI,5998,Paid
+203,Debit Card,5318.1,Paid
+204,Debit Card,11585.25,Paid
+205,Cash on Delivery,14665.5,Paid
+206,Net Banking,4077.45,Paid
+207,UPI,6118.2,Paid
+208,Credit Card,19343,Paid
+209,Debit Card,9441,Paid
+210,Net Banking,0,Failed
+211,Debit Card,7647.45,Paid
+212,Net Banking,18181.5,Paid
+213,Debit Card,5694,Refunded
+214,Net Banking,9430.75,Paid
+215,Net Banking,1708.1,Refunded
+216,Debit Card,0,Failed
+217,Cash on Delivery,4272.15,Refunded
+218,Debit Card,1998,Paid
+219,Cash on Delivery,0,Failed
+220,Cash on Delivery,9130.5,Paid
+221,Debit Card,7695,Refunded
+222,Credit Card,6997,Paid
+223,Debit Card,18691,Paid
+224,Debit Card,1028.05,Refunded
+225,Cash on Delivery,0,Failed
+226,Net Banking,6497,Refunded
+227,Debit Card,6996,Paid
+228,UPI,8593,Refunded
+229,Credit Card,1337.2,Paid
+230,Net Banking,7742,Paid
+231,Net Banking,0,Failed
+232,Cash on Delivery,3797,Paid
+233,Net Banking,5095.75,Paid
+234,Net Banking,2097,Refunded
+235,Net Banking,11205.25,Paid
+236,Debit Card,8997,Paid
+237,UPI,2998,Refunded
+238,Net Banking,21692,Paid
+239,UPI,0,Failed
+240,Credit Card,14144.85,Paid
+241,Net Banking,0,Failed
+242,Cash on Delivery,11196,Paid
+243,Debit Card,1798,Paid
+244,Net Banking,15472.8,Paid
+245,UPI,2338.2,Refunded
+246,Debit Card,10394.9,Paid
+247,Credit Card,5394,Paid
+248,Net Banking,4345,Refunded
+249,Credit Card,0,Failed
+250,Net Banking,978.1,Paid
+251,Cash on Delivery,2247,Paid
+252,Net Banking,0,Failed
+253,Net Banking,7993,Paid
+254,Debit Card,12913.35,Paid
+255,UPI,4126.8,Refunded
+256,UPI,0,Failed
+257,UPI,9854.9,Paid
+258,UPI,9211.2,Refunded
+259,Net Banking,9429.9,Refunded
+260,Credit Card,9264.6,Refunded
+261,Debit Card,2699.1,Refunded
+262,Debit Card,0,Failed
+263,Cash on Delivery,4649.3,Refunded
+264,Debit Card,0,Failed
+265,UPI,15342,Paid
+266,Debit Card,8817.3,Refunded
+267,Debit Card,0,Failed
+268,Net Banking,0,Failed
+269,UPI,18693,Refunded
+270,Net Banking,0,Failed
+271,UPI,800.65,Paid
+272,Cash on Delivery,0,Failed
+273,Credit Card,843.15,Paid
+274,Credit Card,5181.6,Refunded
+275,Credit Card,0,Failed
+276,Cash on Delivery,1698,Paid
+277,Debit Card,4797,Refunded
+278,Credit Card,10494,Paid
+279,Debit Card,0,Failed
+280,Net Banking,15192.4,Refunded
+281,Credit Card,0,Failed
+282,Cash on Delivery,2247,Paid
+283,Credit Card,4269.6,Paid
+284,Debit Card,9311.4,Paid
+285,Cash on Delivery,0,Failed
+286,UPI,8794,Paid
+287,Debit Card,12487.35,Paid
+288,Cash on Delivery,0,Failed
+289,Net Banking,8393,Paid
+290,Credit Card,24294,Refunded
+291,Cash on Delivery,8496.6,Paid
+292,Net Banking,10197.45,Paid
+293,Credit Card,20493,Refunded
+294,Net Banking,0,Failed
+295,Cash on Delivery,25489,Paid
+296,UPI,0,Failed
+297,Debit Card,0,Failed
+298,UPI,9175.75,Paid
+299,Net Banking,4077.45,Paid
+300,Cash on Delivery,2997,Refunded
+301,Debit Card,6539.9,Refunded
+302,Debit Card,20492,Paid
+303,UPI,14594,Paid
+304,UPI,9998,Paid
+305,Net Banking,0,Failed
+306,Net Banking,13497.3,Refunded
+307,Credit Card,0,Failed
+308,Net Banking,4749.05,Refunded
+309,UPI,0,Failed
+310,Cash on Delivery,0,Failed
+311,Debit Card,0,Failed
+312,Cash on Delivery,0,Failed
+313,Credit Card,8997,Paid
+314,UPI,0,Failed
+315,Debit Card,708.1,Paid
+316,Debit Card,10796,Paid
+317,Cash on Delivery,8903.7,Paid
+318,Cash on Delivery,9943,Paid
+319,UPI,0,Failed
+320,Debit Card,12144.6,Refunded
+321,Credit Card,12246.45,Paid
+322,Debit Card,2372.15,Paid
+323,Credit Card,3796.2,Paid
+324,Credit Card,4407.3,Paid
+325,UPI,7373.7,Refunded
+326,Debit Card,18515.5,Paid
+327,Credit Card,4712.4,Refunded
+328,Net Banking,17568.35,Refunded
+329,Debit Card,9998,Paid
+330,Credit Card,10044,Paid
+331,UPI,2969.1,Refunded
+332,UPI,8997,Paid
+333,Credit Card,6836.55,Refunded
+334,Cash on Delivery,7005.7,Paid
+335,Debit Card,0,Failed
+336,Debit Card,5997,Paid
+337,Debit Card,7984.05,Refunded
+338,UPI,12347.15,Paid
+339,Credit Card,0,Failed
+340,Credit Card,0,Failed
+341,Debit Card,11244.6,Paid
+342,UPI,2799,Refunded
+343,Credit Card,7297,Paid
+344,Net Banking,13494,Paid
+345,Net Banking,10636.2,Paid
+346,UPI,5600.25,Paid
+347,Cash on Delivery,14844.6,Paid
+348,UPI,16142.35,Paid
+349,Debit Card,0,Failed
+350,Debit Card,12248.35,Paid
+351,Debit Card,0,Failed
+352,Net Banking,17417.35,Refunded
+353,UPI,0,Failed
+354,Credit Card,7648.2,Paid
+355,UPI,15091,Paid
+356,Cash on Delivery,13861.45,Paid
+357,Cash on Delivery,3897,Paid
+358,Net Banking,15294.9,Refunded
+359,Cash on Delivery,21390,Paid
+360,Cash on Delivery,9092,Paid
+361,Debit Card,0,Failed
+362,Debit Card,1599,Paid
+363,Credit Card,0,Failed
+364,Debit Card,16293,Paid
+365,UPI,2419.65,Refunded
+366,UPI,4500.75,Paid
+367,Credit Card,7137.45,Paid
+368,Cash on Delivery,5098.3,Paid
+369,Net Banking,16524.85,Paid
+370,Net Banking,8906.4,Paid
+371,Cash on Delivery,0,Failed
+372,Debit Card,21292,Paid
+373,Credit Card,6363.1,Paid
+374,UPI,4462.15,Paid
+375,Debit Card,9006.6,Paid
+376,UPI,7647.45,Paid
+377,Debit Card,15099.3,Paid
+378,Credit Card,14140,Refunded
+379,Debit Card,2974.15,Refunded
+380,Debit Card,4272.15,Paid
+381,Cash on Delivery,1477,Paid
+382,Net Banking,27738,Paid
+383,Cash on Delivery,7050.75,Paid
+384,Debit Card,11394,Refunded
+385,Net Banking,10826.2,Paid
+386,Cash on Delivery,6457.45,Refunded
+387,Credit Card,3597.3,Paid
+388,Credit Card,13896,Refunded
+389,Net Banking,14812.4,Paid
+390,Net Banking,20340,Paid
+391,Net Banking,0,Failed
+392,UPI,15463.2,Paid
+393,Net Banking,21991,Paid
+394,Debit Card,7916.4,Refunded
+395,Debit Card,6697,Refunded
+396,Debit Card,7736.4,Paid
+397,Net Banking,3057.3,Paid
+398,Net Banking,10705.5,Paid
+399,Credit Card,3564.9,Paid
+400,Debit Card,20938.95,Refunded
+401,Cash on Delivery,16824.9,Paid
+402,Net Banking,15194,Refunded
+403,Cash on Delivery,4225.5,Paid
+404,UPI,2547.45,Paid
+405,Credit Card,12246.45,Refunded
+406,UPI,7646.4,Refunded
+407,Credit Card,4758.3,Paid
+408,UPI,14292,Paid
+409,Debit Card,4749.05,Refunded
+410,Net Banking,5998,Paid
+411,Debit Card,1352.3,Paid
+412,Cash on Delivery,0,Failed
+413,UPI,5315.25,Paid
+414,Debit Card,16094,Paid
+415,Debit Card,5307.4,Paid
+416,UPI,11556.6,Paid
+417,UPI,0,Failed
+418,Debit Card,9005.75,Paid
+419,Cash on Delivery,4843.3,Paid
+420,Debit Card,6695,Paid
+421,Net Banking,6896,Paid
+422,Net Banking,18540,Paid
+423,Debit Card,7135.75,Refunded
+424,Debit Card,7796,Refunded
+425,Debit Card,5395,Paid
+426,Net Banking,12052.8,Paid
+427,Net Banking,11213.2,Refunded
+428,Net Banking,3039.05,Paid
+429,Credit Card,0,Failed
+430,Debit Card,14315.7,Paid
+431,Cash on Delivery,928.15,Paid
+432,Debit Card,5097.45,Paid
+433,Net Banking,17691,Paid
+434,Net Banking,7844,Paid
+435,Debit Card,25101.0,Paid
+436,Cash on Delivery,7441,Paid
+437,UPI,0,Failed
+438,Cash on Delivery,1992.15,Refunded
+439,UPI,15292,Paid
+440,Cash on Delivery,25073.35,Refunded
+441,Cash on Delivery,1477,Paid
+442,Credit Card,800.65,Refunded
+443,Credit Card,13894,Paid
+444,UPI,24596.45,Paid
+445,Net Banking,6202.8,Paid
+446,Debit Card,2878.2,Paid
+447,Cash on Delivery,5505.25,Paid
+448,Debit Card,10644,Paid
+449,UPI,758.15,Paid
+450,Cash on Delivery,14095,Refunded
+451,Net Banking,7497,Paid
+452,Net Banking,9498.1,Paid
+453,UPI,20228.35,Paid
+454,Cash on Delivery,23093,Paid
+455,Cash on Delivery,3499,Paid
+456,Credit Card,12345.25,Paid
+457,UPI,10343.7,Paid
+458,Net Banking,21493,Refunded
+459,Debit Card,8997,Paid
+460,Credit Card,8395,Refunded
+461,Net Banking,1992.15,Paid
+462,Net Banking,8397,Paid
+463,Net Banking,0,Failed
+464,UPI,10446.2,Refunded
+465,Cash on Delivery,0,Failed
+466,Credit Card,20178.0,Paid
+467,Net Banking,2598,Paid
+468,UPI,20491,Paid
+469,Credit Card,6296.4,Paid
+470,UPI,0,Failed
+471,Debit Card,9516.6,Paid
+472,Net Banking,4198,Paid
+473,Net Banking,2998,Paid
+474,Cash on Delivery,3897,Paid
+475,Cash on Delivery,0,Failed
+476,Credit Card,4587.3,Refunded
+477,Credit Card,0,Failed
+478,UPI,10026.6,Paid
+479,Credit Card,19032.35,Paid
+480,Credit Card,16692,Paid
+481,Net Banking,0,Failed
+482,Credit Card,0,Failed
+483,Credit Card,3798.1,Refunded
+484,Net Banking,0,Failed
+485,Cash on Delivery,4748.1,Refunded
+486,Debit Card,8751.6,Paid
+487,Cash on Delivery,17940,Paid
+488,Credit Card,2292.45,Paid
+489,UPI,15207.35,Paid
+490,Net Banking,0,Failed
+491,Credit Card,3056.4,Paid
+492,UPI,8094.6,Paid
+493,Cash on Delivery,9892.8,Paid
+494,Debit Card,0,Failed
+495,Credit Card,12742,Paid
+496,Cash on Delivery,0,Failed
+497,Debit Card,6541.6,Paid
+498,Cash on Delivery,5098.3,Paid
+499,UPI,12774.6,Paid
+500,Net Banking,8997,Paid
+501,UPI,0,Failed
+502,Net Banking,1577,Refunded
+503,Debit Card,13594,Paid
+504,Net Banking,0,Failed
+505,UPI,14052.4,Refunded
+506,Net Banking,12692,Paid
+507,Debit Card,4797,Paid
+508,UPI,18293,Paid
+509,UPI,0,Failed
+510,Debit Card,13995,Paid
+511,Credit Card,13849.05,Paid
+512,Debit Card,9305.25,Paid
+513,Net Banking,13223.7,Paid
+514,Cash on Delivery,10194.9,Paid
+515,Credit Card,15953.35,Paid
+516,Credit Card,6796,Paid
+517,UPI,12144,Paid
+518,Cash on Delivery,8922.45,Paid
+519,UPI,4998,Paid
+520,Debit Card,0,Failed
+521,UPI,1485.8,Paid
+522,Cash on Delivery,4096,Paid
+523,Net Banking,5217.3,Refunded
+524,Debit Card,8354.3,Paid
+525,Cash on Delivery,5398.2,Paid
+526,UPI,2996,Paid
+527,Net Banking,2697,Paid
+528,Cash on Delivery,5398.2,Paid
+529,Debit Card,11874.6,Paid
+530,UPI,11292,Refunded
+531,Net Banking,7296,Refunded
+532,Net Banking,0,Failed
+533,UPI,5170.5,Paid
+534,Net Banking,37089,Paid
+535,Net Banking,8591,Paid
+536,Debit Card,0,Failed
+537,UPI,9684.3,Refunded
+538,UPI,6195,Refunded
+539,Debit Card,6941,Refunded
+540,Debit Card,0,Failed
+541,Credit Card,7389.9,Paid
+542,Net Banking,0,Failed
+543,Cash on Delivery,7405.25,Paid
+544,Credit Card,0,Failed
+545,Debit Card,13044,Refunded
+546,Debit Card,3695,Paid
+547,Credit Card,2999,Paid
+548,Cash on Delivery,0,Failed
+549,Cash on Delivery,3324.05,Paid
+550,Credit Card,8997,Paid
+551,Cash on Delivery,6834.3,Paid
+552,Cash on Delivery,20798.35,Paid
+553,Net Banking,7557.3,Refunded
+554,UPI,10193,Paid
+555,Debit Card,0,Failed
+556,Debit Card,12142.8,Paid
+557,Debit Card,11468.2,Paid
+558,Debit Card,9197,Paid
+559,Debit Card,10119.6,Paid
+560,Net Banking,4797,Paid
+561,Credit Card,7262.4,Paid
+562,Debit Card,14020.75,Paid
+563,Net Banking,0,Failed
+564,Net Banking,7466.4,Paid
+565,Debit Card,11776.2,Paid
+566,Net Banking,9401.2,Paid
+567,Net Banking,8343,Refunded
+568,Cash on Delivery,0,Failed
+569,Credit Card,5316.2,Paid
+570,Credit Card,14304.6,Paid
+571,Net Banking,11675.5,Paid
+572,UPI,3898,Paid
+573,Net Banking,4797,Paid
+574,Cash on Delivery,7495,Paid
+575,Net Banking,8994,Refunded
+576,UPI,2659.05,Paid
+577,Net Banking,17542.8,Paid
+578,Credit Card,28491,Paid
+579,Net Banking,6372.45,Paid
+580,UPI,30591,Paid
+581,Net Banking,6895,Paid
+582,Cash on Delivery,0,Failed
+583,UPI,4202.4,Refunded
+584,Cash on Delivery,8306.8,Paid
+585,UPI,1427.2,Paid
+586,Credit Card,5035.5,Paid
+587,Credit Card,17492,Paid
+588,UPI,2397,Refunded
+589,Debit Card,22670.1,Refunded
+590,UPI,5997,Paid
+591,Net Banking,1502.1,Refunded
+592,Net Banking,12396,Paid
+593,Cash on Delivery,0,Failed
+594,Cash on Delivery,6292.8,Paid
+595,Debit Card,8892,Refunded
+596,Cash on Delivery,4981.8,Paid
+597,Net Banking,20691,Paid
+598,Debit Card,0,Failed
+599,UPI,6972.3,Paid
+600,Cash on Delivery,16737.35,Paid
+601,Credit Card,16242,Paid
+602,Credit Card,9642,Paid
+603,Debit Card,11785.5,Paid
+604,UPI,0,Failed
+605,Net Banking,0,Failed
+606,Cash on Delivery,8997,Paid
+607,Net Banking,16092,Refunded
+608,Credit Card,0,Failed
+609,Debit Card,15763.25,Paid
+610,Cash on Delivery,0,Failed
+611,UPI,5438.3,Refunded
+612,Credit Card,6625.75,Refunded
+613,Credit Card,7137.45,Paid
+614,UPI,8634.6,Paid
+615,Credit Card,0,Failed
+616,Credit Card,14342,Refunded
+617,Debit Card,6596.8,Paid
+618,Debit Card,6647.15,Paid
+619,UPI,1477,Paid
+620,Net Banking,0,Failed
+621,UPI,0,Failed
+622,Cash on Delivery,0,Failed
+623,Net Banking,9388.25,Paid
+624,Net Banking,933.05,Paid
+625,Debit Card,0,Failed
+626,Cash on Delivery,5596,Paid
+627,Debit Card,3198,Refunded
+628,Cash on Delivery,3499,Paid
+629,UPI,0,Failed
+630,Debit Card,7593,Paid
+631,Cash on Delivery,10496,Refunded
+632,Credit Card,9117.15,Paid
+633,Credit Card,0,Failed
+634,Credit Card,8997,Paid
+635,Debit Card,3747.75,Paid
+636,UPI,18194,Paid
+637,Net Banking,4044.6,Paid
+638,Debit Card,9597,Paid
+639,Net Banking,6596,Paid
+640,Debit Card,12595.5,Paid
+641,Debit Card,12595,Refunded
+642,Credit Card,0,Failed
+643,Cash on Delivery,0,Failed
+644,Debit Card,2397,Paid
+645,Cash on Delivery,10748.7,Refunded
+646,UPI,13043.7,Paid
+647,Debit Card,8155.75,Paid
+648,UPI,16095,Paid
+649,Credit Card,19092,Paid
+650,Net Banking,0,Failed
+651,Cash on Delivery,17361.9,Paid
+652,Cash on Delivery,2547,Paid
+653,Credit Card,8692,Refunded
+654,Debit Card,15144.9,Paid
+655,Net Banking,13494,Refunded
+656,Net Banking,2519.1,Paid
+657,UPI,0,Failed
+658,Net Banking,9307.15,Paid
+659,Debit Card,10995,Paid
+660,Debit Card,1999,Paid
+661,UPI,6362.15,Paid
+662,Net Banking,2659.05,Refunded
+663,Debit Card,13483.35,Paid
+664,UPI,3897,Paid
+665,Debit Card,0,Failed
+666,Cash on Delivery,5663.7,Paid
+667,Debit Card,18517.4,Paid
+668,Cash on Delivery,6250.5,Paid
+669,Credit Card,7464.6,Paid
+670,UPI,4494,Paid
+671,Debit Card,0,Failed
+672,Debit Card,1992.15,Refunded
+673,Credit Card,0,Failed
+674,Net Banking,4839.9,Refunded
+675,UPI,5860.75,Paid
+676,Net Banking,7105.5,Paid
+677,Credit Card,1078,Paid
+678,Debit Card,0,Failed
+679,Credit Card,4249.15,Paid
+680,Credit Card,11596,Paid
+681,Credit Card,4497,Paid
+682,Net Banking,3795,Paid
+683,Credit Card,12828.2,Paid
+684,Net Banking,5998,Paid
+685,Net Banking,0,Failed
+686,Debit Card,21693,Paid
+687,Cash on Delivery,5938.2,Refunded
+688,Net Banking,19794,Paid
+689,Credit Card,16244,Refunded
+690,Credit Card,11297.4,Paid
+691,Debit Card,10995,Paid
+692,UPI,708.1,Paid
+693,Net Banking,8547.15,Refunded
+694,UPI,2498,Paid
+695,Credit Card,1078,Paid
+696,Credit Card,10693,Paid
+697,UPI,8547.15,Paid
+698,Cash on Delivery,8878.7,Paid
+699,Credit Card,0,Failed
+700,Net Banking,15113.7,Refunded
+701,UPI,0,Failed
+702,Net Banking,3324.05,Paid
+703,Net Banking,2547.45,Paid
+704,UPI,1502.1,Paid
+705,Cash on Delivery,2997,Paid
+706,Credit Card,8194,Paid
+707,Debit Card,8095.5,Paid
+708,Debit Card,6495,Paid
+709,Net Banking,28889,Paid
+710,Net Banking,7260.85,Paid
+711,Cash on Delivery,9196,Paid
+712,UPI,17591,Paid
+713,Net Banking,8542,Paid
+714,Debit Card,24490,Paid
+715,Net Banking,1248.1,Paid
+716,Debit Card,19285.65,Paid
+717,Debit Card,1998,Paid
+718,Cash on Delivery,7107.3,Refunded
+719,Credit Card,9496,Paid
+720,Credit Card,14896,Paid
+721,UPI,0,Failed
+722,Net Banking,978.1,Paid
+723,Credit Card,1078,Paid
+724,Debit Card,0,Failed
+725,Credit Card,14168.7,Paid
+726,Cash on Delivery,0,Failed
+727,Credit Card,17542.8,Refunded
+728,UPI,0,Failed
+729,Credit Card,5244,Paid
+730,Credit Card,26792,Refunded
+731,UPI,21052.8,Paid
+732,Cash on Delivery,15876.0,Refunded
+733,UPI,1599,Paid
+734,UPI,19373.35,Paid
+735,Net Banking,22640,Paid
+736,UPI,10094,Paid
+737,Net Banking,1782.45,Refunded
+738,Credit Card,32190,Refunded
+739,Net Banking,4856.4,Paid
+740,Cash on Delivery,0,Failed
+741,Debit Card,9895.5,Paid
+742,Credit Card,10494,Refunded
+743,Credit Card,2338.2,Paid
+744,UPI,11392,Refunded
+745,Debit Card,12145.5,Paid
+746,Net Banking,1378,Paid
+747,Cash on Delivery,24975.5,Paid
+748,Cash on Delivery,10195.75,Refunded
+749,Credit Card,0,Failed
+750,Cash on Delivery,23192,Paid
+751,Debit Card,0,Failed
+752,Credit Card,0,Failed
+753,Credit Card,10097,Paid
+754,Credit Card,14033.7,Paid
+755,Debit Card,25189,Refunded
+756,UPI,0,Failed
+757,Net Banking,673.15,Paid
+758,Credit Card,4856.4,Paid
+759,Debit Card,0,Failed
+760,Cash on Delivery,7477.45,Paid
+761,Cash on Delivery,8770.5,Paid
+762,Cash on Delivery,8095.5,Refunded
+763,UPI,7786.2,Refunded
+764,UPI,14997,Paid
+765,Credit Card,2037.45,Paid
+766,Credit Card,2549.15,Refunded
+767,Credit Card,6794.9,Refunded
+768,Debit Card,9595,Paid
+769,Debit Card,0,Failed
+770,UPI,15572.4,Refunded
+771,Net Banking,3998,Paid
+772,UPI,7421.4,Paid
+773,Credit Card,8814.6,Refunded
+774,Credit Card,16293,Refunded
+775,Net Banking,28593,Paid
+776,Credit Card,15654.6,Refunded
+777,Cash on Delivery,7869.6,Paid
+778,Credit Card,7815.75,Paid
+779,Cash on Delivery,11495,Paid
+780,Debit Card,0,Failed
+781,Debit Card,0,Failed
+782,Debit Card,8068.35,Paid
+783,Credit Card,10492.75,Paid
+784,Net Banking,0,Failed
+785,Debit Card,743.05,Paid
+786,Credit Card,0,Failed
+787,Cash on Delivery,0,Failed
+788,Debit Card,8072.45,Paid
+789,Cash on Delivery,13391,Paid
+790,Net Banking,8907.3,Paid
+791,UPI,12892,Paid
+792,Cash on Delivery,1352.3,Refunded
+793,Debit Card,16995,Refunded
+794,Cash on Delivery,5596,Paid
+795,Cash on Delivery,12414.6,Refunded
+796,UPI,15039.9,Paid
+797,Cash on Delivery,8396,Paid
+798,Credit Card,10294,Paid
+799,Credit Card,17164.9,Refunded
+800,Net Banking,13987.8,Paid
+801,Debit Card,2999,Refunded
+802,UPI,1992.15,Paid
+803,Cash on Delivery,0,Failed
+804,Credit Card,0,Failed
+805,UPI,6296,Refunded
+806,Net Banking,0,Failed
+807,Debit Card,12057.4,Refunded
+808,Net Banking,7737.3,Paid
+809,Debit Card,10541.2,Paid
+810,Cash on Delivery,12744.05,Paid
+811,Credit Card,13640,Paid
+812,Credit Card,7216.2,Paid
+813,Net Banking,0,Failed
+814,UPI,3312.45,Paid
+815,Credit Card,7645.5,Paid
+816,Debit Card,12592,Paid
+817,Credit Card,800.65,Refunded
+818,Debit Card,6944,Paid
+819,Cash on Delivery,9997,Paid
+820,Credit Card,17724.6,Paid
+821,Credit Card,6595,Paid
+822,Cash on Delivery,0,Failed
+823,Credit Card,10364.9,Paid
+824,UPI,4758.3,Paid
+825,Credit Card,19693,Paid
+826,Debit Card,4074.9,Paid
+827,Net Banking,20223.2,Paid
+828,Debit Card,888.1,Paid
+829,Net Banking,10444.3,Paid
+830,Debit Card,1998,Paid
+831,Debit Card,0,Failed
+832,UPI,14043,Paid
+833,UPI,1798.2,Paid
+834,UPI,0,Failed
+835,Debit Card,14493,Paid
+836,Credit Card,2698.2,Paid
+837,Debit Card,16544,Refunded
+838,Debit Card,5128.2,Paid
+839,Net Banking,17671.5,Paid
+840,Debit Card,0,Failed
+841,Net Banking,14491,Paid
+842,Credit Card,2606.4,Paid
+843,Debit Card,0,Failed
+844,UPI,14525.5,Paid
+845,Debit Card,10885.5,Paid
+846,Cash on Delivery,9645,Paid
+847,UPI,8157.45,Refunded
+848,Net Banking,12233.7,Paid
+849,UPI,4045.5,Paid
+850,Cash on Delivery,19394,Paid
+851,UPI,0,Failed
+852,UPI,8276.4,Refunded
+853,Credit Card,0,Failed
+854,Credit Card,2419.95,Paid
+855,Net Banking,18493,Paid
+856,Net Banking,15695,Paid
+857,Debit Card,19492,Paid
+858,Net Banking,2468.1,Refunded
+859,Credit Card,11214.05,Paid
+860,UPI,2799,Paid
+861,Net Banking,17247.35,Paid
+862,Net Banking,8185.5,Paid
+863,Debit Card,15099.3,Refunded
+864,Net Banking,1352.3,Paid
+865,Credit Card,18094,Paid
+866,Debit Card,3998,Paid
+867,Credit Card,5436.6,Paid
+868,Net Banking,2697.3,Paid
+869,Debit Card,5605.75,Paid
+870,UPI,6160.5,Paid
+871,Net Banking,4998,Paid
+872,Net Banking,14032.8,Paid
+873,UPI,1999,Paid
+874,Debit Card,23791,Refunded
+875,Net Banking,1267.3,Paid
+876,Cash on Delivery,20290,Paid
+877,Debit Card,11092,Refunded
+878,UPI,5847,Refunded
+879,Cash on Delivery,2632.45,Paid
+880,Net Banking,1945.6,Paid
+881,Credit Card,14591,Paid
+882,UPI,3039.05,Paid
+883,Net Banking,6495,Paid
+884,Debit Card,15990,Paid
+885,UPI,7844,Paid
+886,Credit Card,743.05,Paid
+887,Debit Card,8545.25,Paid
+888,Net Banking,12747.45,Paid
+889,Net Banking,15995,Paid
+890,Cash on Delivery,14997,Paid
+891,Debit Card,1868.3,Paid
+892,Net Banking,4887.75,Paid
+893,Cash on Delivery,15292.35,Refunded
+894,Credit Card,0,Failed
+895,Net Banking,0,Failed
+896,Cash on Delivery,12395,Refunded
+897,Debit Card,0,Failed
+898,Cash on Delivery,13255.75,Refunded
+899,UPI,1439.1,Paid
+900,Debit Card,10593,Paid
+901,Net Banking,0,Failed
+902,Debit Card,9854.05,Paid
+903,Credit Card,3992.45,Paid
+904,Cash on Delivery,0,Failed
+905,UPI,7518.25,Paid
+906,Cash on Delivery,4457.4,Paid
+907,UPI,10795.5,Paid
+908,Debit Card,8397,Refunded
+909,UPI,2547.45,Paid
+910,Cash on Delivery,0,Failed
+911,Credit Card,3846,Paid
+912,Debit Card,0,Failed
+913,Credit Card,878,Refunded
+914,Cash on Delivery,0,Failed
+915,Cash on Delivery,7494,Paid
+916,Debit Card,22692,Paid
+917,Net Banking,31339.55,Refunded
+918,Cash on Delivery,13693,Refunded
+919,Cash on Delivery,8835.75,Paid
+920,Net Banking,3866.4,Paid
+921,Net Banking,13497.3,Paid
+922,Net Banking,10497,Paid
+923,Credit Card,9895.5,Paid
+924,Net Banking,8895,Paid
+925,Credit Card,0,Failed
+926,Net Banking,2379.15,Paid
+927,UPI,8005.5,Paid
+928,Debit Card,0,Failed
+929,Cash on Delivery,21753.2,Paid
+930,UPI,1898.1,Paid
+931,Credit Card,26092,Paid
+932,Cash on Delivery,0,Failed
+933,Net Banking,0,Failed
+934,Net Banking,8412.45,Paid
+935,UPI,0,Failed
+936,Cash on Delivery,6897,Paid
+937,UPI,0,Failed
+938,Credit Card,19373.35,Paid
+939,Credit Card,4248.3,Paid
+940,Credit Card,10635.25,Paid
+941,Cash on Delivery,0,Failed
+942,Credit Card,2183.1,Paid
+943,UPI,15476.45,Refunded
+944,UPI,5398.2,Paid
+945,Debit Card,13006.45,Refunded
+946,Cash on Delivery,5943,Paid
+947,Credit Card,0,Failed
+948,UPI,8183.7,Refunded
+949,Debit Card,11012.4,Refunded
+950,UPI,23031.9,Paid
+951,Credit Card,0,Failed
+952,Credit Card,0,Failed
+953,UPI,2097,Paid
+954,Net Banking,5011.6,Refunded
+955,Credit Card,6739.3,Paid
+956,Debit Card,6994,Paid
+957,Debit Card,0,Failed
+958,Net Banking,5996,Paid
+959,Net Banking,14823.15,Paid
+960,UPI,0,Failed
+961,Cash on Delivery,9354.6,Paid
+962,Credit Card,0,Failed
+963,Cash on Delivery,4498.2,Paid
+964,Debit Card,4678.2,Paid
+965,UPI,2699.1,Paid
+966,UPI,0,Failed
+967,Net Banking,0,Failed
+968,UPI,21490,Refunded
+969,Credit Card,36989,Refunded
+970,Net Banking,0,Failed
+971,Net Banking,0,Failed
+972,Credit Card,2847.15,Paid
+973,UPI,0,Failed
+974,Net Banking,18691,Paid
+975,UPI,2697,Paid
+976,Credit Card,21746.45,Paid
+977,Cash on Delivery,1999,Refunded
+978,Cash on Delivery,14893,Paid
+979,Cash on Delivery,28611.0,Paid
+980,Net Banking,0,Failed
+981,Net Banking,9792,Paid
+982,Credit Card,4047.3,Refunded
+983,Net Banking,8795,Paid
+984,Debit Card,13994,Refunded
+985,UPI,13393,Paid
+986,Debit Card,3998,Paid
+987,Cash on Delivery,790.55,Refunded
+988,Credit Card,11876.4,Refunded
+989,UPI,1427.2,Paid
+990,Net Banking,10076.4,Paid
+991,Cash on Delivery,12641,Paid
+992,Credit Card,0,Failed
+993,Cash on Delivery,11961.45,Paid
+994,Net Banking,11293,Paid
+995,Net Banking,14295,Refunded
+996,Credit Card,11867.4,Paid
+997,Debit Card,0,Failed
+998,Net Banking,0,Failed
+999,UPI,4499.1,Refunded
+1000,Debit Card,10634.3,Refunded
+1001,Cash on Delivery,13794,Paid
+1002,Debit Card,27491,Paid
+1003,Credit Card,4797,Paid
+1004,Cash on Delivery,9447.3,Paid
+1005,Net Banking,0,Failed
+1006,Credit Card,6545,Paid
+1007,Cash on Delivery,4032.75,Paid
+1008,Credit Card,15294,Refunded
+1009,Debit Card,9985.5,Paid
+1010,Cash on Delivery,0,Failed
+1011,UPI,2846.2,Paid
+1012,Net Banking,2848.1,Paid
+1013,Cash on Delivery,22292,Paid
+1014,Net Banking,7329.6,Paid
+1015,Cash on Delivery,978.1,Paid
+1016,Cash on Delivery,6998,Paid
+1017,UPI,2968.2,Paid
+1018,Credit Card,7977.15,Paid
+1019,UPI,0,Failed
+1020,Debit Card,9998,Paid
+1021,UPI,8355.25,Paid
+1022,UPI,1998,Refunded
+1023,UPI,9396,Paid
+1024,Debit Card,14694,Paid
+1025,Credit Card,9306.2,Paid
+1026,Net Banking,10449.05,Paid
+1027,Cash on Delivery,1998,Paid
+1028,Cash on Delivery,19792,Paid
+1029,Credit Card,13628.7,Paid
+1030,Net Banking,0,Failed
+1031,Credit Card,3992.45,Paid
+1032,Cash on Delivery,0,Failed
+1033,Net Banking,2997,Paid
+1034,Debit Card,0,Failed
+1035,Credit Card,5508.1,Paid
+1036,Credit Card,18294,Paid
+1037,Net Banking,12660.75,Paid
+1038,Net Banking,14528.35,Paid
+1039,UPI,14444.05,Paid
+1040,Debit Card,3898,Paid
+1041,Net Banking,6836.4,Refunded
+1042,UPI,15741.9,Paid
+1043,UPI,0,Failed
+1044,UPI,6834.6,Paid
+1045,UPI,13057.75,Refunded
+1046,Debit Card,5519.9,Paid
+1047,Credit Card,16011.9,Paid
+1048,Cash on Delivery,3056.4,Paid
+1049,Credit Card,5598,Paid
+1050,Net Banking,0,Failed
+1051,Cash on Delivery,878,Paid
+1052,Net Banking,0,Failed
+1053,Debit Card,0,Failed
+1054,Credit Card,16291,Paid
+1055,Net Banking,11680.7,Paid
+1056,Cash on Delivery,18593,Paid
+1057,Debit Card,13509.05,Paid
+1058,Cash on Delivery,22317.4,Refunded
+1059,Credit Card,0,Failed
+1060,UPI,12721.45,Paid
+1061,Net Banking,3775.5,Refunded
+1062,Net Banking,18291,Paid
+1063,Cash on Delivery,4246.6,Paid
+1064,Credit Card,8397,Paid
+1065,Debit Card,8725.5,Paid
+1066,Credit Card,8597,Refunded
+1067,Credit Card,19091,Refunded
+1068,Cash on Delivery,19790,Paid
+1069,Net Banking,19566.0,Paid
+1070,Debit Card,8998.2,Paid
+1071,Net Banking,8397,Paid
+1072,Cash on Delivery,17473.35,Paid
+1073,Cash on Delivery,2230.6,Paid
+1074,Credit Card,15293,Paid
+1075,Cash on Delivery,12595,Refunded
+1076,Net Banking,0,Failed
+1077,Credit Card,0,Failed
+1078,Net Banking,5938.2,Refunded
+1079,UPI,10256.4,Refunded
+1080,Cash on Delivery,5948.3,Paid
+1081,Credit Card,4989.6,Refunded
+1082,Credit Card,9897,Paid
+1083,Cash on Delivery,3696,Paid
+1084,Net Banking,6598,Refunded
+1085,Cash on Delivery,0,Failed
+1086,Cash on Delivery,6657.3,Paid
+1087,Cash on Delivery,6155.7,Paid
+1088,Debit Card,7600.5,Paid
+1089,Cash on Delivery,4368.1,Refunded
+1090,Credit Card,7196.4,Paid
+1091,Net Banking,4601.8,Paid
+1092,Net Banking,16373.7,Paid
+1093,Credit Card,5296,Paid
+1094,Debit Card,5038.2,Paid
+1095,Net Banking,10873.2,Paid
+1096,Cash on Delivery,16808.35,Refunded
+1097,Credit Card,13095,Paid
+1098,Cash on Delivery,0,Failed
+1099,Debit Card,0,Failed
+1100,Debit Card,8737.15,Paid
+1101,Net Banking,2699.1,Paid
+1102,Cash on Delivery,0,Failed
+1103,UPI,14188.2,Paid
+1104,Debit Card,15691,Paid
+1105,UPI,13356.9,Paid
+1106,Cash on Delivery,13392,Paid
+1107,UPI,0,Failed
+1108,Credit Card,3512.15,Paid
+1109,UPI,8815.5,Paid
+1110,Cash on Delivery,12022.4,Paid
+1111,Debit Card,2292.45,Paid
+1112,Debit Card,1427.2,Paid
+1113,Credit Card,11298.35,Paid
+1114,Credit Card,15994,Paid
+1115,Debit Card,10497,Paid
+1116,Credit Card,24291,Paid
+1117,UPI,7466.4,Paid
+1118,Net Banking,0,Failed
+1119,Debit Card,11384.05,Paid
+1120,UPI,10194,Paid
+1121,Credit Card,1028.05,Paid
+1122,Cash on Delivery,5593,Refunded
+1123,Credit Card,3299,Paid
+1124,Net Banking,5860.75,Paid
+1125,Cash on Delivery,9353.7,Paid
+1126,UPI,11393,Paid
+1127,Cash on Delivery,0,Failed
+1128,Cash on Delivery,15099.3,Paid
+1129,Credit Card,0,Failed
+1130,Credit Card,12747.45,Paid
+1131,Cash on Delivery,7556.4,Paid
+1132,Debit Card,4757.45,Paid
+1133,Net Banking,18533.7,Paid
+1134,Net Banking,1998,Paid
+1135,UPI,18777.35,Paid
+1136,UPI,10823.35,Paid
+1137,Cash on Delivery,15719.9,Paid
+1138,Cash on Delivery,16378.0,Refunded
+1139,Net Banking,10874.9,Paid
+1140,Cash on Delivery,2292.45,Paid
+1141,Net Banking,7559.05,Refunded
+1142,UPI,6429.6,Paid
+1143,Debit Card,7309.3,Refunded
+1144,Credit Card,24027.4,Paid
+1145,Debit Card,23190,Paid
+1146,Net Banking,5098.3,Refunded
+1147,Credit Card,11545,Paid
+1148,Credit Card,18942,Refunded
+1149,Cash on Delivery,10919.3,Refunded
+1150,Debit Card,2997,Paid
+1151,Credit Card,4545,Refunded
+1152,Cash on Delivery,0,Failed
+1153,Debit Card,4415.75,Refunded
+1154,Net Banking,1443.3,Refunded
+1155,Cash on Delivery,0,Failed
+1156,Debit Card,23391,Paid
+1157,Net Banking,9514.05,Refunded
+1158,Cash on Delivery,11841,Paid
+1159,UPI,4497,Paid
+1160,UPI,10896,Refunded
+1161,Net Banking,2208.3,Paid
+1162,Credit Card,12157.15,Paid
+1163,UPI,3513.1,Paid
+1164,UPI,800.65,Paid
+1165,Debit Card,3598.2,Paid
+1166,Debit Card,5996,Paid
+1167,UPI,13136.4,Paid
+1168,Credit Card,9004.05,Paid
+1169,Net Banking,0,Failed
+1170,Credit Card,0,Failed
+1171,Cash on Delivery,1428.1,Paid
+1172,Debit Card,6342,Refunded
+1173,Net Banking,6295,Paid
+1174,Cash on Delivery,0,Failed
+1175,Debit Card,8895,Refunded
+1176,UPI,20041,Refunded
+1177,Cash on Delivery,6598,Paid
+1178,Credit Card,2753.1,Paid
+1179,Credit Card,2549.15,Paid
+1180,Net Banking,10974.6,Paid
+1181,Credit Card,0,Failed
+1182,UPI,1248.1,Refunded
+1183,UPI,10728.35,Refunded
+1184,Credit Card,1477,Paid
+1185,Credit Card,978.1,Paid
+1186,Credit Card,12871.55,Paid
+1187,Credit Card,5698.1,Paid
+1188,Debit Card,5998,Refunded
+1189,Credit Card,9197,Refunded
+1190,Net Banking,3498,Paid
+1191,Credit Card,4298,Refunded
+1192,Cash on Delivery,10252.8,Paid
+1193,Net Banking,0,Failed
+1194,Net Banking,4397,Paid
+1195,Net Banking,11782.8,Paid
+1196,Credit Card,14343,Paid
+1197,Net Banking,10093,Paid
+1198,Cash on Delivery,15293.7,Refunded
+1199,Cash on Delivery,9496.2,Refunded
+1200,Credit Card,0,Failed
+1201,UPI,0,Failed
+1202,Cash on Delivery,10541.2,Paid
+1203,Net Banking,20094,Paid
+1204,Net Banking,6025.5,Paid
+1205,Debit Card,14785.75,Paid
+1206,Debit Card,4249.15,Paid
+1207,Cash on Delivery,9496.2,Refunded
+1208,Debit Card,0,Failed
+1209,UPI,5575.5,Paid
+1210,Net Banking,0,Failed
+1211,Credit Card,16713.35,Paid
+1212,UPI,0,Failed
+1213,Credit Card,0,Failed
+1214,Debit Card,5046,Paid
+1215,Credit Card,0,Failed
+1216,Debit Card,12056.4,Refunded
+1217,Credit Card,19656.0,Paid
+1218,Credit Card,19593,Paid
+1219,Debit Card,4404.6,Paid
+1220,UPI,0,Failed
+1221,Net Banking,1698,Refunded
+1222,Net Banking,0,Failed
+1223,Net Banking,6075.25,Paid
+1224,Debit Card,17992,Paid
+1225,Credit Card,2397,Paid
+1226,Debit Card,10894,Paid
+1227,UPI,5455.85,Paid
+1228,UPI,0,Failed
+1229,Debit Card,6880.85,Paid
+1230,Credit Card,7015.5,Paid
+1231,Credit Card,6454.05,Paid
+1232,Debit Card,9089.05,Paid
+1233,Debit Card,0,Failed
+1234,Net Banking,4758.3,Paid
+1235,UPI,11171.55,Paid
+1236,Credit Card,7214.3,Paid
+1237,Cash on Delivery,24890,Refunded
+1238,UPI,16993,Paid
+1239,Debit Card,10256.4,Paid
+1240,Net Banking,19893,Paid
+1241,UPI,6646.2,Paid
+1242,Credit Card,1427.2,Paid
+1243,UPI,778,Paid
+1244,Credit Card,4398,Paid
+1245,Cash on Delivery,13536.9,Paid
+1246,UPI,2847.15,Paid
+1247,Cash on Delivery,23739.55,Paid
+1248,Net Banking,12392.75,Paid
+1249,Cash on Delivery,18993,Refunded
+1250,Debit Card,14954.05,Paid
+1251,Debit Card,9537.3,Paid
+1252,Cash on Delivery,5594,Paid
+1253,Credit Card,16196,Paid
+1254,Debit Card,1477,Paid
+1255,Net Banking,23391,Paid
+1256,Debit Card,11964.3,Refunded
+1257,UPI,12685.5,Paid
+1258,Credit Card,27441.0,Paid
+1259,Cash on Delivery,10596,Paid
+1260,Debit Card,7307.45,Paid
+1261,Net Banking,12294.9,Paid
+1262,Net Banking,14812.4,Paid
+1263,Debit Card,15093,Paid
+1264,UPI,8996.4,Paid
+1265,UPI,0,Failed
+1266,Cash on Delivery,4367.15,Refunded
+1267,Credit Card,5995,Paid
+1268,UPI,3497,Refunded
+1269,Debit Card,5297,Paid
+1270,UPI,4498.2,Refunded
+1271,Cash on Delivery,10025.75,Paid
+1272,Debit Card,0,Failed
+1273,Net Banking,8492,Paid
+1274,Net Banking,0,Failed
+1275,Net Banking,4758.3,Paid
+1276,Cash on Delivery,6995,Paid
+1277,Debit Card,0,Failed
+1278,Credit Card,0,Failed
+1279,Debit Card,9497,Refunded
+1280,Credit Card,4498,Paid
+1281,Net Banking,14339,Paid
+1282,Credit Card,0,Failed
+1283,Net Banking,1078,Paid
+1284,Debit Card,14594,Paid
+1285,Cash on Delivery,828,Paid
+1286,Net Banking,8816.4,Paid
+1287,Cash on Delivery,8997,Paid
+1288,Debit Card,4595,Paid
+1289,Net Banking,24391,Paid
+1290,Net Banking,3496,Refunded
+1291,Debit Card,0,Failed
+1292,Net Banking,11693.7,Refunded
+1293,Debit Card,0,Failed
+1294,Debit Card,5930.85,Paid
+1295,Cash on Delivery,16143.35,Paid
+1296,Cash on Delivery,0,Failed
+1297,Cash on Delivery,5496,Paid
+1298,Debit Card,14696.5,Refunded
+1299,UPI,8097.3,Paid
+1300,Net Banking,6292,Paid
+1301,UPI,11395,Paid
+1302,UPI,1783.3,Paid
+1303,Cash on Delivery,4585.75,Refunded
+1304,Credit Card,7395,Paid
+1305,Cash on Delivery,0,Failed
+1306,Credit Card,2377.45,Paid
+1307,Net Banking,2847.15,Paid
+1308,Net Banking,9085.5,Paid
+1309,Net Banking,1477,Paid
+1310,Net Banking,14784.05,Paid
+1311,Cash on Delivery,10254.6,Paid
+1312,Cash on Delivery,0,Failed
+1313,Debit Card,11868.35,Paid
+1314,UPI,0,Failed
+1315,Debit Card,673.15,Refunded
+1316,Credit Card,13394,Paid
+1317,Credit Card,0,Failed
+1318,Cash on Delivery,2598,Paid
+1319,Debit Card,3698,Paid
+1320,UPI,2999,Paid
+1321,Credit Card,0,Failed
+1322,Debit Card,2999,Paid
+1323,Debit Card,16999.2,Paid
+1324,Debit Card,12726.2,Paid
+1325,Net Banking,7796,Paid
+1326,Credit Card,0,Failed
+1327,UPI,10345,Paid
+1328,UPI,13131.9,Paid
+1329,Debit Card,0,Failed
+1330,Cash on Delivery,18613.35,Refunded
+1331,Cash on Delivery,0,Failed
+1332,Net Banking,5698.1,Refunded
+1333,UPI,10996,Paid
+1334,UPI,20290,Paid
+1335,Debit Card,15923.7,Refunded
+1336,Cash on Delivery,0,Failed
+1337,Cash on Delivery,5316.2,Paid
+1338,Net Banking,6395,Paid
+1339,Credit Card,0,Failed
+1340,Net Banking,2519.1,Refunded
+1341,Debit Card,5598,Paid
+1342,Cash on Delivery,4597,Paid
+1343,Credit Card,0,Failed
+1344,Credit Card,8997,Paid
+1345,UPI,12995,Refunded
+1346,Cash on Delivery,12347.15,Paid
+1347,UPI,0,Failed
+1348,Net Banking,5998,Paid
+1349,Credit Card,10393,Paid
+1350,Credit Card,10497,Paid
+1351,Cash on Delivery,3038.1,Refunded
+1352,Debit Card,14495,Paid
+1353,Net Banking,24882.4,Paid
+1354,Net Banking,13996,Refunded
+1355,Net Banking,2397,Paid
+1356,Credit Card,6754.1,Refunded
+1357,Net Banking,13791,Refunded
+1358,Cash on Delivery,0,Failed
+1359,UPI,10584.9,Paid
+1360,Net Banking,0,Failed
+1361,Net Banking,1782.45,Paid
+1362,Debit Card,7431.55,Refunded
+1363,Debit Card,13694,Paid
+1364,Net Banking,11490.25,Paid
+1365,UPI,11691,Paid
+1366,Net Banking,17759.9,Paid
+1367,Cash on Delivery,0,Failed
+1368,Debit Card,0,Failed
+1369,Credit Card,19392,Paid
+1370,Cash on Delivery,0,Failed
+1371,Debit Card,9431.6,Refunded
+1372,UPI,18608.2,Paid
+1373,Debit Card,0,Failed
+1374,Net Banking,6362.15,Refunded
+1375,UPI,7195,Paid
+1376,Debit Card,0,Failed
+1377,UPI,6296,Paid
+1378,Debit Card,0,Failed
+1379,Credit Card,22790,Paid
+1380,Cash on Delivery,14784.05,Paid
+1381,Credit Card,3866.4,Paid
+1382,Cash on Delivery,7974.3,Refunded
+1383,Net Banking,758.15,Paid
+1384,Debit Card,6382.8,Paid
+1385,Credit Card,17390,Paid
+1386,Credit Card,6747.3,Paid
+1387,UPI,0,Failed
+1388,Net Banking,7736.4,Paid
+1389,Credit Card,12596,Paid
+1390,Cash on Delivery,5397.3,Paid
+1391,Net Banking,2997,Paid
+1392,Net Banking,9894.6,Paid
+1393,Credit Card,7195.5,Paid
+1394,Cash on Delivery,1992.15,Paid
+1395,Debit Card,12820.25,Refunded
+1396,Debit Card,0,Failed
+1397,Net Banking,0,Failed
+1398,Debit Card,9492,Paid
+1399,UPI,6093,Paid
+1400,UPI,11994,Paid
+1401,Debit Card,7447,Paid
+1402,Cash on Delivery,14614.05,Paid
+1403,UPI,9875.25,Paid
+1404,UPI,0,Failed
+1405,Credit Card,19295,Paid
+1406,Debit Card,18692,Paid
+1407,UPI,8998.2,Paid
+1408,Credit Card,15385.5,Paid
+1409,Net Banking,0,Failed
+1410,Cash on Delivery,10300.5,Paid
+1411,UPI,11469.9,Refunded
+1412,Credit Card,5746,Refunded
+1413,UPI,0,Failed
+1414,Credit Card,8546.4,Paid
+1415,UPI,6159.95,Paid
+1416,UPI,15295,Refunded
+1417,Net Banking,7497,Refunded
+1418,Cash on Delivery,0,Failed
+1419,Cash on Delivery,673.15,Paid
+1420,Cash on Delivery,0,Failed
+1421,UPI,1427.2,Paid
+1422,Cash on Delivery,9969.3,Refunded
+1423,Debit Card,1998,Paid
+1424,Cash on Delivery,2998,Refunded
+1425,Cash on Delivery,20060.1,Paid
+1426,UPI,7997,Refunded
+1427,Debit Card,0,Failed
+1428,Net Banking,0,Failed
+1429,Cash on Delivery,9006.6,Paid
+1430,Net Banking,18863.2,Paid
+1431,Debit Card,2879.1,Paid
+1432,Debit Card,20609.3,Paid
+1433,Debit Card,4498.2,Paid
+1434,Debit Card,0,Failed
+1435,Cash on Delivery,0,Failed
+1436,Credit Card,9446,Refunded
+1437,UPI,0,Failed
+1438,Net Banking,16792,Paid
+1439,UPI,5896,Paid
+1440,Credit Card,16540,Paid
+1441,Credit Card,6793,Paid
+1442,Debit Card,9172.8,Refunded
+1443,UPI,4797,Paid
+1444,Net Banking,0,Failed
+1445,Cash on Delivery,6414.1,Paid
+1446,Credit Card,6551.2,Paid
+1447,UPI,10434.6,Paid
+1448,Cash on Delivery,2798,Refunded
+1449,Net Banking,3998,Paid
+1450,Net Banking,7996,Paid
+1451,Net Banking,0,Failed
+1452,UPI,3595,Paid
+1453,Credit Card,0,Failed
+1454,UPI,10569.6,Refunded
+1455,Credit Card,0,Failed
+1456,Cash on Delivery,10794.6,Paid
+1457,Credit Card,0,Failed
+1458,Cash on Delivery,1352.3,Paid
+1459,Credit Card,4749.05,Paid
+1460,Cash on Delivery,0,Failed
+1461,Cash on Delivery,25791,Paid
+1462,UPI,7830.85,Refunded
+1463,Cash on Delivery,7647.45,Refunded
+1464,Net Banking,9258.2,Paid
+1465,Net Banking,2804.15,Refunded
+1466,UPI,8402.75,Refunded
+1467,UPI,0,Failed
+1468,Net Banking,5097.45,Paid
+1469,UPI,8997,Paid
+1470,Debit Card,0,Failed
+1471,Cash on Delivery,15493,Paid
+1472,Debit Card,7596.2,Refunded
+1473,Net Banking,0,Failed
+1474,Net Banking,708.1,Paid
+1475,Cash on Delivery,0,Failed
+1476,Debit Card,6498,Paid
+1477,Net Banking,9597,Paid
+1478,Net Banking,928,Paid
+1479,UPI,0,Failed
+1480,UPI,15193.35,Refunded
+1481,UPI,1518.1,Paid
+1482,UPI,5098.3,Paid
+1483,Net Banking,7498,Paid
+1484,Net Banking,5608.3,Paid
+1485,Credit Card,10407.4,Refunded
+1486,Cash on Delivery,8834.9,Paid
+1487,Net Banking,6398,Refunded
+1488,Credit Card,4247.45,Paid
+1489,UPI,26687.4,Paid
+1490,UPI,18993,Paid
+1491,Debit Card,10234.85,Paid
+1492,Credit Card,2379.15,Paid
+1493,Cash on Delivery,0,Failed
+1494,UPI,10434.6,Paid
+1495,Net Banking,0,Failed
+1496,Cash on Delivery,13446.0,Paid
+1497,Cash on Delivery,0,Failed
+1498,Debit Card,11495,Refunded
+1499,Debit Card,0,Failed
+1500,Cash on Delivery,5034.6,Refunded
+1501,Debit Card,0,Failed
+1502,Debit Card,5598,Paid
+1503,Debit Card,7695,Paid
+1504,UPI,10824.3,Paid
+1505,UPI,12245.5,Refunded
+1506,UPI,7389.9,Refunded
+1507,Net Banking,0,Failed
+1508,Net Banking,3396,Refunded
+1509,UPI,5598,Paid
+1510,Cash on Delivery,6893,Paid
+1511,Debit Card,1599,Refunded
+1512,Cash on Delivery,0,Failed
+1513,Net Banking,16710.5,Paid
+1514,Credit Card,17566.45,Paid
+1515,Debit Card,0,Failed
+1516,Debit Card,4946.4,Paid
+1517,Credit Card,5698.1,Paid
+1518,UPI,5397,Paid
+1519,Debit Card,0,Failed
+1520,Net Banking,0,Failed
+1521,Credit Card,5098.3,Paid
+1522,Credit Card,7096,Paid
+1523,Net Banking,0,Failed
+1524,Cash on Delivery,21390,Paid
+1525,Debit Card,3199,Refunded
+1526,UPI,2546.6,Refunded
+1527,UPI,0,Failed
+1528,Cash on Delivery,19494,Paid
+1529,Net Banking,26541,Paid
+1530,Credit Card,13293,Paid
+1531,Debit Card,2037.45,Paid
+1532,Debit Card,15953.35,Refunded
+1533,Cash on Delivery,8498.3,Paid
+1534,Net Banking,28552.35,Paid
+1535,UPI,10695,Refunded
+1536,Cash on Delivery,23213.7,Paid
+1537,Net Banking,0,Failed
+1538,Debit Card,12574.05,Paid
+1539,Credit Card,2973.3,Paid
+1540,Net Banking,4998,Refunded
+1541,Cash on Delivery,928,Paid
+1542,UPI,18392,Refunded
+1543,UPI,29890,Refunded
+1544,Net Banking,14394,Paid
+1545,Debit Card,0,Failed
+1546,UPI,7832.75,Paid
+1547,Credit Card,13674.3,Refunded
+1548,Debit Card,1028.05,Paid
+1549,Cash on Delivery,8412.45,Refunded
+1550,UPI,1248.1,Paid
+1551,Debit Card,5896,Paid
+1552,Net Banking,5998,Paid
+1553,Cash on Delivery,2297,Paid
+1554,UPI,1358.3,Refunded
+1555,Credit Card,5318.1,Paid
+1556,UPI,5098,Paid
+1557,Debit Card,0,Failed
+1558,UPI,8070.75,Paid
+1559,Net Banking,6796,Paid
+1560,Net Banking,13148.0,Paid
+1561,Net Banking,8397,Refunded
+1562,Debit Card,15093,Paid
+1563,UPI,17996,Paid
+1564,Credit Card,13193,Paid
+1565,Net Banking,6504.65,Paid
+1566,Cash on Delivery,4497,Paid
+1567,Net Banking,3324.05,Paid
+1568,Net Banking,2499,Paid
+1569,UPI,12404.05,Paid
+1570,Debit Card,15393,Refunded
+1571,Net Banking,0,Failed
+1572,UPI,13405.5,Paid
+1573,Debit Card,0,Failed
+1574,Cash on Delivery,0,Failed
+1575,UPI,0,Failed
+1576,Net Banking,6202.45,Paid
+1577,Cash on Delivery,20134.3,Paid
+1578,Debit Card,0,Failed
+1579,Cash on Delivery,8239.9,Paid
+1580,Cash on Delivery,0,Failed
+1581,Cash on Delivery,4499.1,Paid
+1582,Cash on Delivery,13497.3,Paid
+1583,UPI,16734.6,Paid
+1584,Net Banking,673.15,Paid
+1585,Cash on Delivery,10790.75,Paid
+1586,Credit Card,8637.3,Paid
+1587,Debit Card,0,Failed
+1588,Cash on Delivery,10920.25,Paid
+1589,Cash on Delivery,6408.7,Paid
+1590,Net Banking,838.05,Paid
+1591,UPI,0,Failed
+1592,UPI,14846.4,Paid
+1593,UPI,2799,Paid
+1594,Credit Card,0,Failed
+1595,Debit Card,5944,Paid
+1596,UPI,2427.3,Paid
+1597,Net Banking,2097,Paid
+1598,Cash on Delivery,5758.2,Paid
+1599,Cash on Delivery,7690.5,Paid
+1600,Debit Card,16740,Paid
+1601,Credit Card,1183.15,Refunded
+1602,Net Banking,13994,Paid
+1603,Cash on Delivery,0,Failed
+1604,UPI,0,Failed
+1605,Debit Card,0,Failed
+1606,Debit Card,8593,Paid
+1607,Cash on Delivery,8595,Paid
+1608,Credit Card,4396,Paid
+1609,Cash on Delivery,2468.1,Paid
+1610,UPI,878,Paid
+1611,UPI,9353.7,Paid
+1612,Debit Card,4248.3,Refunded
+1613,Net Banking,778,Paid
+1614,UPI,22131.9,Refunded
+1615,Credit Card,18994,Refunded
+1616,Cash on Delivery,8901.9,Paid
+1617,Credit Card,4936.2,Refunded
+1618,Debit Card,4270.5,Paid
+1619,Debit Card,10436.4,Refunded
+1620,Credit Card,9018.35,Refunded
+1621,UPI,0,Failed
+1622,Cash on Delivery,18044.3,Paid
+1623,Cash on Delivery,11793,Paid
+1624,Debit Card,0,Failed
+1625,Credit Card,18947.35,Paid
+1626,Debit Card,12403.2,Paid
+1627,Net Banking,0,Failed
+1628,Debit Card,1477,Paid
+1629,Net Banking,18055.7,Paid
+1630,Net Banking,0,Failed
+1631,Cash on Delivery,0,Failed
+1632,Credit Card,1378,Paid
+1633,Cash on Delivery,14358.2,Refunded
+1634,Debit Card,5997,Paid
+1635,UPI,11093,Paid
+1636,Cash on Delivery,7375.5,Paid
+1637,Debit Card,7197,Paid
+1638,Net Banking,0,Failed
+1639,Cash on Delivery,10613.7,Refunded
+1640,Cash on Delivery,0,Failed
+1641,Cash on Delivery,0,Failed
+1642,UPI,11592.3,Paid
+1643,Net Banking,13482.4,Refunded
+1644,UPI,928,Paid
+1645,UPI,5126.2,Refunded
+1646,Cash on Delivery,6078.1,Paid
+1647,UPI,13693,Paid
+1648,Net Banking,8154.9,Refunded
+1649,UPI,7390.75,Paid
+1650,Debit Card,11392.4,Paid
+1651,Net Banking,0,Failed
+1652,Credit Card,6747.3,Paid
+1653,Credit Card,3199,Paid
+1654,Credit Card,12914.9,Paid
+1655,Cash on Delivery,7197.3,Paid
+1656,UPI,4497,Paid
+1657,Credit Card,0,Failed
+1658,UPI,9695,Paid
+1659,UPI,3798.1,Paid
+1660,Cash on Delivery,12412.8,Paid
+1661,Cash on Delivery,8695,Paid
+1662,Debit Card,7500.25,Paid
+1663,Debit Card,0,Failed
+1664,Net Banking,12906.9,Paid
+1665,Debit Card,5194,Refunded
+1666,Net Banking,10395,Refunded
+1667,Cash on Delivery,14344,Paid
+1668,UPI,0,Failed
+1669,Cash on Delivery,2249.1,Paid
+1670,Net Banking,5698.1,Refunded
+1671,Debit Card,13595.75,Refunded
+1672,Credit Card,4999,Paid
+1673,Debit Card,0,Failed
+1674,Debit Card,4246.6,Refunded
+1675,Credit Card,9597,Paid
+1676,Cash on Delivery,7596.2,Paid
+1677,Credit Card,3798.1,Paid
+1678,Credit Card,9642,Paid
+1679,UPI,9192,Paid
+1680,UPI,10890,Paid
+1681,Credit Card,15192,Paid
+1682,Net Banking,4046.4,Paid
+1683,Credit Card,5848.2,Paid
+1684,Credit Card,6740.25,Paid
+1685,UPI,3696,Refunded
+1686,Debit Card,18690.65,Refunded
+1687,Credit Card,5398.2,Paid
+1688,Debit Card,18486.9,Paid
+1689,UPI,23093,Paid
+1690,Cash on Delivery,16494,Paid
+1691,Credit Card,6027.3,Paid
+1692,Cash on Delivery,7646.6,Refunded
+1693,Credit Card,4225.5,Refunded
+1694,Net Banking,0,Failed
+1695,UPI,7647.45,Refunded
+1696,Credit Card,19701.0,Paid
+1697,Credit Card,3897,Paid
+1698,Credit Card,7390.75,Paid
+1699,Debit Card,743.05,Paid
+1700,Cash on Delivery,3179.65,Refunded
+1701,UPI,10996,Paid
+1702,Credit Card,7297,Paid
+1703,Net Banking,1598,Paid
+1704,Credit Card,3822.45,Refunded
+1705,Cash on Delivery,5394,Paid
+1706,Cash on Delivery,1618.2,Refunded
+1707,Debit Card,0,Failed
+1708,Net Banking,3148.2,Paid
+1709,Credit Card,8996.4,Paid
+1710,UPI,13958.35,Paid
+1711,Debit Card,11143,Refunded
+1712,UPI,9897.3,Paid
+1713,Cash on Delivery,13679.05,Paid
+1714,Credit Card,1698,Paid
+1715,Credit Card,15473.7,Refunded
+1716,Credit Card,2847,Paid
+1717,Debit Card,13507.35,Paid
+1718,Net Banking,0,Failed
+1719,Debit Card,7595.25,Refunded
+1720,Cash on Delivery,4316.4,Paid
+1721,Credit Card,17394,Paid
+1722,Credit Card,19890,Paid
+1723,Credit Card,18084.6,Paid
+1724,Credit Card,0,Failed
+1725,Credit Card,12343.35,Refunded
+1726,Cash on Delivery,24390,Paid
+1727,Net Banking,6159.95,Paid
+1728,UPI,7197,Paid
+1729,UPI,19389,Paid
+1730,Net Banking,8072.15,Refunded
+1731,Net Banking,6894,Paid
+1732,Cash on Delivery,15541,Paid
+1733,Credit Card,17989,Refunded
+1734,Debit Card,19093,Refunded
+1735,Net Banking,1577,Paid
+1736,Cash on Delivery,753.1,Paid
+1737,UPI,5848.2,Paid
+1738,Net Banking,2946,Refunded
+1739,Debit Card,7285.5,Refunded
+1740,UPI,23994,Refunded
+1741,Credit Card,14091,Paid
+1742,Net Banking,6447,Paid
+1743,Debit Card,3897,Paid
+1744,Cash on Delivery,7795,Paid
+1745,UPI,0,Failed
+1746,Debit Card,17377.4,Paid
+1747,Debit Card,1428.1,Paid
+1748,Cash on Delivery,7293,Refunded
+1749,UPI,0,Failed
+1750,Credit Card,17192,Paid
+1751,Credit Card,14751.9,Paid
+1752,UPI,11247.3,Paid
+1753,Debit Card,0,Failed
+1754,Credit Card,27633.6,Refunded
+1755,UPI,1028.05,Paid
+1756,UPI,8395,Paid
+1757,Net Banking,5264.9,Paid
+1758,UPI,17492,Paid
+1759,Debit Card,9716.4,Refunded
+1760,Credit Card,16521.45,Paid
+1761,UPI,9498.1,Paid
+1762,Cash on Delivery,2278.1,Paid
+1763,Credit Card,0,Failed
+1764,UPI,2547.45,Paid
+1765,Credit Card,3605.25,Paid
+1766,Cash on Delivery,5696.2,Paid
+1767,Debit Card,4329.9,Paid
+1768,Cash on Delivery,20988.35,Paid
+1769,Debit Card,8196,Refunded
+1770,Credit Card,15493,Paid
+1771,Debit Card,14992,Paid
+1772,Cash on Delivery,1477,Paid
+1773,Net Banking,11513.7,Refunded
+1774,Credit Card,0,Failed
+1775,Debit Card,7895,Paid
+1776,Cash on Delivery,0,Failed
+1777,Net Banking,0,Failed
+1778,Credit Card,6697,Paid
+1779,Credit Card,2656.2,Paid
+1780,Credit Card,10961.6,Paid
+1781,Debit Card,6296,Paid
+1782,UPI,1518.1,Refunded
+1783,Credit Card,14529.3,Paid
+1784,UPI,7896,Paid
+1785,Credit Card,4998,Paid
+1786,Debit Card,8637.3,Paid
+1787,UPI,11582.4,Paid
+1788,Cash on Delivery,12866.8,Paid
+1789,Credit Card,7507.8,Paid
+1790,UPI,4298,Paid
+1791,Net Banking,9894,Paid
+1792,Cash on Delivery,3992.45,Refunded
+1793,Net Banking,2742.3,Paid
+1794,Credit Card,0,Failed
+1795,UPI,9893.7,Paid
+1796,Cash on Delivery,0,Failed
+1797,Net Banking,1698,Paid
+1798,Net Banking,15924.6,Paid
+1799,Cash on Delivery,3417.15,Paid
+1800,Debit Card,15994,Paid
+1801,Credit Card,7016.4,Paid
+1802,Cash on Delivery,0,Failed
+1803,UPI,0,Failed
+1804,Credit Card,3348,Paid
+1805,Net Banking,4497,Paid
+1806,Cash on Delivery,9004.05,Paid
+1807,Cash on Delivery,6998,Paid
+1808,Net Banking,12198.0,Refunded
+1809,Credit Card,0,Failed
+1810,Credit Card,13764.9,Paid
+1811,Net Banking,4248.3,Paid
+1812,UPI,0,Failed
+1813,Credit Card,9731.8,Paid
+1814,Credit Card,17093.35,Paid
+1815,Net Banking,4497,Refunded
+1816,Cash on Delivery,0,Failed
+1817,Credit Card,25439,Paid
+1818,Cash on Delivery,1577,Refunded
+1819,Debit Card,1698.3,Paid
+1820,Credit Card,4885.8,Paid
+1821,UPI,0,Failed
+1822,Net Banking,5398.2,Refunded
+1823,Debit Card,23991,Refunded
+1824,Cash on Delivery,11106.9,Paid
+1825,Net Banking,0,Failed
+1826,Cash on Delivery,17249.05,Paid
+1827,Net Banking,3945,Paid
+1828,Credit Card,0,Failed
+1829,Cash on Delivery,0,Failed
+1830,Cash on Delivery,9092,Refunded
+1831,Cash on Delivery,9258.2,Paid
+1832,UPI,1407.1,Paid
+1833,UPI,14485.5,Refunded
+1834,Debit Card,0,Failed
+1835,Credit Card,6879.9,Paid
+1836,Debit Card,6876.9,Paid
+1837,UPI,9996,Paid
+1838,Cash on Delivery,15193,Paid
+1839,UPI,19292,Paid
+1840,Net Banking,1999,Refunded
+1841,Net Banking,6243,Paid
+1842,Debit Card,12440.25,Paid
+1843,UPI,3598,Paid
+1844,Debit Card,10614.6,Paid
+1845,Cash on Delivery,3496,Paid
+1846,UPI,10395,Paid
+1847,UPI,11996,Paid
+1848,Cash on Delivery,4747.15,Refunded
+1849,Cash on Delivery,0,Failed
+1850,Debit Card,5862.45,Paid
+1851,Cash on Delivery,6998,Paid
+1852,Debit Card,1337.2,Paid
+1853,Debit Card,7646.6,Paid
+1854,UPI,0,Failed
+1855,Cash on Delivery,0,Failed
+1856,UPI,3371.4,Paid
+1857,Cash on Delivery,1428.1,Paid
+1858,Net Banking,0,Failed
+1859,Cash on Delivery,1400.8,Paid
+1860,Net Banking,14662.8,Refunded
+1861,Net Banking,1599,Paid
+1862,UPI,23388,Paid
+1863,Credit Card,0,Failed
+1864,Cash on Delivery,0,Failed
+1865,Debit Card,19032.35,Refunded
+1866,Credit Card,1078,Refunded
+1867,Cash on Delivery,5098.3,Paid
+1868,Cash on Delivery,3039.05,Paid
+1869,Net Banking,708.1,Paid
+1870,UPI,0,Failed
+1871,Cash on Delivery,7497,Paid
+1872,Cash on Delivery,5097.45,Paid
+1873,Cash on Delivery,2998,Paid
+1874,Cash on Delivery,11394.3,Paid
+1875,Net Banking,2799,Refunded
+1876,Credit Card,1699.15,Paid
+1877,UPI,6879.9,Paid
+1878,UPI,0,Failed
+1879,Net Banking,9770.75,Paid
+1880,Cash on Delivery,9402.15,Paid
+1881,Debit Card,5496,Paid
+1882,Credit Card,14933.7,Paid
+1883,UPI,8028.25,Paid
+1884,Net Banking,26541.9,Paid
+1885,UPI,5698.1,Paid
+1886,Debit Card,3507.3,Paid
+1887,Cash on Delivery,5796,Refunded
+1888,Net Banking,708.1,Paid
+1889,Debit Card,0,Failed
+1890,Net Banking,0,Failed
+1891,Cash on Delivery,20750.85,Paid
+1892,Net Banking,12492,Paid
+1893,UPI,2037.45,Paid
+1894,Cash on Delivery,6598,Paid
+1895,Cash on Delivery,3890.25,Paid
+1896,Cash on Delivery,13792,Paid
+1897,UPI,0,Failed
+1898,Net Banking,17094.3,Paid
+1899,Cash on Delivery,1799.1,Paid
+1900,UPI,0,Failed
+1901,Cash on Delivery,0,Failed
+1902,Debit Card,5935.5,Refunded
+1903,UPI,9090.75,Paid
+1904,Net Banking,0,Failed
+1905,Credit Card,9972.15,Paid
+1906,Net Banking,10825.25,Paid
+1907,Debit Card,978,Paid
+1908,Net Banking,4048,Paid
+1909,Credit Card,14792,Paid
+1910,UPI,4755.75,Refunded
+1911,Debit Card,4083.1,Paid
+1912,Debit Card,2999,Paid
+1913,Net Banking,5396.4,Paid
+1914,Debit Card,16524.3,Paid
+1915,Cash on Delivery,9117.15,Paid
+1916,UPI,3896,Paid
+1917,Net Banking,8498.3,Paid
+1918,Net Banking,0,Failed
+1919,Net Banking,0,Failed
+1920,Debit Card,0,Failed
+1921,Credit Card,18734.85,Paid
+1922,Cash on Delivery,8165.25,Paid
+1923,Debit Card,0,Failed
+1924,Credit Card,4999,Refunded
+1925,Credit Card,2998,Paid
+1926,Credit Card,1887.3,Paid
+1927,UPI,11806.5,Paid
+1928,Cash on Delivery,978.1,Paid
+1929,Cash on Delivery,9940.75,Paid
+1930,Debit Card,2549.15,Refunded
+1931,Cash on Delivery,0,Failed
+1932,Net Banking,3897,Paid
+1933,Credit Card,10109.05,Paid
+1934,Debit Card,4697,Paid
+1935,Cash on Delivery,5758.2,Paid
+1936,UPI,0,Failed
+1937,UPI,7647.45,Refunded
+1938,Credit Card,8645,Paid
+1939,Net Banking,0,Failed
+1940,UPI,11871.2,Paid
+1941,Net Banking,0,Failed
+1942,UPI,9993,Refunded
+1943,UPI,1337.2,Paid
+1944,Credit Card,5698,Paid
+1945,UPI,16806.45,Refunded
+1946,Debit Card,6195,Paid
+1947,UPI,3908.3,Paid
+1948,Debit Card,3397,Paid
+1949,Net Banking,13396,Paid
+1950,Net Banking,6625.75,Paid
+1951,Cash on Delivery,0,Failed
+1952,Debit Card,758.15,Paid
+1953,UPI,4557.15,Paid
+1954,Debit Card,6567.3,Paid
+1955,Debit Card,14244.3,Paid
+1956,Net Banking,15093,Refunded
+1957,Debit Card,15379.05,Refunded
+1958,Debit Card,5496,Paid
+1959,UPI,4999,Paid
+1960,Net Banking,0,Failed
+1961,Cash on Delivery,11469.9,Paid
+1962,Net Banking,1899.05,Paid
+1963,Credit Card,8902.8,Refunded
+1964,Cash on Delivery,0,Failed
+1965,Credit Card,0,Failed
+1966,Cash on Delivery,843.15,Paid
+1967,UPI,15474.6,Paid
+1968,Credit Card,0,Failed
+1969,Debit Card,18947.35,Paid
+1970,Debit Card,0,Failed
+1971,Net Banking,13895,Paid
+1972,UPI,15285.5,Paid
+1973,Debit Card,11965.5,Paid
+1974,Debit Card,17891,Paid
+1975,Cash on Delivery,2547,Refunded
+1976,Debit Card,1078,Paid
+1977,UPI,0,Failed
+1978,Credit Card,16090,Paid
+1979,UPI,2374.05,Paid
+1980,Credit Card,9442.8,Paid
+1981,UPI,6076.2,Paid
+1982,Cash on Delivery,0,Failed
+1983,Net Banking,5698.1,Paid
+1984,UPI,15994,Paid
+1985,UPI,7191,Paid
+1986,UPI,0,Failed
+1987,Cash on Delivery,24022.8,Paid
+1988,Net Banking,0,Failed
+1989,Credit Card,22491.0,Paid
+1990,Cash on Delivery,0,Failed
+1991,Debit Card,5598,Paid
+1992,Debit Card,0,Failed
+1993,Cash on Delivery,10614.6,Paid
+1994,Credit Card,18093,Paid
+1995,Credit Card,19094,Paid
+1996,Net Banking,4748.1,Paid
+1997,Debit Card,28063.95,Paid
+1998,Cash on Delivery,0,Failed
+1999,Cash on Delivery,13595.75,Paid
+2000,Net Banking,9083.7,Refunded
+2001,Credit Card,18864.05,Paid
+2002,UPI,3945,Paid
+2003,Debit Card,6742.8,Paid
+2004,Net Banking,6294,Paid
+2005,UPI,0,Failed
+2006,Debit Card,17663.35,Paid
+2007,UPI,0,Failed
+2008,UPI,4249.15,Paid
+2009,Debit Card,4999,Paid
+2010,Debit Card,6295,Paid
+2011,UPI,4749.05,Paid
+2012,Debit Card,15478.35,Refunded
+2013,Net Banking,6146,Paid
+2014,Cash on Delivery,743.05,Paid
+2015,UPI,1315.8,Paid
+2016,Net Banking,4318.2,Paid
+2017,Debit Card,11216.6,Paid
+2018,Credit Card,9445,Paid
+2019,Debit Card,10431.9,Refunded
+2020,Debit Card,13508.2,Paid
+2021,Debit Card,10095,Paid
+2022,Debit Card,12894,Paid
+2023,Credit Card,15192.4,Paid
+2024,Debit Card,12993,Paid
+2025,Net Banking,13508.2,Paid
+2026,Cash on Delivery,0,Failed
+2027,Credit Card,5349.05,Paid
+2028,Credit Card,28791.0,Refunded
+2029,Credit Card,6566.4,Paid
+2030,Debit Card,3897,Paid
+2031,Credit Card,12819.3,Paid
+2032,Cash on Delivery,2037.45,Paid
+2033,Debit Card,21749.3,Paid
+2034,UPI,14996,Paid
+2035,Debit Card,1078,Paid
+2036,Cash on Delivery,11597,Paid
+2037,Debit Card,14077.8,Paid
+2038,Net Banking,1798,Paid
+2039,Debit Card,6496,Refunded
+2040,UPI,2068.2,Paid
+2041,Credit Card,1598,Paid
+2042,Cash on Delivery,12865.5,Paid
+2043,Net Banking,23792,Paid
+2044,Credit Card,0,Failed
+2045,Net Banking,4746.2,Paid
+2046,Debit Card,7815.75,Paid
+2047,Net Banking,7049.05,Paid
+2048,Credit Card,5697.15,Refunded
+2049,Cash on Delivery,17503.2,Paid
+2050,UPI,8542.8,Paid
+2051,UPI,0,Failed
+2052,UPI,10958.2,Paid
+2053,Cash on Delivery,1352.3,Refunded
+2054,Cash on Delivery,19432.8,Paid
+2055,Net Banking,15288.35,Paid
+2056,Credit Card,17078.2,Paid
+2057,Net Banking,11255.7,Paid
+2058,Cash on Delivery,5998,Paid
+2059,Credit Card,15972.35,Paid
+2060,UPI,10072.8,Paid
+2061,UPI,2549.15,Paid
+2062,Net Banking,2997,Paid
+2063,Cash on Delivery,14894,Refunded
+2064,Credit Card,22771.5,Paid
+2065,Net Banking,9429.05,Paid
+2066,Net Banking,1443.3,Paid
+2067,Credit Card,0,Failed
+2068,UPI,8157.45,Refunded
+2069,UPI,14989,Paid
+2070,Net Banking,0,Failed
+2071,Credit Card,3997,Paid
+2072,Credit Card,2879.1,Paid
+2073,UPI,0,Failed
+2074,Net Banking,16194,Refunded
+2075,Credit Card,0,Failed
+2076,Credit Card,673.15,Paid
+2077,Debit Card,28691,Paid
+2078,UPI,9444.6,Refunded
+2079,Cash on Delivery,15474.6,Refunded
+2080,Cash on Delivery,4698,Paid
+2081,Net Banking,2697.3,Paid
+2082,Debit Card,11425.5,Paid
+2083,Cash on Delivery,7984.05,Paid
+2084,Credit Card,9291,Refunded
+2085,Cash on Delivery,16285.85,Paid
+2086,Cash on Delivery,8072.45,Refunded
+2087,Net Banking,0,Failed
+2088,Credit Card,11469.9,Paid
+2089,Cash on Delivery,8815.5,Paid
+2090,Credit Card,3097,Paid
+2091,Credit Card,0,Failed
+2092,Net Banking,12772.8,Paid
+2093,Debit Card,15093,Paid
+2094,Net Banking,0,Failed
+2095,Credit Card,5267.45,Paid
+2096,Cash on Delivery,5396.4,Paid
+2097,UPI,0,Failed
+2098,Net Banking,8637.3,Paid
+2099,Credit Card,12193,Paid
+2100,Credit Card,11019.6,Paid
+2101,Cash on Delivery,1998,Paid
+2102,Credit Card,9938.7,Paid
+2103,Cash on Delivery,4651.2,Paid
+2104,Net Banking,8157.45,Paid
+2105,UPI,1708.1,Paid
+2106,Net Banking,1477,Paid
+2107,Cash on Delivery,0,Failed
+2108,UPI,2548.3,Paid
+2109,Net Banking,14193,Paid
+2110,Cash on Delivery,6998,Paid
+2111,Credit Card,3480.75,Paid
+2112,Credit Card,4997,Refunded
+2113,Debit Card,8905.5,Paid
+2114,Credit Card,12861.9,Paid
+2115,UPI,5034.6,Paid
+2116,UPI,12234.9,Paid
+2117,Net Banking,5046,Paid
+2118,Credit Card,0,Failed
+2119,Net Banking,0,Failed
+2120,Credit Card,6624.05,Paid
+2121,Cash on Delivery,3198,Paid
+2122,Credit Card,0,Failed
+2123,Debit Card,8494.9,Paid
+2124,Credit Card,0,Failed
+2125,Cash on Delivery,1578,Paid
+2126,UPI,5179.9,Refunded
+2127,UPI,5998,Refunded
+2128,Debit Card,10705.75,Refunded
+2129,Debit Card,6609.6,Paid
+2130,Cash on Delivery,13085.75,Paid
+2131,Cash on Delivery,8246,Paid
+2132,Credit Card,10164.6,Paid
+2133,Net Banking,11869.3,Refunded
+2134,Cash on Delivery,838.05,Paid
+2135,Cash on Delivery,11205.25,Paid
+2136,UPI,4998,Paid
+2137,Cash on Delivery,4047.3,Paid
+2138,Cash on Delivery,14483.7,Paid
+2139,Debit Card,20892,Paid
+2140,Cash on Delivery,1909.95,Refunded
+2141,Debit Card,10493,Paid
+2142,Net Banking,13893,Refunded
+2143,Cash on Delivery,0,Failed
+2144,Credit Card,5696,Paid
+2145,Net Banking,4397,Paid
+2146,Cash on Delivery,0,Failed
+2147,Cash on Delivery,14345,Refunded
+2148,Debit Card,16142,Paid
+2149,Debit Card,0,Failed
+2150,Cash on Delivery,16144.9,Paid
+2151,Debit Card,1799.1,Paid
+2152,Net Banking,11794,Paid
+2153,Credit Card,14893,Paid
+2154,UPI,2324.65,Paid
+2155,Net Banking,11424.6,Refunded
+2156,Net Banking,8095,Paid
+2157,Net Banking,10107.35,Refunded
+2158,Cash on Delivery,0,Failed
+2159,Debit Card,4669.05,Paid
+2160,Credit Card,7596,Paid
+2161,Cash on Delivery,2999,Paid
+2162,Debit Card,2208.3,Refunded
+2163,Net Banking,2249.1,Paid
+2164,Net Banking,12864.6,Paid
+2165,Net Banking,13510.75,Paid
+2166,Net Banking,8997,Paid
+2167,Cash on Delivery,11894.05,Refunded
+2168,Credit Card,12097.8,Refunded
+2169,Net Banking,19792,Paid
+2170,Debit Card,1518.1,Paid
+2171,Net Banking,8449.3,Paid
+2172,Net Banking,13932.35,Paid
+2173,Net Banking,1428.1,Refunded
+2174,Cash on Delivery,2547.45,Paid
+2175,UPI,7960.5,Paid
+2176,Credit Card,4998,Paid
+2177,Credit Card,0,Failed
+2178,Debit Card,6696,Paid
+2179,Net Banking,1443.3,Paid
+2180,Cash on Delivery,4586.4,Paid
+2181,Net Banking,3039.05,Paid
+2182,Credit Card,0,Failed
+2183,UPI,8097.3,Paid
+2184,Cash on Delivery,1028.05,Paid
+2185,Credit Card,3039.05,Paid
+2186,Debit Card,14591,Refunded
+2187,Cash on Delivery,15894,Paid
+2188,Credit Card,4695,Paid
+2189,Debit Card,7285.5,Refunded
+2190,Credit Card,5947.45,Paid
+2191,Cash on Delivery,753.1,Paid
+2192,Credit Card,16641.0,Paid
+2193,Cash on Delivery,4840.75,Paid
+2194,Debit Card,9447.3,Paid
+2195,UPI,19085.5,Refunded
+2196,UPI,7261.55,Paid
+2197,Debit Card,4497,Paid
+2198,Cash on Delivery,0,Failed
+2199,Net Banking,2473.2,Paid
+2200,UPI,4249.15,Paid
+2201,Cash on Delivery,0,Failed
+2202,Cash on Delivery,3417.3,Paid
+2203,Credit Card,0,Failed
+2204,Cash on Delivery,3415.25,Paid
+2205,Net Banking,9599.05,Refunded
+2206,Net Banking,11395,Paid
+2207,Debit Card,8196,Paid
+2208,Cash on Delivery,1352.3,Paid
+2209,UPI,16692,Refunded
+2210,Cash on Delivery,15383.7,Paid
+2211,Net Banking,9447.3,Paid
+2212,Debit Card,3906.6,Paid
+2213,Debit Card,1798.2,Paid
+2214,Cash on Delivery,4047.3,Paid
+2215,Net Banking,0,Failed
+2216,Debit Card,8997,Refunded
+2217,Net Banking,2697,Paid
+2218,Debit Card,3995,Paid
+2219,Debit Card,20511.9,Paid
+2220,Net Banking,22342,Paid
+2221,Net Banking,1898.1,Paid
+2222,Cash on Delivery,0,Failed
+2223,UPI,6932.15,Paid
+2224,Net Banking,2427.3,Refunded
+2225,Debit Card,13992,Paid
+2226,UPI,4329.9,Paid
+2227,UPI,4295,Paid
+2228,Debit Card,3702.15,Paid
+2229,Credit Card,13864.3,Paid
+2230,Net Banking,0,Failed
+2231,Debit Card,15115.5,Paid
+2232,UPI,9402.15,Paid
+2233,Net Banking,13849.05,Paid
+2234,Credit Card,0,Failed
+2235,Debit Card,4047.3,Paid
+2236,Net Banking,1782.45,Paid
+2237,UPI,9971.2,Paid
+2238,Cash on Delivery,7402.4,Paid
+2239,Debit Card,11993,Refunded
+2240,Cash on Delivery,8595,Paid
+2241,Cash on Delivery,8589.6,Refunded
+2242,Credit Card,6996,Paid
+2243,Debit Card,19470.25,Paid
+2244,Debit Card,16596,Paid
+2245,Credit Card,21666.5,Paid
+2246,Debit Card,3748,Paid
+2247,Credit Card,0,Failed
+2248,Debit Card,2499,Refunded
+2249,Debit Card,0,Failed
+2250,Debit Card,3226.2,Paid
+2251,Net Banking,0,Failed
+2252,Net Banking,1998,Refunded
+2253,Credit Card,4839.3,Paid
+2254,Net Banking,8397,Paid
+2255,Credit Card,1337.2,Paid
+2256,Cash on Delivery,6114.6,Paid
+2257,Cash on Delivery,15394,Paid
+2258,Credit Card,4095,Paid
+2259,Net Banking,9804.6,Paid
+2260,Net Banking,0,Failed
+2261,Cash on Delivery,3597.3,Paid
+2262,UPI,0,Failed
+2263,Net Banking,8997,Paid
+2264,Credit Card,4317.3,Paid
+2265,UPI,0,Failed
+2266,Cash on Delivery,25393,Paid
+2267,Credit Card,12415.5,Refunded
+2268,Debit Card,5608.3,Paid
+2269,Net Banking,7135.75,Paid
+2270,Credit Card,2037.45,Refunded
+2271,Credit Card,2598,Paid
+2272,UPI,5094,Paid
+2273,Debit Card,4195,Paid
+2274,UPI,0,Failed
+2275,Credit Card,13543,Paid
+2276,UPI,8997,Paid
+2277,Debit Card,18802.4,Paid
+2278,UPI,10534.9,Paid
+2279,Credit Card,0,Failed
+2280,Cash on Delivery,0,Failed
+2281,Debit Card,8097.3,Paid
+2282,Net Banking,843.1,Refunded
+2283,Net Banking,13195,Paid
+2284,Credit Card,1998,Paid
+2285,UPI,7497,Paid
+2286,Debit Card,22269.9,Paid
+2287,Net Banking,19791,Refunded
+2288,Cash on Delivery,0,Failed
+2289,Credit Card,9174.6,Paid
+2290,Net Banking,8007.3,Paid
+2291,Net Banking,1477,Paid
+2292,Credit Card,10432.8,Paid
+2293,Net Banking,1799.1,Paid
+2294,Credit Card,843.15,Paid
+2295,Credit Card,2598,Paid
+2296,Debit Card,3737.45,Paid
+2297,UPI,5046,Paid
+2298,UPI,0,Failed
+2299,Cash on Delivery,13340.75,Paid
+2300,UPI,14592,Paid
+2301,Debit Card,1359.15,Paid
+2302,Cash on Delivery,1698,Paid
+2303,Credit Card,12490,Paid
+2304,Cash on Delivery,0,Failed
+2305,Debit Card,13132.8,Paid
+2306,Debit Card,0,Failed
+2307,Net Banking,6193,Paid
+2308,Net Banking,14992,Paid
+2309,Debit Card,6834.6,Paid
+2310,Cash on Delivery,17793,Paid
+2311,Net Banking,7311.2,Paid
+2312,Cash on Delivery,13296.2,Paid
+2313,Credit Card,7025.25,Paid
+2314,Net Banking,14794,Paid
+2315,Credit Card,4698,Paid
+2316,Credit Card,12319.9,Paid
+2317,Net Banking,8097.3,Paid
+2318,Debit Card,11394,Paid
+2319,Cash on Delivery,4497,Paid
+2320,Cash on Delivery,10995,Paid
+2321,UPI,0,Failed
+2322,UPI,5395.5,Paid
+2323,Debit Card,12747.45,Refunded
+2324,Debit Card,7403.35,Paid
+2325,Credit Card,12992,Refunded
+2326,Credit Card,17091.45,Paid
+2327,Net Banking,0,Failed
+2328,Net Banking,1428.1,Paid
+2329,Net Banking,0,Failed
+2330,UPI,2999,Paid
+2331,Credit Card,9695,Refunded
+2332,Debit Card,11895.75,Paid
+2333,UPI,13793,Paid
+2334,Credit Card,5094,Paid
+2335,Credit Card,6843,Paid
+2336,Credit Card,2292.45,Paid
+2337,Credit Card,2379.15,Paid
+2338,Net Banking,5998,Paid
+2339,Debit Card,6497,Paid
+2340,Net Banking,15377.35,Paid
+2341,UPI,4175.25,Paid
+2342,Cash on Delivery,12233.7,Paid
+2343,Net Banking,798.1,Refunded
+2344,UPI,20193,Paid
+2345,Cash on Delivery,16195.5,Paid
+2346,Cash on Delivery,2878.2,Refunded
+2347,Cash on Delivery,0,Failed
+2348,UPI,0,Failed
+2349,Net Banking,15793,Paid
+2350,UPI,1548,Refunded
+2351,Credit Card,11893,Paid
+2352,Credit Card,30239,Paid
+2353,Debit Card,4203.25,Refunded
+2354,Debit Card,1378,Refunded
+2355,UPI,0,Failed
+2356,UPI,13889.0,Paid
+2357,Cash on Delivery,6205.5,Paid
+2358,Net Banking,5395,Paid
+2359,UPI,0,Failed
+2360,Cash on Delivery,16292,Paid
+2361,Cash on Delivery,7647.45,Refunded
+2362,Debit Card,878,Refunded
+2363,Credit Card,0,Failed
+2364,Debit Card,17378.35,Paid
+2365,Cash on Delivery,11640.75,Paid
+2366,UPI,27190,Paid
+2367,Debit Card,4841.6,Paid
+2368,UPI,6927.4,Paid
+2369,Credit Card,0,Failed
+2370,Net Banking,0,Failed
+2371,Net Banking,0,Failed
+2372,Debit Card,16693,Paid
+2373,Net Banking,4047.3,Refunded
+2374,Debit Card,8856.0,Refunded
+2375,UPI,12594,Paid
+2376,Credit Card,5097.45,Paid
+2377,UPI,673.15,Paid
+2378,UPI,17990,Paid
+2379,Credit Card,3149.1,Refunded
+2380,Debit Card,13494,Paid
+2381,Credit Card,8835.75,Paid
+2382,Net Banking,4317.3,Paid
+2383,Net Banking,11595,Paid
+2384,Cash on Delivery,0,Failed
+2385,UPI,3598,Refunded
+2386,Debit Card,10025.75,Paid
+2387,Cash on Delivery,15427.8,Paid
+2388,Cash on Delivery,10497,Paid
+2389,Debit Card,10342,Paid
+2390,UPI,0,Failed
+2391,Cash on Delivery,8792,Refunded
+2392,Debit Card,15191,Refunded
+2393,Credit Card,3822.45,Paid
+2394,UPI,0,Failed
+2395,UPI,4295,Paid
+2396,Net Banking,1427.2,Refunded
+2397,Debit Card,0,Failed
+2398,Credit Card,12196,Paid
+2399,Net Banking,0,Failed
+2400,Cash on Delivery,14529.9,Paid
+2401,Debit Card,0,Failed
+2402,Debit Card,7195.5,Paid
+2403,UPI,0,Failed
+2404,Debit Card,5690.75,Paid
+2405,UPI,9635.85,Paid
+2406,Net Banking,8212.75,Paid
+2407,Credit Card,4298,Paid
+2408,Debit Card,23622.35,Refunded
+2409,Credit Card,7465.5,Paid
+2410,UPI,14812.4,Paid
+2411,Cash on Delivery,1337.2,Refunded
+2412,Debit Card,10825.25,Paid
+2413,Cash on Delivery,1337.2,Paid
+2414,Credit Card,5902.4,Paid
+2415,Debit Card,2337.3,Paid
+2416,Credit Card,9341,Paid
+2417,Cash on Delivery,0,Failed
+2418,Debit Card,3198,Paid
+2419,Credit Card,0,Failed
+2420,Net Banking,6398,Paid
+2421,Debit Card,4396,Paid
+2422,Cash on Delivery,5597,Paid
+2423,Debit Card,5098.3,Paid
+2424,UPI,4795,Refunded
+2425,Net Banking,6395,Paid
+2426,Credit Card,20478.2,Paid
+2427,Cash on Delivery,6993,Paid
+2428,UPI,12368.7,Paid
+2429,Credit Card,1598,Paid
+2430,Net Banking,5318.1,Paid
+2431,UPI,5435.75,Paid
+2432,Net Banking,2997,Paid
+2433,UPI,8544.3,Paid
+2434,Cash on Delivery,7137.45,Paid
+2435,Cash on Delivery,18269.05,Refunded
+2436,UPI,4797,Paid
+2437,Credit Card,19792,Paid
+2438,UPI,23453.2,Paid
+2439,Debit Card,2247,Paid
+2440,Cash on Delivery,10497,Paid
+2441,Credit Card,2519.1,Refunded
+2442,Credit Card,8597,Paid
+2443,Net Banking,8922.45,Refunded
+2444,Credit Card,4497.3,Paid
+2445,Cash on Delivery,3998,Paid
+2446,UPI,9589.3,Paid
+2447,Debit Card,6499.9,Refunded
+2448,Credit Card,17504.05,Paid
+2449,Net Banking,12993,Paid
+2450,UPI,4397,Paid
+2451,UPI,17294,Paid
+2452,Credit Card,0,Failed
+2453,UPI,0,Failed
+2454,Cash on Delivery,888.1,Refunded
+2455,Debit Card,0,Failed
+2456,Net Banking,6998,Refunded
+2457,UPI,0,Failed
+2458,Debit Card,1613.1,Paid
+2459,UPI,6926.4,Paid
+2460,UPI,1798.2,Paid
+2461,UPI,3955.5,Paid
+2462,Net Banking,6996,Paid
+2463,Net Banking,0,Failed
+2464,UPI,23293,Paid
+2465,UPI,12094,Paid
+2466,Net Banking,2182.15,Paid
+2467,Net Banking,14293,Paid
+2468,Cash on Delivery,8996,Paid
+2469,Credit Card,5098.3,Paid
+2470,Cash on Delivery,8997,Paid
+2471,Cash on Delivery,11496,Paid
+2472,Cash on Delivery,17586.5,Paid
+2473,Debit Card,14945,Paid
+2474,UPI,1782.45,Paid
+2475,Credit Card,3238.2,Paid
+2476,Cash on Delivery,14304.6,Paid
+2477,Cash on Delivery,7497,Paid
+2478,UPI,8997,Refunded
+2479,Net Banking,9092,Paid
+2480,Debit Card,9684.3,Paid
+2481,Cash on Delivery,1998,Refunded
+2482,Cash on Delivery,4416.6,Paid
+2483,UPI,6504.65,Paid
+2484,Net Banking,0,Failed
+2485,Net Banking,5353.3,Paid
+2486,Debit Card,9895,Paid
+2487,Cash on Delivery,2427.3,Paid
+2488,Cash on Delivery,17091,Refunded
+2489,Debit Card,6398,Paid
+2490,Cash on Delivery,0,Failed
+2491,Debit Card,15491,Paid
+2492,Credit Card,5794,Paid
+2493,Debit Card,3897,Paid
+2494,UPI,0,Failed
+2495,Net Banking,9161.8,Paid
+2496,Cash on Delivery,0,Failed
+2497,UPI,7432.4,Paid
+2498,Debit Card,5997,Paid
+2499,Net Banking,12147.3,Paid
+2500,Cash on Delivery,10997,Paid
+2501,UPI,673.15,Paid
+2502,Net Banking,3957.3,Paid
+2503,Cash on Delivery,12318.2,Paid
+2504,Cash on Delivery,10843,Paid
+2505,Cash on Delivery,16395,Paid
+2506,Cash on Delivery,12395,Paid
+2507,Debit Card,0,Failed
+2508,UPI,21391,Paid
+2509,Debit Card,2039.65,Paid
+2510,Net Banking,16376.1,Refunded
+2511,UPI,2397,Paid
+2512,Debit Card,1699.15,Paid
+2513,Cash on Delivery,7389.05,Paid
+2514,Net Banking,14358.2,Paid
+2515,Net Banking,14792,Paid
+2516,Cash on Delivery,7474.9,Refunded
+2517,Credit Card,5998,Paid
+2518,Credit Card,9536.4,Paid
+2519,UPI,21192,Paid
+2520,Credit Card,0,Failed
+2521,Net Banking,15094,Paid
+2522,Net Banking,3225.75,Paid
+2523,Debit Card,0,Failed
+2524,Net Banking,3199,Paid
+2525,UPI,20512.4,Paid
+2526,Debit Card,0,Failed
+2527,Net Banking,9716.4,Paid
+2528,Net Banking,778,Paid
+2529,UPI,13794,Paid
+2530,Net Banking,1998,Paid
+2531,Credit Card,0,Failed
+2532,Net Banking,12955.5,Paid
+2533,UPI,6298.2,Refunded
+2534,Debit Card,1698.3,Paid
+2535,Debit Card,0,Failed
+2536,Cash on Delivery,11603.7,Refunded
+2537,Debit Card,14890,Refunded
+2538,Credit Card,8744,Paid
+2539,Cash on Delivery,11553.2,Paid
+2540,UPI,1578,Paid
+2541,Cash on Delivery,19791.9,Paid
+2542,UPI,17663.35,Paid
+2543,UPI,2988.7,Refunded
+2544,UPI,4128.7,Paid
+2545,UPI,9429.9,Paid
+2546,Cash on Delivery,0,Failed
+2547,UPI,0,Failed
+2548,Credit Card,0,Failed
+2549,UPI,0,Failed
+2550,Cash on Delivery,6697,Paid
+2551,UPI,11496,Refunded
+2552,Credit Card,10794,Paid
+2553,Credit Card,9497,Paid
+2554,Cash on Delivery,16311.5,Paid
+2555,Cash on Delivery,15791,Paid
+2556,Cash on Delivery,0,Failed
+2557,Credit Card,32988,Paid
+2558,Net Banking,8997,Refunded
+2559,Credit Card,1618.2,Refunded
+2560,Net Banking,4033.7,Paid
+2561,Credit Card,4497,Paid
+2562,Credit Card,13692,Refunded
+2563,Net Banking,7899.05,Refunded
+2564,UPI,3198,Paid
+2565,Net Banking,7647.45,Refunded
+2566,UPI,0,Failed
+2567,Debit Card,20593,Paid
+2568,Debit Card,4047.3,Refunded
+2569,Cash on Delivery,3055.75,Paid
+2570,Net Banking,14895,Refunded
+2571,Cash on Delivery,0,Failed
+2572,Debit Card,0,Failed
+2573,Debit Card,16239.3,Paid
+2574,Credit Card,12955.5,Paid
+2575,Net Banking,16102.8,Paid
+2576,Debit Card,0,Failed
+2577,UPI,6159.1,Refunded
+2578,Cash on Delivery,6882.45,Paid
+2579,Cash on Delivery,6167.4,Paid
+2580,Credit Card,4462.15,Paid
+2581,Cash on Delivery,18089.9,Paid
+2582,Credit Card,4317.3,Refunded
+2583,Net Banking,2292.3,Paid
+2584,Net Banking,0,Failed
+2585,Debit Card,10497,Paid
+2586,Credit Card,32789,Paid
+2587,Net Banking,0,Failed
+2588,UPI,14623.35,Refunded
+2589,Net Banking,4998,Paid
+2590,Debit Card,0,Failed
+2591,Debit Card,1528.2,Paid
+2592,UPI,27191.5,Paid
+2593,Credit Card,17792,Refunded
+2594,Net Banking,3326.4,Refunded
+2595,Cash on Delivery,15996,Paid
+2596,Net Banking,0,Failed
+2597,Net Banking,0,Failed
+2598,UPI,7794,Paid
+2599,Debit Card,9579.6,Paid
+2600,Cash on Delivery,9305.25,Paid
+2601,Debit Card,5793,Refunded
+2602,UPI,1698.3,Paid
+2603,Cash on Delivery,1503.05,Paid
+2604,Debit Card,1313.05,Refunded
+2605,Credit Card,11892,Paid
+2606,Debit Card,15020.1,Paid
+2607,Debit Card,7902.45,Refunded
+2608,Net Banking,6699.6,Paid
+2609,Credit Card,6598,Paid
+2610,UPI,1439.1,Paid
+2611,Cash on Delivery,1887.3,Refunded
+2612,Net Banking,8343,Paid
+2613,Credit Card,2598,Paid
+2614,Cash on Delivery,13582.8,Paid
+2615,Credit Card,16867.8,Paid
+2616,Debit Card,12059.3,Paid
+2617,Credit Card,24491,Paid
+2618,UPI,4998,Paid
+2619,Net Banking,5219.3,Paid
+2620,Net Banking,11543,Paid
+2621,Net Banking,12593,Refunded
+2622,Net Banking,7647.45,Refunded
+2623,Debit Card,13297,Paid
+2624,Debit Card,14121.9,Paid
+2625,Debit Card,17095.25,Paid
+2626,Debit Card,17294,Paid
+2627,Net Banking,978.1,Refunded
+2628,Credit Card,10365.75,Paid
+2629,Credit Card,1248.1,Paid
+2630,Debit Card,1427.2,Paid
+2631,Net Banking,0,Failed
+2632,Net Banking,17190,Paid
+2633,UPI,4411.8,Paid
+2634,Net Banking,18045.25,Paid
+2635,Net Banking,2997,Paid
+2636,UPI,4841.6,Refunded
+2637,Debit Card,1998,Paid
+2638,Credit Card,0,Failed
+2639,Credit Card,11980.75,Paid
+2640,Net Banking,4998,Paid
+2641,Cash on Delivery,0,Failed
+2642,Net Banking,3798.1,Refunded
+2643,UPI,17692,Paid
+2644,Credit Card,2124.15,Paid
+2645,Net Banking,8587.8,Paid
+2646,Net Banking,2548.3,Paid
+2647,Net Banking,6697,Paid
+2648,Cash on Delivery,15993,Refunded
+2649,Net Banking,13253.2,Refunded
+2650,Credit Card,978,Paid
+2651,Cash on Delivery,7260.85,Paid
+2652,Credit Card,14148.35,Refunded
+2653,UPI,0,Failed
+2654,Net Banking,8025.7,Paid
+2655,Credit Card,0,Failed
+2656,Credit Card,10956.5,Paid
+2657,Net Banking,9897,Paid
+2658,Cash on Delivery,0,Failed
+2659,Credit Card,10839.6,Paid
+2660,Credit Card,0,Failed
+2661,Cash on Delivery,2549.15,Paid
+2662,Net Banking,8997,Paid
+2663,Credit Card,8547.15,Refunded
+2664,Net Banking,12794,Paid
+2665,Debit Card,4493.7,Paid
+2666,Debit Card,743.05,Refunded
+2667,UPI,6455.25,Paid
+2668,Credit Card,0,Failed
+2669,Cash on Delivery,7122.15,Paid
+2670,Credit Card,0,Failed
+2671,Cash on Delivery,743.05,Refunded
+2672,Credit Card,9295,Paid
+2673,UPI,3998,Paid
+2674,Credit Card,2999,Paid
+2675,Debit Card,1708.1,Paid
+2676,Debit Card,14573.7,Paid
+2677,UPI,6294.6,Paid
+2678,Net Banking,11810.75,Refunded
+2679,Credit Card,11299.05,Paid
+2680,UPI,6428.7,Paid
+2681,Credit Card,9811.55,Paid
+2682,UPI,0,Failed
+2683,Debit Card,21176.45,Paid
+2684,Debit Card,22192,Paid
+2685,Debit Card,2597,Paid
+2686,Net Banking,0,Failed
+2687,Debit Card,23692,Refunded
+2688,Credit Card,15857.4,Paid
+2689,Cash on Delivery,1755.6,Paid
+2690,Cash on Delivery,4695,Paid
+2691,Net Banking,4495,Paid
+2692,Credit Card,5196,Paid
+2693,UPI,0,Failed
+2694,Credit Card,2598,Paid
+2695,Debit Card,4925.75,Paid
+2696,Debit Card,22993,Paid
+2697,Credit Card,6924.6,Refunded
+2698,UPI,19203.2,Paid
+2699,Debit Card,11992,Paid
+2700,Credit Card,13254.05,Refunded
+2701,Net Banking,11469.05,Refunded
+2702,Credit Card,12320.75,Paid
+2703,Net Banking,0,Failed
+2704,UPI,12822.15,Refunded
+2705,Credit Card,6384.6,Paid
+2706,UPI,8547.15,Paid
+2707,UPI,7499.3,Paid
+2708,Credit Card,9005.75,Refunded
+2709,Cash on Delivery,11995,Paid
+2710,Debit Card,4497,Paid
+2711,Credit Card,9983.7,Refunded
+2712,Credit Card,7734.6,Paid
+2713,Net Banking,0,Failed
+2714,Cash on Delivery,17004.6,Paid
+2715,Cash on Delivery,23491,Paid
+2716,UPI,3198,Paid
+2717,UPI,2097,Paid
+2718,Net Banking,1867.45,Paid
+2719,Net Banking,8834.05,Paid
+2720,Credit Card,19928.7,Paid
+2721,Credit Card,0,Failed
+2722,UPI,9597,Paid
+2723,Cash on Delivery,8364.85,Paid
+2724,Cash on Delivery,10164.6,Paid
+2725,UPI,8454.6,Paid
+2726,Credit Card,19791.0,Paid
+2727,Credit Card,4271.2,Paid
+2728,Cash on Delivery,7737.3,Paid
+2729,Debit Card,7894,Paid
+2730,Cash on Delivery,20093,Paid
+2731,Credit Card,0,Failed
+2732,UPI,16593,Paid
+2733,Credit Card,15635.75,Paid
+2734,Net Banking,8157.45,Paid
+2735,UPI,2988.7,Paid
+2736,Credit Card,18194,Paid
+2737,Credit Card,19493,Paid
+2738,Credit Card,0,Failed
+2739,Cash on Delivery,14034.6,Paid
+2740,Credit Card,2697.3,Refunded
+2741,Credit Card,9594,Paid
+2742,Net Banking,6245,Paid
+2743,Cash on Delivery,1078,Paid
+2744,UPI,8046.0,Refunded
+2745,UPI,2247,Paid
+2746,Cash on Delivery,15464.05,Refunded
+2747,UPI,3897,Paid
+2748,UPI,0,Failed
+2749,Debit Card,9597,Paid
+2750,Net Banking,11639.05,Paid
+2751,Debit Card,1337.2,Paid
+2752,Credit Card,13192,Paid
+2753,Debit Card,0,Failed
+2754,Credit Card,3998,Paid
+2755,Net Banking,743.05,Paid
+2756,Cash on Delivery,2124.15,Refunded
+2757,Net Banking,9998,Paid
+2758,Cash on Delivery,11250.85,Paid
+2759,Net Banking,0,Failed
+2760,Debit Card,15038.2,Paid
+2761,UPI,11961.9,Paid
+2762,UPI,1407.1,Paid
+2763,Cash on Delivery,0,Failed
+2764,Credit Card,14294,Paid
+2765,Credit Card,13958.35,Paid
+2766,Debit Card,10492,Refunded
+2767,Credit Card,4840.25,Paid
+2768,Credit Card,7814.05,Paid
+2769,Net Banking,0,Failed
+2770,UPI,0,Failed
+2771,Credit Card,0,Failed
+2772,Credit Card,0,Failed
+2773,Cash on Delivery,1337.2,Refunded
+2774,Credit Card,2379.15,Paid
+2775,UPI,3897,Refunded
+2776,Cash on Delivery,1998,Paid
+2777,UPI,2999,Refunded
+2778,Cash on Delivery,0,Failed
+2779,Cash on Delivery,11963.35,Refunded
+2780,UPI,5485.5,Paid
+2781,Cash on Delivery,0,Failed
+2782,Cash on Delivery,10344.6,Paid
+2783,Debit Card,1438.2,Paid
+2784,Credit Card,0,Failed
+2785,Cash on Delivery,28396.45,Refunded
+2786,Debit Card,17475.25,Paid
+2787,UPI,4295,Paid
+2788,Net Banking,7557.3,Refunded
+2789,Net Banking,8997,Paid
+2790,Net Banking,13198.35,Paid
+2791,Debit Card,11045.75,Paid
+2792,Cash on Delivery,0,Failed
+2793,UPI,0,Failed
+2794,Net Banking,14843.7,Paid
+2795,Debit Card,0,Failed
+2796,Credit Card,0,Failed
+2797,Cash on Delivery,5948.3,Paid
+2798,Credit Card,5790.25,Paid
+2799,Cash on Delivery,1698,Paid
+2800,Net Banking,2397,Paid
+2801,UPI,18142,Paid
+2802,Debit Card,0,Failed
+2803,Net Banking,7497,Paid
+2804,Debit Card,3746,Paid
+2805,UPI,13933.2,Paid
+2806,Net Banking,1358.3,Paid
+2807,Debit Card,10065.25,Refunded
+2808,Debit Card,16426.45,Paid
+2809,Credit Card,1708.1,Refunded
+2810,UPI,0,Failed
+2811,Credit Card,7259.9,Paid
+2812,Debit Card,23994,Refunded
+2813,Net Banking,11770.5,Refunded
+2814,UPI,2348,Refunded
+2815,Cash on Delivery,15379.05,Paid
+2816,Cash on Delivery,5438.3,Paid
+2817,Cash on Delivery,1998,Paid
+2818,Debit Card,4460.25,Paid
+2819,Cash on Delivery,7977.15,Paid
+2820,Net Banking,3897,Paid
+2821,UPI,10255.25,Refunded
+2822,Credit Card,0,Failed
+2823,Credit Card,22391,Refunded
+2824,UPI,0,Failed
+2825,Credit Card,0,Failed
+2826,Cash on Delivery,13379.85,Refunded
+2827,Cash on Delivery,0,Failed
+2828,Debit Card,9348.0,Paid
+2829,Debit Card,10065.25,Paid
+2830,Debit Card,10894,Paid
+2831,Debit Card,0,Failed
+2832,Debit Card,14291,Paid
+2833,Net Banking,20094,Refunded
+2834,Net Banking,14394,Refunded
+2835,Debit Card,0,Failed
+2836,Credit Card,16091,Paid
+2837,UPI,21749.3,Paid
+2838,Credit Card,3299,Paid
+2839,Net Banking,16283.95,Paid
+2840,Credit Card,1798,Paid
+2841,Credit Card,6625.75,Paid
+2842,Net Banking,5796,Refunded
+2843,Debit Card,9696,Paid
+2844,Cash on Delivery,0,Failed
+2845,Debit Card,7049.05,Paid
+2846,Credit Card,11214.05,Paid
+2847,Credit Card,1798,Paid
+2848,Cash on Delivery,2699.1,Paid
+2849,Credit Card,4998,Paid
+2850,UPI,20093,Paid
+2851,Cash on Delivery,0,Failed
+2852,Net Banking,4597,Refunded
+2853,Credit Card,10497,Paid
+2854,Debit Card,22859.05,Paid
+2855,Credit Card,6697,Paid
+2856,Cash on Delivery,2249.1,Refunded
+2857,Cash on Delivery,17591,Paid
+2858,Credit Card,9715.5,Paid
+2859,Debit Card,4584.05,Paid
+2860,Cash on Delivery,878,Paid
+2861,Credit Card,10833.25,Paid
+2862,Cash on Delivery,10494,Paid
+2863,Debit Card,13986.9,Paid
+2864,Credit Card,10596,Paid
+2865,Cash on Delivery,4696,Refunded
+2866,Net Banking,5644,Refunded
+2867,UPI,21492,Refunded
+2868,Cash on Delivery,3415.5,Paid
+2869,Cash on Delivery,7596,Refunded
+2870,Debit Card,2208.3,Paid
+2871,Credit Card,7695,Paid
+2872,Cash on Delivery,5997,Paid
+2873,Debit Card,0,Failed
+2874,Debit Card,15195,Paid
+2875,Net Banking,14304.6,Paid
+2876,UPI,8452.8,Refunded
+2877,Cash on Delivery,4272.15,Refunded
+2878,Cash on Delivery,6265.25,Paid
+2879,Cash on Delivery,8579.9,Paid
+2880,UPI,19392,Paid
+2881,Cash on Delivery,7219.05,Paid
+2882,Net Banking,0,Failed
+2883,Debit Card,9624.6,Paid
+2884,Credit Card,8156.6,Refunded
+2885,Debit Card,928,Paid
+2886,Credit Card,7986.6,Refunded
+2887,Credit Card,12865.5,Refunded
+2888,Cash on Delivery,15634.05,Paid
+2889,UPI,0,Failed
+2890,Cash on Delivery,0,Failed
+2891,Net Banking,1028.05,Paid
+2892,Debit Card,5098.3,Paid
+2893,Credit Card,13491,Paid
+2894,Debit Card,1358.3,Paid
+2895,Credit Card,20693,Paid
+2896,Credit Card,16192.8,Refunded
+2897,Net Banking,9897,Refunded
+2898,Debit Card,5998,Paid
+2899,Debit Card,0,Failed
+2900,Cash on Delivery,4928.3,Refunded
+2901,Credit Card,7857.4,Paid
+2902,Cash on Delivery,14495,Paid
+2903,Net Banking,7468.2,Refunded
+2904,Net Banking,21689,Paid
+2905,Cash on Delivery,1078,Paid
+2906,Credit Card,12659.9,Paid
+2907,Credit Card,5795,Refunded
+2908,Credit Card,6648.1,Refunded
+2909,Credit Card,0,Failed
+2910,Debit Card,21559.3,Paid
+2911,Debit Card,11595,Refunded
+2912,Debit Card,0,Failed
+2913,Net Banking,0,Failed
+2914,Cash on Delivery,4793.7,Refunded
+2915,Cash on Delivery,16093.95,Paid
+2916,UPI,1977.3,Paid
+2917,Credit Card,2499,Paid
+2918,Net Banking,2547.45,Paid
+2919,Debit Card,6894,Paid
+2920,Credit Card,0,Failed
+2921,Net Banking,17378.35,Paid
+2922,Debit Card,0,Failed
+2923,Net Banking,14793,Paid
+2924,Debit Card,673.15,Paid
+2925,Credit Card,24727.35,Paid
+2926,UPI,7497,Paid
+2927,Net Banking,16295,Refunded
+2928,Credit Card,17425.85,Paid
+2929,Cash on Delivery,15595,Paid
+2930,Credit Card,743.05,Refunded
+2931,Cash on Delivery,0,Failed
+2932,UPI,11596,Refunded
+2933,Net Banking,5885.25,Paid
+2934,Credit Card,9970.25,Refunded
+2935,Credit Card,9897,Paid
+2936,Cash on Delivery,12747.45,Paid
+2937,Debit Card,0,Failed
+2938,Cash on Delivery,2997,Paid
+2939,Net Banking,7696,Paid
+2940,Cash on Delivery,5138.25,Paid
+2941,UPI,0,Failed
+2942,Net Banking,6744.6,Paid
+2943,Credit Card,6927.3,Paid
+2944,Cash on Delivery,14492,Paid
+2945,Net Banking,17501.5,Paid
+2946,UPI,9595,Refunded
+2947,UPI,5397.3,Paid
+2948,UPI,10997,Paid
+2949,Credit Card,0,Failed
+2950,Cash on Delivery,31483.0,Paid
+2951,Debit Card,11344,Paid
+2952,Credit Card,2122.45,Paid
+2953,Net Banking,5408.35,Paid
+2954,Credit Card,6025.5,Refunded
+2955,Cash on Delivery,20891,Paid
+2956,Credit Card,9685.25,Paid
+2957,Cash on Delivery,8345,Paid
+2958,Debit Card,5318.1,Refunded
+2959,Debit Card,10193,Refunded
+2960,Net Banking,11107.8,Refunded
+2961,Credit Card,1698,Paid
+2962,Cash on Delivery,17291,Paid
+2963,Net Banking,16990,Paid
+2964,UPI,6268.1,Paid
+2965,Credit Card,12415.5,Paid
+2966,Cash on Delivery,16238.35,Refunded
+2967,Credit Card,16462.8,Paid
+2968,Net Banking,2598,Paid
+2969,Net Banking,0,Failed
+2970,Net Banking,7742,Paid
+2971,UPI,21393,Paid
+2972,Debit Card,0,Failed
+2973,Net Banking,0,Failed
+2974,Net Banking,3299,Paid
+2975,Cash on Delivery,17490,Refunded
+2976,Net Banking,0,Failed
+2977,UPI,17193,Paid
+2978,Cash on Delivery,3651.6,Paid
+2979,Net Banking,3910.5,Paid
+2980,Credit Card,0,Failed
+2981,Net Banking,778,Refunded
+2982,Cash on Delivery,0,Failed
+2983,Cash on Delivery,1438.2,Paid
+2984,Net Banking,8694,Paid
+2985,Cash on Delivery,9174.05,Paid
+2986,Net Banking,0,Failed
+2987,Net Banking,0,Failed
+2988,Debit Card,15507.4,Paid
+2989,Credit Card,6268.1,Paid
+2990,Net Banking,3998,Paid
+2991,Credit Card,14572.8,Paid
+2992,Debit Card,6656.4,Paid
+2993,Debit Card,0,Failed
+2994,Credit Card,12596,Paid
+2995,Credit Card,17343,Paid
+2996,UPI,5694,Paid
+2997,UPI,10076.4,Paid
+2998,Cash on Delivery,2097,Paid
+2999,Debit Card,7194,Paid
+3000,UPI,0,Failed
+3001,Debit Card,10293,Paid
+3002,Net Banking,16443,Paid
+3003,Credit Card,0,Failed
+3004,UPI,0,Failed
+3005,Credit Card,0,Failed
+3006,Debit Card,21392,Paid
+3007,Credit Card,0,Failed
+3008,Net Banking,27591,Paid
+3009,Debit Card,3353.25,Paid
+3010,Credit Card,9587.4,Paid
+3011,UPI,6046,Paid
+3012,Debit Card,5546,Paid
+3013,Cash on Delivery,15053.7,Paid
+3014,UPI,0,Failed
+3015,Net Banking,4077.45,Paid
+3016,Cash on Delivery,4076.6,Paid
+3017,Cash on Delivery,5245,Paid
+3018,Cash on Delivery,1518.1,Paid
+3019,Debit Card,3605.25,Paid
+3020,Net Banking,23170.5,Paid
+3021,Credit Card,14994.0,Paid
+3022,UPI,14232.4,Paid
+3023,Net Banking,11469.9,Paid
+3024,Cash on Delivery,6968.7,Paid
+3025,Cash on Delivery,16994,Paid
+3026,Net Banking,13843,Paid
+3027,UPI,5316.2,Paid
+3028,Cash on Delivery,17388,Refunded
+3029,Credit Card,7137.45,Paid
+3030,UPI,0,Failed
+3031,Credit Card,2748,Paid
+3032,Cash on Delivery,743.05,Paid
+3033,Cash on Delivery,1443.3,Refunded
+3034,Credit Card,9175.75,Paid
+3035,UPI,1427.2,Paid
+3036,UPI,14670.85,Refunded
+3037,Credit Card,8997,Paid
+3038,UPI,16620.25,Paid
+3039,Cash on Delivery,1708.1,Refunded
+3040,Net Banking,13093,Refunded
+3041,Net Banking,16495,Refunded
+3042,UPI,3507.3,Paid
+3043,Cash on Delivery,8997,Paid
+3044,Net Banking,10959.9,Paid
+3045,Net Banking,6030.75,Paid
+3046,UPI,5397.3,Refunded
+3047,Credit Card,8497,Paid
+3048,Cash on Delivery,10091,Paid
+3049,Credit Card,673.15,Paid
+3050,Cash on Delivery,9019.3,Paid
+3051,Cash on Delivery,15464.05,Paid
+3052,Debit Card,14441,Paid
+3053,Net Banking,29150.1,Refunded
+3054,Cash on Delivery,0,Failed
+3055,Net Banking,16956.9,Paid
+3056,Cash on Delivery,13401.9,Paid
+3057,Net Banking,2468.1,Paid
+3058,UPI,19495,Refunded
+3059,UPI,8007.3,Paid
+3060,UPI,0,Failed
+3061,Cash on Delivery,6098,Paid
+3062,UPI,4598,Paid
+3063,Debit Card,8292,Paid
+3064,Net Banking,10794.6,Paid
+3065,Net Banking,2999,Paid
+3066,UPI,4839.9,Paid
+3067,Credit Card,23931.0,Paid
+3068,Cash on Delivery,12317.35,Paid
+3069,Credit Card,10395,Paid
+3070,Credit Card,8157.45,Paid
+3071,Cash on Delivery,15891,Paid
+3072,Cash on Delivery,12041,Paid
+3073,Net Banking,14193,Refunded
+3074,Net Banking,14543,Paid
+3075,UPI,4585.5,Paid
+3076,Cash on Delivery,0,Failed
+3077,Cash on Delivery,6543,Paid
+3078,Debit Card,10497,Paid
+3079,Cash on Delivery,0,Failed
+3080,Net Banking,8394,Paid
+3081,UPI,6371.6,Paid
+3082,Cash on Delivery,16145.25,Paid
+3083,Credit Card,7389.9,Paid
+3084,Net Banking,6609.6,Paid
+3085,Credit Card,20393.2,Paid
+3086,Cash on Delivery,0,Failed
+3087,Net Banking,12414.6,Paid
+3088,Debit Card,4749.05,Paid
+3089,Net Banking,10063.35,Refunded
+3090,Net Banking,3998,Paid
+3091,Net Banking,4797,Refunded
+3092,Cash on Delivery,17088.6,Paid
+3093,Net Banking,0,Failed
+3094,Debit Card,0,Failed
+3095,Debit Card,0,Failed
+3096,Cash on Delivery,5692.45,Refunded
+3097,UPI,1578,Paid
+3098,Net Banking,6695,Paid
+3099,UPI,1782.45,Paid
+3100,Cash on Delivery,5398.2,Paid
+3101,Cash on Delivery,5598,Refunded
+3102,UPI,0,Failed
+3103,Net Banking,22686.5,Paid
+3104,Cash on Delivery,2698.2,Paid
+3105,Debit Card,3702.15,Paid
+3106,Cash on Delivery,23661.0,Paid
+3107,Cash on Delivery,21176.45,Refunded
+3108,Credit Card,2996,Paid
+3109,Net Banking,14211.0,Paid
+3110,Credit Card,11992,Paid
+3111,Debit Card,22669.2,Paid
+3112,Net Banking,15593,Paid
+3113,Credit Card,0,Failed
+3114,UPI,7994,Paid
+3115,Net Banking,18293,Paid
+3116,Debit Card,0,Failed
+3117,Cash on Delivery,8157.45,Paid
+3118,UPI,0,Failed
+3119,Cash on Delivery,2697,Paid
+3120,Cash on Delivery,0,Failed
+3121,Net Banking,16048.35,Paid
+3122,Net Banking,4497,Paid
+3123,UPI,7474.9,Refunded
+3124,Cash on Delivery,14813.35,Paid
+3125,Net Banking,2969.1,Refunded
+3126,UPI,2697,Paid
+3127,Net Banking,1598,Paid
+3128,Debit Card,0,Failed
+3129,Credit Card,9039.6,Paid
+3130,Credit Card,8157.45,Paid
+3131,Debit Card,6285.75,Paid
+3132,Cash on Delivery,13956.45,Paid
+3133,Net Banking,9117.15,Refunded
+3134,Credit Card,0,Failed
+3135,Debit Card,15563.7,Paid
+3136,Credit Card,2998,Paid
+3137,Debit Card,1183.15,Paid
+3138,Credit Card,3998,Paid
+3139,UPI,8997,Refunded
+3140,Debit Card,1078,Refunded
+3141,Net Banking,3821.6,Paid
+3142,Credit Card,0,Failed
+3143,Credit Card,4841.6,Paid
+3144,Debit Card,1577,Paid
+3145,UPI,4758.3,Paid
+3146,Debit Card,0,Failed
+3147,Credit Card,0,Failed
+3148,Debit Card,9430.75,Refunded
+3149,Credit Card,6545,Paid
+3150,Credit Card,7942,Paid
+3151,Net Banking,3546,Paid
+3152,Net Banking,7732.8,Paid
+3153,Debit Card,19992,Paid
+3154,UPI,6796.6,Paid
+3155,Debit Card,7825.5,Paid
+3156,Net Banking,6598,Paid
+3157,Cash on Delivery,8070.25,Paid
+3158,Credit Card,6294,Paid
+3159,UPI,14341,Paid
+3160,Net Banking,4082.15,Paid
+3161,UPI,14841,Refunded
+3162,Cash on Delivery,0,Failed
+3163,UPI,16996,Paid
+3164,Cash on Delivery,6837.3,Refunded
+3165,Credit Card,3225.75,Refunded
+3166,UPI,0,Failed
+3167,Credit Card,4331.6,Paid
+3168,Net Banking,17594,Paid
+3169,Credit Card,15115.5,Paid
+3170,Debit Card,0,Failed
+3171,Cash on Delivery,14443.2,Paid
+3172,Debit Card,5945.75,Paid
+3173,Debit Card,0,Failed
+3174,Credit Card,3312.45,Paid
+3175,Credit Card,7285.5,Paid
+3176,UPI,2247.3,Paid
+3177,Cash on Delivery,4175.25,Paid
+3178,Debit Card,16949.9,Paid
+3179,UPI,3505.5,Refunded
+3180,Credit Card,4747.15,Paid
+3181,UPI,5697.15,Paid
+3182,Credit Card,0,Failed
+3183,Credit Card,0,Failed
+3184,Debit Card,29988,Paid
+3185,Cash on Delivery,2549.15,Paid
+3186,Credit Card,6998,Paid
+3187,Net Banking,11591,Paid
+3188,UPI,0,Failed
+3189,Credit Card,6031.6,Refunded
+3190,UPI,0,Failed
+3191,UPI,18172.8,Paid
+3192,Debit Card,10728.35,Paid
+3193,UPI,1798.2,Paid
+3194,Cash on Delivery,3598.2,Paid
+3195,UPI,7390.75,Paid
+3196,Credit Card,9347.45,Refunded
+3197,UPI,8683.95,Refunded
+3198,Credit Card,18692,Paid
+3199,Debit Card,9942,Paid
+3200,Credit Card,4799.1,Refunded
+3201,Debit Card,1798,Paid
+3202,Debit Card,11641.6,Paid
+3203,UPI,21492,Paid
+3204,Net Banking,3141.6,Refunded
+3205,Debit Card,0,Failed
+3206,UPI,3996,Paid
+3207,Credit Card,0,Failed
+3208,Cash on Delivery,0,Failed
+3209,Net Banking,12578.95,Paid
+3210,Cash on Delivery,5126.4,Paid
+3211,Net Banking,13494,Paid
+3212,Cash on Delivery,3507.3,Paid
+3213,Cash on Delivery,8394,Paid
+3214,Credit Card,0,Failed
+3215,Net Banking,6370.75,Refunded
+3216,Net Banking,1782.45,Paid
+3217,Net Banking,3702.15,Paid
+3218,Cash on Delivery,5979.3,Paid
+3219,UPI,0,Failed
+3220,Cash on Delivery,9855.75,Paid
+3221,Net Banking,12828.2,Paid
+3222,Net Banking,0,Failed
+3223,Cash on Delivery,13672.4,Paid
+3224,Cash on Delivery,5045,Paid
+3225,Net Banking,12999.05,Paid
+3226,Net Banking,8325.75,Paid
+3227,Credit Card,6786.8,Refunded
+3228,Credit Card,4794,Paid
+3229,Cash on Delivery,4597,Refunded
+3230,Net Banking,0,Failed
+3231,Net Banking,14754.6,Refunded
+3232,Debit Card,13495,Paid
+3233,Net Banking,7122.15,Paid
+3234,Net Banking,11196,Paid
+3235,Net Banking,7895,Refunded
+3236,Debit Card,0,Failed
+3237,Net Banking,3998,Refunded
+3238,UPI,0,Failed
+3239,Debit Card,0,Failed
+3240,Net Banking,0,Failed
+3241,Debit Card,15383.35,Paid
+3242,Debit Card,4999,Paid
+3243,Net Banking,10995,Refunded
+3244,Debit Card,11109.3,Refunded
+3245,Cash on Delivery,878,Refunded
+3246,UPI,0,Failed
+3247,UPI,5216.4,Paid
+3248,UPI,0,Failed
+3249,Debit Card,12142.8,Paid
+3250,Cash on Delivery,0,Failed
+3251,Cash on Delivery,2598,Paid
+3252,Debit Card,17394,Paid
+3253,Net Banking,0,Failed
+3254,Credit Card,6596,Paid
+3255,Cash on Delivery,5598.35,Paid
+3256,Net Banking,0,Failed
+3257,UPI,7644.9,Paid
+3258,Credit Card,16493,Paid
+3259,Net Banking,2849.05,Refunded
+3260,Debit Card,8997,Paid
+3261,UPI,5758.2,Paid
+3262,Net Banking,3685.5,Refunded
+3263,UPI,0,Failed
+3264,Debit Card,8295,Paid
+3265,Cash on Delivery,2037.45,Paid
+3266,Cash on Delivery,13092,Paid
+3267,Cash on Delivery,22134.6,Paid
+3268,Cash on Delivery,14494,Paid
+3269,Cash on Delivery,6747.3,Paid
+3270,UPI,7735.5,Refunded
+3271,UPI,1708.1,Refunded
+3272,Net Banking,12404.9,Paid
+3273,UPI,7025.25,Paid
+3274,UPI,17473.35,Refunded
+3275,Credit Card,7824.6,Refunded
+3276,Net Banking,5397.3,Refunded
+3277,Net Banking,16492,Paid
+3278,Credit Card,11494,Paid
+3279,Cash on Delivery,2719.15,Paid
+3280,Net Banking,15038.2,Paid
+3281,Net Banking,6073.25,Paid
+3282,Cash on Delivery,7695,Paid
+3283,UPI,6095,Paid
+3284,Debit Card,6116.6,Refunded
+3285,Net Banking,27192.35,Refunded
+3286,Net Banking,743.05,Paid
+3287,UPI,12095,Paid
+3288,Net Banking,9115.25,Paid
+3289,Net Banking,12042,Refunded
+3290,Credit Card,0,Failed
+3291,Credit Card,4586.6,Paid
+3292,Credit Card,1887.3,Paid
+3293,Credit Card,0,Failed
+3294,Debit Card,2427.3,Refunded
+3295,Cash on Delivery,2848.1,Refunded
+3296,Credit Card,0,Failed
+3297,UPI,7915.5,Paid
+3298,UPI,5710.5,Paid
+3299,Debit Card,0,Failed
+3300,Net Banking,20106.9,Paid
+3301,Net Banking,0,Failed
+3302,Net Banking,4272.15,Paid
+3303,Net Banking,10791.9,Refunded
+3304,Debit Card,9294,Paid
+3305,Net Banking,1699.15,Paid
+3306,Net Banking,18194,Paid
+3307,Debit Card,6842,Paid
+3308,UPI,7507.8,Paid
+3309,Credit Card,14720.25,Refunded
+3310,Debit Card,10615.5,Paid
+3311,Credit Card,3396,Paid
+3312,Credit Card,2519.1,Paid
+3313,UPI,7596,Paid
+3314,UPI,2699.1,Paid
+3315,Credit Card,6998,Paid
+3316,Net Banking,18421.45,Paid
+3317,UPI,5664.6,Refunded
+3318,Debit Card,23026.5,Paid
+3319,Debit Card,0,Failed
+3320,Debit Card,23394,Paid
+3321,Credit Card,2697.3,Paid
+3322,Debit Card,12534.3,Paid
+3323,UPI,10196,Paid
+3324,Net Banking,0,Failed
+3325,UPI,4585.5,Paid
+3326,Cash on Delivery,20394,Paid
+3327,Credit Card,2997,Paid
+3328,Net Banking,9597,Paid
+3329,Credit Card,12195,Paid
+3330,Cash on Delivery,0,Failed
+3331,Debit Card,10447.35,Paid
+3332,UPI,9998,Paid
+3333,Credit Card,10896,Refunded
+3334,Net Banking,9145,Paid
+3335,Net Banking,743.05,Paid
+3336,UPI,9696,Paid
+3337,Debit Card,10162.15,Paid
+3338,Credit Card,0,Failed
+3339,Cash on Delivery,8545.5,Refunded
+3340,Credit Card,3998,Refunded
+3341,Cash on Delivery,743.05,Paid
+3342,UPI,13394,Paid
+3343,Cash on Delivery,5697,Paid
+3344,Cash on Delivery,4048,Paid
+3345,Debit Card,17678.7,Refunded
+3346,Cash on Delivery,0,Failed
+3347,Cash on Delivery,20842,Paid
+3348,UPI,2999,Paid
+3349,Credit Card,0,Failed
+3350,UPI,16808.35,Paid
+3351,UPI,9110.5,Paid
+3352,Net Banking,16994,Paid
+3353,UPI,18615.25,Paid
+3354,Debit Card,7051.6,Refunded
+3355,Debit Card,14594,Paid
+3356,Net Banking,2157.3,Paid
+3357,UPI,10792,Refunded
+3358,Cash on Delivery,5036.4,Refunded
+3359,Cash on Delivery,0,Failed
+3360,UPI,7178.25,Paid
+3361,Cash on Delivery,17902.8,Paid
+3362,Net Banking,0,Failed
+3363,Net Banking,5398.2,Paid
+3364,Net Banking,5697.15,Paid
+3365,Debit Card,0,Failed
+3366,Debit Card,2997,Paid
+3367,Debit Card,3299,Paid
+3368,Cash on Delivery,9895.5,Paid
+3369,UPI,10344.6,Paid
+3370,UPI,5948.3,Paid
+3371,Credit Card,6027.3,Paid
+3372,Debit Card,2698.2,Paid
+3373,Cash on Delivery,3937.75,Paid
+3374,Debit Card,2547,Paid
+3375,Credit Card,7645.75,Paid
+3376,Debit Card,3846,Paid
+3377,Debit Card,3299,Refunded
+3378,Net Banking,16551.9,Paid
+3379,Debit Card,5697.15,Paid
+3380,UPI,11152.8,Refunded
+3381,UPI,0,Failed
+3382,Debit Card,0,Failed
+3383,Cash on Delivery,22892,Paid
+3384,Credit Card,10393,Paid
+3385,Credit Card,6966.6,Paid
+3386,Debit Card,16617.4,Paid
+3387,Credit Card,9971.2,Paid
+3388,Cash on Delivery,11683.25,Paid
+3389,Net Banking,1898.1,Refunded
+3390,Net Banking,3735.75,Paid
+3391,Cash on Delivery,11796,Refunded
+3392,Cash on Delivery,16790,Refunded
+3393,Net Banking,0,Failed
+3394,Net Banking,2499,Refunded
+3395,UPI,21592,Paid
+3396,Debit Card,1028.05,Paid
+3397,Net Banking,11206.2,Paid
+3398,Credit Card,7596.2,Paid
+3399,UPI,3897,Paid
+3400,Debit Card,0,Failed
+3401,Cash on Delivery,10960.75,Paid
+3402,Net Banking,13495,Paid
+3403,Credit Card,4317.3,Paid
+3404,Debit Card,19373.35,Paid
+3405,Net Banking,8998.2,Paid
+3406,Net Banking,0,Failed
+3407,Credit Card,1313.05,Paid
+3408,Cash on Delivery,4554.3,Paid
+3409,UPI,7221.6,Paid
+3410,Cash on Delivery,0,Failed
+3411,Net Banking,10495,Paid
+3412,Debit Card,20152.8,Paid
+3413,Credit Card,16494,Paid
+3414,Net Banking,33191,Paid
+3415,Debit Card,6370.75,Paid
+3416,Credit Card,0,Failed
+3417,Net Banking,19791,Refunded
+3418,Net Banking,1898.1,Paid
+3419,Debit Card,12154.3,Refunded
+3420,Credit Card,5758.2,Paid
+3421,Debit Card,16370.1,Paid
+3422,Credit Card,9395,Refunded
+3423,Debit Card,0,Failed
+3424,UPI,14125.5,Paid
+3425,UPI,18609.9,Paid
+3426,Credit Card,0,Failed
+3427,Cash on Delivery,2230.6,Paid
+3428,Credit Card,15632.35,Paid
+3429,Net Banking,18262.8,Paid
+3430,Credit Card,7974.3,Refunded
+3431,Net Banking,8591.8,Refunded
+3432,Net Banking,20892,Paid
+3433,Net Banking,12534.3,Paid
+3434,UPI,3036.2,Paid
+3435,Net Banking,18182.35,Refunded
+3436,Credit Card,3795,Paid
+3437,UPI,0,Failed
+3438,UPI,3651.6,Paid
+3439,Net Banking,5215.5,Paid
+3440,Credit Card,0,Failed
+3441,UPI,1577,Paid
+3442,UPI,0,Failed
+3443,Credit Card,6201.6,Paid
+3444,Credit Card,4765.5,Paid
+3445,Net Banking,978.1,Paid
+3446,UPI,0,Failed
+3447,Credit Card,6078.1,Refunded
+3448,Debit Card,8695,Paid
+3449,Net Banking,7642.35,Refunded
+3450,Credit Card,0,Failed
+3451,Credit Card,0,Failed
+3452,Credit Card,3398.3,Refunded
+3453,Net Banking,0,Failed
+3454,Net Banking,3148.2,Paid
+3455,UPI,18995,Paid
+3456,Cash on Delivery,0,Failed
+3457,Net Banking,16093,Paid
+3458,UPI,2419.65,Paid
+3459,Debit Card,4797,Refunded
+3460,UPI,0,Failed
+3461,Debit Card,6881.6,Paid
+3462,UPI,2097,Paid
+3463,UPI,10595,Refunded
+3464,Credit Card,18438.2,Paid
+3465,Credit Card,7467.3,Paid
+3466,Debit Card,1578,Paid
+3467,Cash on Delivery,10632.4,Paid
+3468,UPI,0,Failed
+3469,UPI,2547.45,Refunded
+3470,Cash on Delivery,9394,Paid
+3471,Debit Card,0,Failed
+3472,Cash on Delivery,2999,Paid
+3473,Debit Card,22893,Paid
+3474,Net Banking,16228.2,Paid
+3475,UPI,0,Failed
+3476,Credit Card,0,Failed
+3477,Cash on Delivery,6894,Paid
+3478,Net Banking,17541.9,Paid
+3479,UPI,7494,Paid
+3480,UPI,7697,Paid
+3481,Net Banking,17589.9,Paid
+3482,Debit Card,3038.1,Paid
+3483,Net Banking,5597,Refunded
+3484,Debit Card,17589.05,Paid
+3485,Cash on Delivery,1578,Paid
+3486,Cash on Delivery,3737.45,Paid
+3487,Debit Card,16990,Paid
+3488,Cash on Delivery,1477,Paid
+3489,Credit Card,0,Failed
+3490,Debit Card,828,Paid
+3491,UPI,30321.9,Paid
+3492,UPI,0,Failed
+3493,Net Banking,5998,Paid
+3494,Debit Card,1378,Paid
+3495,Cash on Delivery,9131.55,Paid
+3496,Net Banking,4249.15,Paid
+3497,Cash on Delivery,15743.7,Refunded
+3498,UPI,10778.7,Paid
+3499,Credit Card,888.1,Paid
+3500,Credit Card,4272.15,Paid
+3501,Cash on Delivery,0,Failed
+3502,Cash on Delivery,11213.2,Paid
+3503,UPI,1798,Paid
+3504,Credit Card,2659.05,Paid
+3505,Cash on Delivery,8547.15,Paid
+3506,Net Banking,15991,Paid
+3507,Net Banking,1577,Paid
+3508,Debit Card,5775.75,Paid
+3509,Credit Card,0,Failed
+3510,Net Banking,24215.5,Paid
+3511,Debit Card,9176.6,Paid
+3512,Debit Card,6747.3,Refunded
+3513,Debit Card,4179.6,Paid
+3514,Debit Card,0,Failed
+3515,Cash on Delivery,0,Failed
+3516,Cash on Delivery,9096,Paid
+3517,Credit Card,8096.4,Paid
+3518,Net Banking,4748.1,Paid
+3519,Credit Card,17333.2,Paid
+3520,Credit Card,7196,Paid
+3521,Net Banking,0,Failed
+3522,Credit Card,928,Paid
+3523,Net Banking,9896.4,Refunded
+3524,Debit Card,14812.4,Paid
+3525,Credit Card,0,Failed
+3526,Credit Card,14815.25,Paid
+3527,Credit Card,6296,Refunded
+3528,UPI,10636.2,Paid
+3529,Net Banking,14391.0,Paid
+3530,Net Banking,0,Failed
+3531,Net Banking,2277.15,Paid
+3532,Cash on Delivery,4749.05,Refunded
+3533,Cash on Delivery,3416.2,Paid
+3534,Cash on Delivery,13007.4,Paid
+3535,Credit Card,14054.3,Refunded
+3536,Credit Card,1503.05,Paid
+3537,Net Banking,0,Failed
+3538,Net Banking,3702.15,Paid
+3539,UPI,0,Failed
+3540,Net Banking,4797,Paid
+3541,Credit Card,11493,Refunded
+3542,Debit Card,9896.4,Paid
+3543,Net Banking,9581.4,Paid
+3544,Debit Card,15098.35,Paid
+3545,Debit Card,9174.05,Paid
+3546,Debit Card,8095,Refunded
+3547,Credit Card,14192,Refunded
+3548,Net Banking,12345,Paid
+3549,Cash on Delivery,9712.8,Refunded
+3550,Debit Card,5997,Paid
+3551,Cash on Delivery,3798.1,Paid
+3552,Net Banking,4367.15,Paid
+3553,Credit Card,10254.6,Paid
+3554,Credit Card,0,Failed
+3555,Credit Card,20795.5,Paid
+3556,Credit Card,1599,Paid
+3557,Debit Card,9536.4,Paid
+3558,Cash on Delivery,8326.6,Refunded
+3559,Debit Card,0,Failed
+3560,UPI,1477,Refunded
+3561,UPI,5438.3,Paid
+3562,Credit Card,11143,Paid
+3563,Credit Card,15592,Paid
+3564,UPI,3897,Paid
+3565,Debit Card,12915.75,Paid
+3566,Debit Card,22592,Paid
+3567,Cash on Delivery,0,Failed
+3568,Cash on Delivery,0,Failed
+3569,Net Banking,1998,Paid
+3570,UPI,14171.4,Paid
+3571,Cash on Delivery,15192.4,Refunded
+3572,Cash on Delivery,12895,Refunded
+3573,UPI,8922.45,Paid
+3574,Cash on Delivery,23123.0,Refunded
+3575,Credit Card,1998,Paid
+3576,Net Banking,1477,Paid
+3577,Credit Card,0,Failed
+3578,Cash on Delivery,2499,Paid
+3579,Debit Card,21463.35,Paid
+3580,Debit Card,14391.9,Paid
+3581,Net Banking,14893,Paid
+3582,UPI,5892,Refunded
+3583,Credit Card,3324.05,Paid
+3584,Cash on Delivery,15491,Paid
+3585,Debit Card,3198,Paid
+3586,UPI,7497,Paid
+3587,Debit Card,16552.8,Paid
+3588,UPI,0,Failed
+3589,Debit Card,4888.7,Paid
+3590,UPI,3398.3,Paid
+3591,Cash on Delivery,1998,Refunded
+3592,Net Banking,0,Failed
+3593,Cash on Delivery,16793,Refunded
+3594,Credit Card,0,Failed
+3595,UPI,18624.6,Paid
+3596,Net Banking,0,Failed
+3597,Credit Card,24469.8,Paid
+3598,UPI,20791,Paid
+3599,Net Banking,21790,Paid
+3600,Debit Card,8257.4,Paid
+3601,Debit Card,17391,Paid
+3602,UPI,0,Failed
+3603,Net Banking,7498.35,Refunded
+3604,Credit Card,10405.7,Paid
+3605,Credit Card,8295,Paid
+3606,Credit Card,15893,Refunded
+3607,Cash on Delivery,14215.5,Paid
+3608,Credit Card,3134.05,Paid
+3609,Credit Card,28891,Refunded
+3610,Cash on Delivery,4314.6,Refunded
+3611,Credit Card,10997,Paid
+3612,UPI,7119.3,Paid
+3613,Cash on Delivery,5094.9,Paid
+3614,Credit Card,1798.2,Paid
+3615,Cash on Delivery,12573.2,Paid
+3616,UPI,10966.8,Paid
+3617,UPI,0,Failed
+3618,Cash on Delivery,0,Failed
+3619,Credit Card,11246.4,Refunded
+3620,Net Banking,2598,Paid
+3621,Cash on Delivery,15595,Paid
+3622,Debit Card,4998,Paid
+3623,UPI,1078,Refunded
+3624,UPI,17283.35,Paid
+3625,Cash on Delivery,0,Failed
+3626,UPI,24192,Refunded
+3627,Debit Card,4845,Paid
+3628,Debit Card,5980.5,Paid
+3629,Debit Card,2609.65,Paid
+3630,Cash on Delivery,2719.15,Paid
+3631,Net Banking,4497,Refunded
+3632,Net Banking,0,Failed
+3633,Credit Card,12747.45,Refunded
+3634,UPI,2147,Paid
+3635,UPI,5438.3,Paid
+3636,Credit Card,8187.3,Paid
+3637,Credit Card,0,Failed
+3638,Credit Card,23793,Paid
+3639,Debit Card,1798.2,Paid
+3640,Credit Card,0,Failed
+3641,Credit Card,4317.3,Paid
+3642,UPI,20602.8,Paid
+3643,Net Banking,778,Paid
+3644,Debit Card,0,Failed
+3645,Net Banking,0,Failed
+3646,Debit Card,5010.75,Paid
+3647,Net Banking,16291,Refunded
+3648,UPI,3038.1,Refunded
+3649,Cash on Delivery,0,Failed
+3650,Debit Card,4095,Paid
+3651,Net Banking,2999,Paid
+3652,Credit Card,13592,Paid
+3653,Credit Card,23741,Paid
+3654,UPI,3096,Paid
+3655,Credit Card,0,Failed
+3656,Cash on Delivery,3418.1,Paid
+3657,Net Banking,14304.6,Refunded
+3658,Net Banking,15831.9,Paid
+3659,Net Banking,5396,Paid
+3660,Debit Card,1439.1,Paid
+3661,UPI,2697,Paid
+3662,Credit Card,0,Failed
+3663,Debit Card,5948.3,Paid
+3664,Net Banking,5698.1,Paid
+3665,Cash on Delivery,3057.45,Paid
+3666,Cash on Delivery,5094,Refunded
+3667,Credit Card,0,Failed
+3668,Net Banking,17591,Paid
+3669,UPI,0,Failed
+3670,Debit Card,6567.3,Paid
+3671,Cash on Delivery,0,Failed
+3672,Cash on Delivery,15385.25,Paid
+3673,Credit Card,7554.6,Refunded
+3674,Net Banking,13142,Paid
+3675,UPI,15803.2,Refunded
+3676,Net Banking,17991,Paid
+3677,UPI,8998.2,Paid
+3678,Credit Card,10994,Paid
+3679,Credit Card,16807.4,Refunded
+3680,Cash on Delivery,1359.15,Refunded
+3681,Debit Card,26023.35,Refunded
+3682,Net Banking,7977.15,Paid
+3683,Cash on Delivery,2878.2,Paid
+3684,Credit Card,19290,Paid
+3685,Net Banking,14301.9,Paid
+3686,Debit Card,2799,Refunded
+3687,UPI,11242.8,Refunded
+3688,Debit Card,2997,Paid
+3689,Net Banking,15792,Paid
+3690,Net Banking,4272.15,Paid
+3691,Net Banking,1267.3,Paid
+3692,Cash on Delivery,9684.9,Paid
+3693,Credit Card,10524.6,Paid
+3694,Debit Card,2427.3,Paid
+3695,Debit Card,0,Failed
+3696,Net Banking,6747.3,Refunded
+3697,Debit Card,10973.7,Paid
+3698,Cash on Delivery,7074.65,Refunded
+3699,Credit Card,9205.5,Refunded
+3700,UPI,5098.3,Refunded
+3701,Cash on Delivery,790.55,Refunded
+3702,Credit Card,8446,Paid
+3703,Credit Card,6298.2,Paid
+3704,Net Banking,9311.4,Refunded
+3705,Net Banking,8998.2,Paid
+3706,Cash on Delivery,0,Failed
+3707,Cash on Delivery,5438.3,Paid
+3708,UPI,19194,Refunded
+3709,Net Banking,8352.4,Paid
+3710,Debit Card,4077.45,Paid
+3711,Cash on Delivery,0,Failed
+3712,Cash on Delivery,3797.15,Paid
+3713,Debit Card,3991.6,Paid
+3714,UPI,12769.9,Paid
+3715,Cash on Delivery,11085.7,Refunded
+3716,Net Banking,31890,Paid
+3717,Cash on Delivery,15893,Paid
+3718,Cash on Delivery,9995,Refunded
+3719,Debit Card,758.15,Paid
+3720,UPI,11394.3,Paid
+3721,Credit Card,5997,Paid
+3722,Net Banking,19703.0,Paid
+3723,Debit Card,7497,Paid
+3724,UPI,4597,Paid
+3725,Credit Card,9350.85,Refunded
+3726,Net Banking,8905.5,Paid
+3727,Cash on Delivery,4249.15,Paid
+3728,Credit Card,4270.5,Paid
+3729,Debit Card,15966.9,Paid
+3730,Net Banking,0,Failed
+3731,Credit Card,12995,Refunded
+3732,Cash on Delivery,11196.9,Paid
+3733,Credit Card,7942,Paid
+3734,Debit Card,10535.75,Refunded
+3735,Cash on Delivery,9805.5,Refunded
+3736,Credit Card,12912.35,Paid
+3737,Debit Card,0,Failed
+3738,UPI,2849.05,Paid
+3739,Cash on Delivery,2097,Paid
+3740,Debit Card,828,Refunded
+3741,Debit Card,6386.4,Paid
+3742,Net Banking,6096,Paid
+3743,Credit Card,12631.2,Refunded
+3744,Cash on Delivery,13434.9,Refunded
+3745,Net Banking,3398.3,Paid
+3746,UPI,15504.85,Paid
+3747,Credit Card,6243,Refunded
+3748,Net Banking,10097,Paid
+3749,Credit Card,15202.8,Paid
+3750,Credit Card,843.15,Paid
+3751,Cash on Delivery,13763.2,Paid
+3752,Net Banking,1998,Paid
+3753,Cash on Delivery,9995,Paid
+3754,Net Banking,12995,Paid
+3755,UPI,9534.6,Paid
+3756,Credit Card,12954.6,Paid
+3757,Debit Card,25991,Paid
+3758,Cash on Delivery,0,Failed
+3759,Credit Card,0,Failed
+3760,Credit Card,3996,Refunded
+3761,Debit Card,17419.05,Paid
+3762,Debit Card,7545,Paid
+3763,Debit Card,1708.1,Paid
+3764,Net Banking,13393,Paid
+3765,Cash on Delivery,2847,Paid
+3766,Debit Card,4497,Paid
+3767,Debit Card,20226.45,Paid
+3768,UPI,6931.2,Paid
+3769,UPI,0,Failed
+3770,Net Banking,5097.45,Paid
+3771,Cash on Delivery,7219.9,Paid
+3772,Net Banking,7016.4,Paid
+3773,Debit Card,13242,Paid
+3774,UPI,2372.15,Paid
+3775,Debit Card,8397,Paid
+3776,Credit Card,0,Failed
+3777,Credit Card,0,Failed
+3778,Debit Card,0,Failed
+3779,Cash on Delivery,3796.2,Paid
+3780,Debit Card,5937.3,Paid
+3781,Debit Card,27891.0,Paid
+3782,UPI,0,Failed
+3783,Cash on Delivery,6930.25,Paid
+3784,Debit Card,1028.05,Refunded
+3785,Credit Card,12894,Paid
+3786,UPI,0,Failed
+3787,Credit Card,15247.8,Paid
+3788,Net Banking,3907.45,Paid
+3789,Net Banking,15793,Paid
+3790,Cash on Delivery,2249.1,Paid
+3791,UPI,15393,Paid
+3792,Credit Card,4935.25,Paid
+3793,Cash on Delivery,4161.6,Paid
+3794,UPI,9004.9,Refunded
+3795,Debit Card,17942,Paid
+3796,Credit Card,0,Failed
+3797,Cash on Delivery,14099.9,Paid
+3798,Net Banking,978,Paid
+3799,Credit Card,0,Failed
+3800,Net Banking,32291,Paid
+3801,Net Banking,9686.2,Paid
+3802,Cash on Delivery,28807.35,Paid
+3803,Cash on Delivery,0,Failed
+3804,Debit Card,828,Paid
+3805,Debit Card,1428.1,Paid
+3806,Net Banking,2247,Paid
+3807,Debit Card,10394,Paid
+3808,Cash on Delivery,6648.1,Paid
+3809,Cash on Delivery,0,Failed
+3810,UPI,8749.05,Paid
+3811,Debit Card,11251.8,Refunded
+3812,Credit Card,2247,Paid
+3813,Net Banking,3947.4,Refunded
+3814,Debit Card,0,Failed
+3815,Cash on Delivery,1782.45,Refunded
+3816,Net Banking,12692,Paid
+3817,UPI,4416.6,Paid
+3818,Cash on Delivery,0,Failed
+3819,Net Banking,2697,Refunded
+3820,UPI,10705.5,Paid
+3821,Net Banking,0,Failed
+3822,UPI,9354.6,Paid
+3823,Debit Card,9780.25,Paid
+3824,Net Banking,8536.55,Paid
+3825,UPI,6879.9,Paid
+3826,Credit Card,8366.4,Paid
+3827,UPI,8829.3,Paid
+3828,Credit Card,9998,Paid
+3829,Credit Card,12505.5,Paid
+3830,UPI,2998,Paid
+3831,Cash on Delivery,8835.75,Paid
+3832,Credit Card,8397,Paid
+3833,Credit Card,11595,Paid
+3834,Net Banking,4497.3,Paid
+3835,Cash on Delivery,6652.8,Paid
+3836,UPI,15792,Paid
+3837,Credit Card,21033.95,Refunded
+3838,UPI,7648.2,Paid
+3839,Credit Card,12064.05,Paid
+3840,Net Banking,828,Paid
+3841,UPI,3396,Paid
+3842,Cash on Delivery,0,Failed
+3843,UPI,8895,Paid
+3844,Net Banking,0,Failed
+3845,Credit Card,4501.6,Paid
+3846,UPI,12630.25,Paid
+3847,Debit Card,0,Failed
+3848,Cash on Delivery,11154.6,Paid
+3849,Credit Card,2879.1,Paid
+3850,Credit Card,7050.75,Paid
+3851,Net Banking,19182.4,Refunded
+3852,Net Banking,4994,Refunded
+3853,Net Banking,5353.3,Paid
+3854,Cash on Delivery,19191,Paid
+3855,Cash on Delivery,9018.35,Paid
+3856,Credit Card,12573.2,Paid
+3857,Debit Card,13583.7,Refunded
+3858,Credit Card,9645,Refunded
+3859,Credit Card,0,Failed
+3860,Cash on Delivery,0,Failed
+3861,Net Banking,878,Paid
+3862,Debit Card,8095,Paid
+3863,Net Banking,4998,Paid
+3864,UPI,23643.6,Paid
+3865,Net Banking,3598.2,Refunded
+3866,Debit Card,10993,Paid
+3867,Net Banking,4497,Paid
+3868,Net Banking,2468.1,Paid
+3869,Credit Card,8070.25,Refunded
+3870,Cash on Delivery,23706.5,Refunded
+3871,UPI,3097,Refunded
+3872,Debit Card,8498.3,Paid
+3873,Net Banking,6598,Paid
+3874,UPI,16731.9,Paid
+3875,Net Banking,1798,Paid
+3876,Net Banking,1378,Refunded
+3877,Credit Card,3199,Paid
+3878,Debit Card,7495,Paid
+3879,Credit Card,11774.3,Paid
+3880,Debit Card,1407.1,Paid
+3881,Debit Card,5396.4,Paid
+3882,Debit Card,0,Failed
+3883,Credit Card,21462.4,Refunded
+3884,UPI,13393,Paid
+3885,Net Banking,2847.15,Refunded
+3886,UPI,2292.45,Refunded
+3887,UPI,0,Failed
+3888,Credit Card,4698.7,Paid
+3889,Credit Card,0,Failed
+3890,UPI,15293,Refunded
+3891,UPI,0,Failed
+3892,Credit Card,0,Failed
+3893,UPI,6027.3,Paid
+3894,Cash on Delivery,2699.1,Paid
+3895,UPI,0,Failed
+3896,Debit Card,7496,Paid
+3897,Net Banking,9402.15,Paid
+3898,Debit Card,778,Paid
+3899,Debit Card,22626.9,Refunded
+3900,Cash on Delivery,2428.2,Paid
+3901,Debit Card,21691,Paid
+3902,Credit Card,0,Failed
+3903,Net Banking,13992,Paid
+3904,UPI,0,Failed
+3905,Debit Card,1798,Paid
+3906,Credit Card,7442,Paid
+3907,Cash on Delivery,1477,Paid
+3908,Cash on Delivery,1998,Paid
+3909,UPI,9344,Paid
+3910,UPI,10196.6,Refunded
+3911,Cash on Delivery,10063.35,Paid
+3912,Cash on Delivery,10995,Paid
+3913,UPI,12248.35,Paid
+3914,Credit Card,10959.9,Paid
+3915,Cash on Delivery,3897,Refunded
+3916,Debit Card,3015.8,Refunded
+3917,Net Banking,3843.7,Paid
+3918,Net Banking,8907.3,Paid
+3919,UPI,20991,Refunded
+3920,Credit Card,4997,Refunded
+3921,UPI,21441,Paid
+3922,Cash on Delivery,3798.1,Paid
+3923,Net Banking,16712.4,Paid
+3924,Cash on Delivery,1598,Paid
+3925,Credit Card,18594,Refunded
+3926,Cash on Delivery,1528.2,Refunded
+3927,Cash on Delivery,9803.7,Paid
+3928,Credit Card,15193.35,Paid
+3929,Cash on Delivery,13594,Refunded
+3930,Debit Card,11695,Refunded
+3931,UPI,8097.3,Refunded
+3932,UPI,4318.7,Paid
+3933,Net Banking,9599.9,Paid
+3934,Debit Card,9394,Paid
+3935,UPI,2562.15,Paid
+3936,Debit Card,5998,Refunded
+3937,Net Banking,6046,Paid
+3938,Credit Card,7594,Paid
+3939,Debit Card,14274.05,Paid
+3940,Credit Card,0,Failed
+3941,Net Banking,14625.25,Paid
+3942,Cash on Delivery,11964.3,Refunded
+3943,Net Banking,0,Failed
+3944,Credit Card,4988.7,Refunded
+3945,Debit Card,11192,Refunded
+3946,Net Banking,0,Failed
+3947,UPI,9979.85,Paid
+3948,Cash on Delivery,3737.45,Paid
+3949,Debit Card,0,Failed
+3950,UPI,12058.35,Paid
+3951,Debit Card,6171.2,Paid
+3952,Cash on Delivery,2164.95,Paid
+3953,Debit Card,14620.5,Paid
+3954,Cash on Delivery,14093,Paid
+3955,Net Banking,29688,Paid
+3956,Credit Card,0,Failed
+3957,Cash on Delivery,10635.25,Paid
+3958,Net Banking,7222.45,Paid
+3959,Debit Card,8544.6,Paid
+3960,Credit Card,2337.3,Paid
+3961,Debit Card,8997,Paid
+3962,Cash on Delivery,14643,Paid
+3963,Credit Card,10995,Refunded
+3964,UPI,5496,Refunded
+3965,Debit Card,6326.55,Refunded
+3966,Net Banking,673.15,Paid
+3967,UPI,5777.45,Paid
+3968,Net Banking,17291,Refunded
+3969,Net Banking,3196,Paid
+3970,Credit Card,13944.6,Refunded
+3971,UPI,2849.05,Paid
+3972,Credit Card,20061.0,Paid
+3973,Cash on Delivery,7941,Refunded
+3974,Net Banking,0,Failed
+3975,Cash on Delivery,22892,Paid
+3976,Cash on Delivery,11695,Paid
+3977,Net Banking,9687.15,Refunded
+3978,Credit Card,3653.3,Paid
+3979,Cash on Delivery,3702.15,Paid
+3980,UPI,1998,Paid
+3981,Credit Card,11243.7,Refunded
+3982,UPI,21839,Refunded
+3983,Credit Card,13426.6,Paid
+3984,Credit Card,3998,Paid
+3985,UPI,17504.9,Refunded
+3986,UPI,6648.1,Paid
+3987,Net Banking,1698.3,Paid
+3988,Net Banking,0,Failed
+3989,Credit Card,0,Failed
+3990,Cash on Delivery,8547.15,Paid
+3991,UPI,4795,Paid
+3992,Debit Card,14621.45,Paid
+3993,UPI,15857.4,Paid
+3994,UPI,12489.05,Paid
+3995,Net Banking,1698.3,Paid
+3996,UPI,15122.35,Paid
+3997,UPI,9597,Paid
+3998,Credit Card,5395,Paid
+3999,UPI,6648.1,Paid
+4000,UPI,1798,Paid
+4001,Cash on Delivery,3598.2,Paid
+4002,Net Banking,13132.8,Paid
+4003,Debit Card,17496,Paid
+4004,Debit Card,4297,Paid
+4005,Debit Card,15942,Paid
+4006,Net Banking,7689.3,Paid
+4007,UPI,17192,Paid
+4008,Net Banking,8997,Refunded
+4009,UPI,8140.5,Paid
+4010,Net Banking,0,Failed
+4011,Debit Card,928,Paid
+4012,UPI,0,Failed
+4013,Debit Card,3396,Paid
+4014,Cash on Delivery,1518.1,Refunded
+4015,Credit Card,5696,Refunded
+4016,UPI,1887.3,Paid
+4017,Debit Card,3986.2,Refunded
+4018,Net Banking,7697,Paid
+4019,UPI,6929.3,Paid
+4020,Credit Card,22790.5,Paid
+4021,Debit Card,6347,Paid
+4022,UPI,3512.15,Paid
+4023,UPI,13957.4,Paid
+4024,UPI,8781.8,Paid
+4025,Credit Card,11808.2,Paid
+4026,Net Banking,10539.3,Refunded
+4027,Credit Card,0,Failed
+4028,Net Banking,2998,Paid
+4029,UPI,11044.9,Paid
+4030,Net Banking,8395,Paid
+4031,Debit Card,9090.75,Refunded
+4032,UPI,10495,Paid
+4033,Credit Card,0,Failed
+4034,Debit Card,0,Failed
+4035,Debit Card,3797,Refunded
+4036,Credit Card,16492,Paid
+4037,Cash on Delivery,0,Failed
+4038,Cash on Delivery,7997,Paid
+4039,UPI,23991,Paid
+4040,Net Banking,24740,Refunded
+4041,Credit Card,9493.35,Paid
+4042,Credit Card,14229.85,Paid
+4043,Credit Card,11342.4,Refunded
+4044,Debit Card,0,Failed
+4045,Credit Card,19891,Paid
+4046,Net Banking,0,Failed
+4047,Net Banking,12941,Refunded
+4048,Cash on Delivery,4927.45,Paid
+4049,Credit Card,8995.5,Paid
+4050,Net Banking,2562.15,Paid
+4051,Net Banking,0,Failed
+4052,Debit Card,0,Failed
+4053,Debit Card,5038.2,Paid
+4054,Credit Card,0,Failed
+4055,Net Banking,20603.7,Paid
+4056,UPI,2468.1,Refunded
+4057,Credit Card,3819.9,Refunded
+4058,Credit Card,13625.1,Paid
+4059,Cash on Delivery,8546.2,Paid
+4060,Net Banking,4797,Paid
+4061,UPI,2999,Paid
+4062,UPI,18291,Paid
+4063,UPI,12393,Paid
+4064,UPI,0,Failed
+4065,Credit Card,9444.6,Refunded
+4066,Net Banking,8919.05,Paid
+4067,UPI,9402.15,Paid
+4068,Debit Card,17674.05,Paid
+4069,UPI,24216.45,Paid
+4070,Debit Card,0,Failed
+4071,Debit Card,0,Failed
+4072,UPI,9596,Paid
+4073,Debit Card,7984.9,Paid
+4074,Debit Card,9982.8,Paid
+4075,Net Banking,5486.4,Refunded
+4076,Credit Card,19456.5,Paid
+4077,Net Banking,8997,Paid
+4078,Cash on Delivery,8498.3,Paid
+4079,Debit Card,11438.95,Paid
+4080,UPI,3987.15,Refunded
+4081,UPI,0,Failed
+4082,Debit Card,0,Failed
+4083,UPI,8997,Paid
+4084,Net Banking,6740.25,Paid
+4085,Debit Card,10789.9,Paid
+4086,Credit Card,25293,Refunded
+4087,Cash on Delivery,7600.7,Paid
+4088,Net Banking,0,Failed
+4089,Net Banking,5218.35,Paid
+4090,Debit Card,11043.2,Paid
+4091,Cash on Delivery,0,Failed
+4092,Cash on Delivery,4996,Refunded
+4093,Cash on Delivery,8366.4,Paid
+4094,Debit Card,0,Failed
+4095,Credit Card,18292,Refunded
+4096,Credit Card,0,Failed
+4097,Credit Card,15099.3,Paid
+4098,Cash on Delivery,5758.2,Refunded
+4099,Debit Card,7686.9,Refunded
+4100,Net Banking,16192.8,Refunded
+4101,UPI,7308.35,Paid
+4102,Cash on Delivery,1999,Paid
+4103,Net Banking,6563.7,Paid
+4104,UPI,15953.35,Paid
+4105,Net Banking,19753.35,Paid
+4106,Net Banking,11894,Refunded
+4107,Net Banking,3368.7,Refunded
+4108,Debit Card,10394,Paid
+4109,UPI,0,Failed
+4110,UPI,2697.3,Paid
+4111,Cash on Delivery,10254.3,Paid
+4112,UPI,19071.0,Paid
+4113,Cash on Delivery,13592,Paid
+4114,Debit Card,11468.7,Paid
+4115,Cash on Delivery,16044,Paid
+4116,Net Banking,5197,Paid
+4117,Cash on Delivery,5038.2,Paid
+4118,Cash on Delivery,0,Failed
+4119,Cash on Delivery,1598,Paid
+4120,Net Banking,6895,Refunded
+4121,UPI,1353.15,Refunded
+4122,Cash on Delivery,0,Failed
+4123,Debit Card,14292,Paid
+4124,Cash on Delivery,3396,Paid
+4125,Net Banking,0,Failed
+4126,Net Banking,3198,Paid
+4127,UPI,13841,Refunded
+4128,Debit Card,5844,Paid
+4129,Credit Card,7497,Refunded
+4130,Debit Card,0,Failed
+4131,Debit Card,1443.3,Refunded
+4132,UPI,2547,Paid
+4133,UPI,9623.7,Paid
+4134,Debit Card,1315.8,Refunded
+4135,UPI,16395,Refunded
+4136,Debit Card,11487.4,Paid
+4137,Debit Card,11288.7,Paid
+4138,UPI,4397,Refunded
+4139,Credit Card,7893,Refunded
+4140,Cash on Delivery,6744,Refunded
+4141,Cash on Delivery,6409.65,Refunded
+4142,UPI,21681.9,Refunded
+4143,Net Banking,0,Failed
+4144,UPI,15290.25,Paid
+4145,Cash on Delivery,6923.7,Paid
+4146,Credit Card,0,Failed
+4147,Debit Card,10794.6,Paid
+4148,Credit Card,12683.7,Paid
+4149,Credit Card,0,Failed
+4150,Net Banking,9897,Paid
+4151,Credit Card,2037.45,Paid
+4152,Credit Card,7647.45,Paid
+4153,Cash on Delivery,9218.7,Paid
+4154,UPI,1998,Paid
+4155,Debit Card,27093,Refunded
+4156,Net Banking,0,Failed
+4157,Cash on Delivery,3039.05,Paid
+4158,UPI,1698.3,Paid
+4159,Credit Card,5546,Refunded
+4160,UPI,3141.6,Paid
+4161,Cash on Delivery,3846,Paid
+4162,Cash on Delivery,9595,Paid
+4163,Credit Card,1078,Paid
+4164,Credit Card,13894,Refunded
+4165,Credit Card,1599,Paid
+4166,Cash on Delivery,0,Failed
+4167,Debit Card,708.1,Paid
+4168,UPI,2097,Paid
+4169,Credit Card,4248.3,Paid
+4170,UPI,18894,Paid
+4171,UPI,2547.45,Paid
+4172,Net Banking,14844,Paid
+4173,Debit Card,10594,Paid
+4174,Net Banking,8997,Paid
+4175,Debit Card,6096,Paid
+4176,Credit Card,1798.2,Paid
+4177,Debit Card,25010.1,Paid
+4178,Cash on Delivery,6943,Paid
+4179,Net Banking,1477,Paid
+4180,Net Banking,7122.15,Paid
+4181,Cash on Delivery,12815.5,Paid
+4182,Credit Card,24190,Paid
+4183,Cash on Delivery,6044,Paid
+4184,UPI,13864.3,Paid
+4185,Cash on Delivery,10495,Paid
+4186,Credit Card,0,Failed
+4187,UPI,15471.9,Paid
+4188,Debit Card,9305.25,Paid
+4189,Debit Card,2037.45,Paid
+4190,UPI,14619.6,Paid
+4191,UPI,0,Failed
+4192,UPI,15204.6,Paid
+4193,Credit Card,16393,Paid
+4194,UPI,5790.25,Paid
+4195,Cash on Delivery,2699.1,Paid
+4196,Credit Card,0,Failed
+4197,Cash on Delivery,0,Failed
+4198,Debit Card,2699.1,Paid
+4199,Debit Card,6369.9,Paid
+4200,Cash on Delivery,1359.15,Refunded
+4201,Cash on Delivery,1548,Paid
+4202,UPI,10243,Paid
+4203,Cash on Delivery,14091,Refunded
+4204,Credit Card,7986.6,Paid
+4205,Cash on Delivery,0,Failed
+4206,Net Banking,3998,Paid
+4207,Net Banking,8593,Paid
+4208,Debit Card,0,Failed
+4209,Credit Card,14888.7,Paid
+4210,Debit Card,10044,Paid
+4211,Cash on Delivery,6026.4,Paid
+4212,Cash on Delivery,0,Failed
+4213,Credit Card,16714.3,Refunded
+4214,UPI,5459.65,Paid
+4215,Credit Card,2037.45,Refunded
+4216,Net Banking,13486.2,Refunded
+4217,Credit Card,8634.6,Paid
+4218,UPI,12995,Paid
+4219,Debit Card,0,Failed
+4220,Cash on Delivery,12791,Paid
+4221,Cash on Delivery,5745,Refunded
+4222,Credit Card,8726.4,Paid
+4223,Credit Card,2923.2,Paid
+4224,Credit Card,3198,Paid
+4225,Net Banking,3696,Refunded
+4226,Cash on Delivery,0,Failed
+4227,Cash on Delivery,18392,Paid
+4228,Net Banking,0,Failed
+4229,Cash on Delivery,4991.4,Paid
+4230,Cash on Delivery,0,Failed
+4231,UPI,5946.6,Paid
+4232,Credit Card,7685.7,Paid
+4233,Debit Card,0,Failed
+4234,Debit Card,10997,Paid
+4235,Credit Card,5598,Refunded
+4236,Debit Card,0,Failed
+4237,Debit Card,8997,Paid
+4238,Credit Card,708.1,Paid
+4239,Net Banking,0,Failed
+4240,Credit Card,6522.3,Paid
+4241,Cash on Delivery,1698.3,Refunded
+4242,Credit Card,10292,Paid
+4243,Cash on Delivery,9534.6,Paid
+4244,Credit Card,0,Failed
+4245,Debit Card,0,Failed
+4246,Cash on Delivery,18231.45,Paid
+4247,Net Banking,1799.1,Paid
+4248,Debit Card,3147.3,Paid
+4249,Debit Card,0,Failed
+4250,UPI,2292.3,Paid
+4251,Credit Card,0,Failed
+4252,Net Banking,14814.3,Refunded
+4253,Debit Card,19391,Paid
+4254,Net Banking,1995.8,Paid
+4255,Debit Card,2397,Paid
+4256,Debit Card,9498.1,Paid
+4257,Credit Card,0,Failed
+4258,Credit Card,0,Failed
+4259,Cash on Delivery,3558.7,Paid
+4260,Debit Card,14540,Paid
+4261,UPI,8229.6,Paid
+4262,Credit Card,4249.15,Paid
+4263,Debit Card,10595,Refunded
+4264,Debit Card,6998,Paid
+4265,Debit Card,12146.4,Paid
+4266,Debit Card,1578,Refunded
+4267,Cash on Delivery,16807.4,Paid
+4268,Debit Card,8239.9,Paid
+4269,Cash on Delivery,13853.7,Paid
+4270,Cash on Delivery,6541.6,Paid
+4271,Net Banking,1352.3,Paid
+4272,Debit Card,4926.6,Paid
+4273,Debit Card,17095,Paid
+4274,Cash on Delivery,15691,Paid
+4275,UPI,800.65,Paid
+4276,Credit Card,5296,Paid
+4277,Cash on Delivery,0,Failed
+4278,Cash on Delivery,24288,Refunded
+4279,Credit Card,15922.8,Paid
+4280,Credit Card,16591,Refunded
+4281,Cash on Delivery,4696,Paid
+4282,Cash on Delivery,16143.35,Paid
+4283,UPI,6398,Paid
+4284,Cash on Delivery,4495,Paid
+4285,Debit Card,1428.1,Paid
+4286,UPI,7444,Paid
+4287,Net Banking,743.05,Paid
+4288,Credit Card,11195,Refunded
+4289,Cash on Delivery,0,Failed
+4290,Credit Card,0,Failed
+4291,UPI,1598,Paid
+4292,Debit Card,10883.7,Paid
+4293,Credit Card,8997,Refunded
+4294,Cash on Delivery,18098.2,Paid
+4295,Debit Card,0,Failed
+4296,Net Banking,10492,Paid
+4297,Net Banking,16594,Paid
+4298,Debit Card,0,Failed
+4299,UPI,15744.6,Refunded
+4300,Cash on Delivery,0,Failed
+4301,UPI,0,Failed
+4302,Cash on Delivery,3237.3,Refunded
+4303,Credit Card,2848.1,Paid
+4304,Credit Card,21951.0,Paid
+4305,Cash on Delivery,16693,Paid
+4306,UPI,12819.3,Paid
+4307,Net Banking,21413.0,Paid
+4308,Net Banking,11469.9,Paid
+4309,Debit Card,0,Failed
+4310,Net Banking,12406.6,Paid
+4311,Credit Card,2997,Paid
+4312,Net Banking,9095,Refunded
+4313,Credit Card,5543,Refunded
+4314,Cash on Delivery,978,Paid
+4315,UPI,0,Failed
+4316,Credit Card,8547.15,Paid
+4317,Debit Card,12391,Paid
+4318,UPI,2698,Paid
+4319,UPI,828,Paid
+4320,Net Banking,1798,Paid
+4321,Credit Card,7312.15,Paid
+4322,UPI,18711.9,Paid
+4323,Net Banking,1598,Paid
+4324,UPI,0,Failed
+4325,Net Banking,0,Failed
+4326,Debit Card,2598,Refunded
+4327,Credit Card,14692,Refunded
+4328,Cash on Delivery,3905.75,Refunded
+4329,Debit Card,3640.5,Refunded
+4330,Cash on Delivery,9401.2,Paid
+4331,Net Banking,1999,Paid
+4332,Credit Card,9344.05,Paid
+4333,UPI,16895,Paid
+4334,Cash on Delivery,3891.2,Refunded
+4335,UPI,0,Failed
+4336,UPI,11978.2,Paid
+4337,Net Banking,4630.5,Paid
+4338,Cash on Delivery,2879.1,Paid
+4339,Cash on Delivery,7687.8,Paid
+4340,Cash on Delivery,15564.6,Paid
+4341,Credit Card,10492,Paid
+4342,Net Banking,13239,Refunded
+4343,Credit Card,2292.3,Refunded
+4344,Debit Card,12149.05,Paid
+4345,Cash on Delivery,3947,Paid
+4346,Net Banking,0,Failed
+4347,Credit Card,0,Failed
+4348,UPI,0,Failed
+4349,UPI,0,Failed
+4350,Credit Card,1407.1,Paid
+4351,Cash on Delivery,15906.8,Paid
+4352,Cash on Delivery,6597,Refunded
+4353,Credit Card,7330.5,Paid
+4354,Net Banking,0,Failed
+4355,Credit Card,9874.3,Paid
+4356,UPI,0,Failed
+4357,UPI,4136.4,Refunded
+4358,Debit Card,2848.1,Refunded
+4359,UPI,9343,Paid
+4360,Credit Card,10960.75,Paid
+4361,Debit Card,6144,Paid
+4362,UPI,7899.05,Paid
+4363,Cash on Delivery,17565.5,Refunded
+4364,Net Banking,1248.1,Refunded
+4365,Debit Card,4758.3,Refunded
+4366,Net Banking,0,Failed
+4367,Cash on Delivery,0,Failed
+4368,Cash on Delivery,5998,Refunded
+4369,Credit Card,14244.3,Refunded
+4370,Credit Card,0,Failed
+4371,Cash on Delivery,8239.05,Paid
+4372,Cash on Delivery,2519.1,Paid
+4373,UPI,0,Failed
+4374,Credit Card,7736.4,Paid
+4375,Net Banking,2997,Paid
+4376,Credit Card,16666.8,Refunded
+4377,Credit Card,4136.4,Paid
+4378,Credit Card,0,Failed
+4379,Cash on Delivery,9639.85,Paid
+4380,Net Banking,0,Failed
+4381,Cash on Delivery,2207.45,Refunded
+4382,UPI,0,Failed
+4383,Cash on Delivery,0,Failed
+4384,Debit Card,24290.1,Paid
+4385,Debit Card,15654.6,Paid
+4386,Debit Card,16494,Paid
+4387,Credit Card,15464.9,Paid
+4388,UPI,10291,Paid
+4389,Debit Card,9297,Paid
+4390,UPI,1899.05,Paid
+4391,Credit Card,9712.8,Refunded
+4392,Debit Card,15193,Paid
+4393,UPI,0,Failed
+4394,Credit Card,12443,Paid
+4395,Net Banking,0,Failed
+4396,Net Banking,17947.4,Refunded
+4397,Cash on Delivery,13053.95,Refunded
+4398,Debit Card,9498.1,Paid
+4399,Credit Card,13674.3,Paid
+4400,Debit Card,0,Failed
+4401,Debit Card,4332.45,Paid
+4402,Cash on Delivery,19940.5,Paid
+4403,Debit Card,0,Failed
+4404,Net Banking,10161.9,Paid
+4405,Cash on Delivery,2847.15,Paid
+4406,Net Banking,7281.9,Paid
+4407,Debit Card,15856.45,Paid
+4408,UPI,9095,Paid
+4409,UPI,0,Failed
+4410,Net Banking,20016.0,Paid
+4411,Net Banking,1548,Paid
+4412,Debit Card,2247,Paid
+4413,Credit Card,10494,Refunded
+4414,UPI,6196,Paid
+4415,Credit Card,16191.9,Refunded
+4416,Credit Card,12195,Paid
+4417,UPI,8363.7,Paid
+4418,Credit Card,5397.3,Paid
+4419,Debit Card,8797,Paid
+4420,Net Banking,978,Paid
+4421,Credit Card,17894,Paid
+4422,Credit Card,11300.25,Paid
+4423,Cash on Delivery,3798.1,Paid
+4424,UPI,4856.4,Paid
+4425,Credit Card,6836.4,Refunded
+4426,Net Banking,2376.6,Paid
+4427,Net Banking,0,Failed
+4428,Net Banking,0,Failed
+4429,Net Banking,7895,Refunded
+4430,Cash on Delivery,19881.0,Paid
+4431,Credit Card,6268.1,Paid
+4432,Net Banking,1078,Refunded
+4433,UPI,8995,Paid
+4434,Credit Card,3698,Paid
+4435,Debit Card,11595,Paid
+4436,UPI,10996,Paid
+4437,Cash on Delivery,19192,Paid
+4438,Net Banking,5506.2,Refunded
+4439,UPI,4980.85,Paid
+4440,UPI,16293,Paid
+4441,Net Banking,8735.25,Paid
+4442,Debit Card,7026.2,Paid
+4443,UPI,0,Failed
+4444,Cash on Delivery,15846,Paid
+4445,Net Banking,19895,Paid
+4446,Debit Card,0,Failed
+4447,Credit Card,14529.05,Paid
+4448,Credit Card,7993,Refunded
+4449,Cash on Delivery,9096,Paid
+4450,Credit Card,885.55,Paid
+4451,Cash on Delivery,9493,Refunded
+4452,UPI,17994,Paid
+4453,Debit Card,1267.3,Paid
+4454,Cash on Delivery,18138.35,Paid
+4455,Cash on Delivery,1887.3,Paid
+4456,Debit Card,9998,Refunded
+4457,Debit Card,3897,Paid
+4458,Net Banking,5398.2,Paid
+4459,Credit Card,15595,Refunded
+4460,Credit Card,16594,Paid
+4461,Credit Card,10446.2,Paid
+4462,Credit Card,5788.35,Paid
+4463,Cash on Delivery,20153.7,Paid
+4464,UPI,10343.7,Refunded
+4465,Debit Card,3499,Paid
+4466,Net Banking,11555.75,Paid
+4467,Net Banking,11193,Paid
+4468,UPI,22992,Paid
+4469,Net Banking,2999,Paid
+4470,UPI,3798.1,Paid
+4471,UPI,0,Failed
+4472,Debit Card,16894,Paid
+4473,UPI,9806.4,Paid
+4474,UPI,10823.35,Paid
+4475,UPI,5195,Paid
+4476,Cash on Delivery,21992,Paid
+4477,UPI,9714.6,Refunded
+4478,UPI,0,Failed
+4479,UPI,5221.2,Refunded
+4480,Net Banking,0,Failed
+4481,UPI,0,Failed
+4482,Debit Card,4936.2,Paid
+4483,Net Banking,16738.2,Paid
+4484,Credit Card,6998,Paid
+4485,Cash on Delivery,18891.9,Refunded
+4486,UPI,14384.9,Paid
+4487,Debit Card,1078,Paid
+4488,Credit Card,0,Failed
+4489,Net Banking,10959.9,Paid
+4490,UPI,5697.15,Paid
+4491,UPI,4317.3,Refunded
+4492,Net Banking,3597.3,Paid
+4493,Debit Card,8743,Refunded
+4494,Debit Card,12894,Paid
+4495,Debit Card,0,Failed
+4496,UPI,8276.4,Refunded
+4497,Cash on Delivery,0,Failed
+4498,Cash on Delivery,12343.35,Refunded
+4499,UPI,14622.4,Paid
+4500,Debit Card,19193,Paid
+4501,Credit Card,11386.6,Refunded
+4502,Debit Card,5938.2,Paid
+4503,Debit Card,11514.6,Paid
+4504,Cash on Delivery,4499.1,Paid
+4505,Credit Card,0,Failed
+4506,Cash on Delivery,2292.45,Paid
+4507,Net Banking,10165.5,Paid
+4508,Debit Card,0,Failed
+4509,Credit Card,2397,Paid
+4510,UPI,3227.15,Paid
+4511,Cash on Delivery,5690.75,Paid
+4512,Debit Card,12368.7,Paid
+4513,Debit Card,0,Failed
+4514,Credit Card,7103.7,Refunded
+4515,Debit Card,0,Failed
+4516,UPI,13422.35,Paid
+4517,Debit Card,0,Failed
+4518,Cash on Delivery,4196,Paid
+4519,Cash on Delivery,5698.1,Paid
+4520,Debit Card,9715.5,Refunded
+4521,UPI,0,Failed
+4522,Net Banking,7960.5,Paid
+4523,Debit Card,9535.5,Paid
+4524,Net Banking,8996,Refunded
+4525,Net Banking,4077.45,Paid
+4526,Credit Card,2247,Paid
+4527,Cash on Delivery,3096,Paid
+4528,Debit Card,0,Failed
+4529,Debit Card,3185.8,Paid
+4530,Net Banking,8637.3,Refunded
+4531,Credit Card,20092,Paid
+4532,Net Banking,743.05,Paid
+4533,Cash on Delivery,15381.45,Paid
+4534,Net Banking,5595,Paid
+4535,Net Banking,5601.2,Refunded
+4536,UPI,1613.1,Paid
+4537,Debit Card,10794,Refunded
+4538,Net Banking,4629.1,Paid
+4539,Net Banking,2849.05,Paid
+4540,Cash on Delivery,10296,Paid
+4541,Debit Card,18533.7,Paid
+4542,Cash on Delivery,1698.3,Paid
+4543,Credit Card,11631.8,Paid
+4544,Debit Card,0,Failed
+4545,Net Banking,0,Failed
+4546,Cash on Delivery,673.15,Paid
+4547,UPI,6642,Paid
+4548,Cash on Delivery,9894,Refunded
+4549,Cash on Delivery,5815.7,Paid
+4550,UPI,18623.7,Refunded
+4551,UPI,2067.3,Paid
+4552,Credit Card,20241.0,Refunded
+4553,Net Banking,7646.4,Refunded
+4554,Cash on Delivery,6242,Paid
+4555,Net Banking,0,Failed
+4556,Credit Card,16991.5,Paid
+4557,UPI,9941.6,Refunded
+4558,Credit Card,7976.2,Paid
+4559,Debit Card,14233.25,Paid
+4560,Net Banking,0,Failed
+4561,Debit Card,0,Failed
+4562,Credit Card,12096,Paid
+4563,Net Banking,9498.1,Paid
+4564,UPI,4587.3,Paid
+4565,UPI,2198,Refunded
+4566,Credit Card,15675.7,Paid
+4567,Credit Card,4225.5,Paid
+4568,UPI,5396.4,Paid
+4569,Net Banking,7928.7,Paid
+4570,Cash on Delivery,10365.75,Refunded
+4571,Credit Card,1378,Paid
+4572,Debit Card,0,Failed
+4573,Net Banking,2397,Paid
+4574,Net Banking,3798.1,Paid
+4575,UPI,1798.2,Refunded
+4576,Cash on Delivery,2847.15,Paid
+4577,UPI,6795.75,Refunded
+4578,Net Banking,928,Refunded
+4579,Credit Card,12744.05,Paid
+4580,UPI,0,Failed
+4581,Credit Card,6075.25,Refunded
+4582,Net Banking,4289.95,Paid
+4583,Net Banking,3323.1,Paid
+4584,UPI,0,Failed
+4585,Credit Card,15292,Refunded
+4586,Credit Card,15293,Paid
+4587,Cash on Delivery,20091,Refunded
+4588,Cash on Delivery,2097,Paid
+4589,Cash on Delivery,8815.5,Paid
+4590,Credit Card,0,Failed
+4591,Cash on Delivery,13494.6,Paid
+4592,Cash on Delivery,14935.5,Paid
+4593,Cash on Delivery,9294,Refunded
+4594,UPI,17852.4,Refunded
+4595,Credit Card,9634.9,Refunded
+4596,Cash on Delivery,0,Failed
+4597,Debit Card,6202.45,Paid
+4598,Credit Card,4797,Paid
+4599,Cash on Delivery,7916.4,Paid
+4600,Credit Card,1999,Refunded
+4601,Net Banking,1358.3,Paid
+4602,Credit Card,20892.4,Refunded
+4603,Cash on Delivery,5932.75,Paid
+4604,Debit Card,0,Failed
+4605,Net Banking,2397,Paid
+4606,Net Banking,5097.45,Paid
+4607,Debit Card,4497,Paid
+4608,UPI,2848.1,Refunded
+4609,Credit Card,8794,Refunded
+4610,Cash on Delivery,0,Failed
+4611,Net Banking,7545,Paid
+4612,UPI,16314.05,Paid
+4613,Credit Card,2498,Paid
+4614,Debit Card,1378,Paid
+4615,Debit Card,15291,Paid
+4616,Net Banking,3446,Refunded
+4617,Net Banking,9725.7,Paid
+4618,Net Banking,14392.8,Paid
+4619,UPI,9595,Paid
+4620,Net Banking,12796,Paid
+4621,Credit Card,5496,Paid
+4622,Net Banking,7107.3,Paid
+4623,Cash on Delivery,3696,Paid
+4624,Cash on Delivery,2338.2,Paid
+4625,Debit Card,0,Failed
+4626,Credit Card,4138.2,Paid
+4627,Cash on Delivery,0,Failed
+4628,UPI,4047.3,Refunded
+4629,Cash on Delivery,12534.3,Refunded
+4630,UPI,11696.4,Paid
+4631,Net Banking,5943,Paid
+4632,Net Banking,17690,Paid
+4633,Debit Card,2247,Refunded
+4634,Debit Card,6268.1,Paid
+4635,Net Banking,9597,Paid
+4636,UPI,10096,Paid
+4637,Cash on Delivery,2498,Paid
+4638,Credit Card,7976.2,Paid
+4639,Debit Card,13993,Paid
+4640,Debit Card,0,Failed
+4641,Debit Card,0,Failed
+4642,Credit Card,0,Failed
+4643,UPI,22412.4,Paid
+4644,Debit Card,7137.45,Refunded
+4645,UPI,7044,Paid
+4646,Credit Card,1439.1,Paid
+4647,Cash on Delivery,6398,Paid
+4648,Debit Card,9144,Paid
+4649,UPI,1599,Paid
+4650,Debit Card,9345.75,Paid
+4651,Cash on Delivery,16644.6,Refunded
+4652,Credit Card,0,Failed
+4653,Credit Card,4797,Refunded
+4654,Debit Card,7444,Paid
+4655,UPI,10795.5,Paid
+4656,Cash on Delivery,3568.3,Paid
+4657,Credit Card,22592,Paid
+4658,Credit Card,8923.35,Refunded
+4659,Net Banking,0,Failed
+4660,UPI,18593,Refunded
+4661,Cash on Delivery,14394.6,Paid
+4662,Credit Card,18353.7,Paid
+4663,Cash on Delivery,0,Failed
+4664,Debit Card,16142,Paid
+4665,Cash on Delivery,0,Failed
+4666,UPI,9716.4,Paid
+4667,Debit Card,10576.55,Paid
+4668,Debit Card,4499.1,Paid
+4669,Cash on Delivery,1477,Paid
+4670,Net Banking,12493,Paid
+4671,Debit Card,3310.75,Paid
+4672,Net Banking,5544,Paid
+4673,Cash on Delivery,20798.35,Paid
+4674,Debit Card,13740,Refunded
+4675,Credit Card,11776.2,Paid
+4676,Credit Card,3508.2,Paid
+4677,Cash on Delivery,8156.6,Paid
+4678,UPI,12722.4,Paid
+4679,Net Banking,6925.5,Paid
+4680,UPI,13493.7,Paid
+4681,Cash on Delivery,7997,Paid
+4682,Cash on Delivery,0,Failed
+4683,Net Banking,14611.5,Paid
+4684,Net Banking,4999,Paid
+4685,Credit Card,0,Failed
+4686,Credit Card,798.1,Paid
+4687,Credit Card,10017.75,Paid
+4688,Net Banking,11794,Refunded
+4689,Credit Card,4944,Paid
+4690,Credit Card,14754.6,Paid
+4691,Debit Card,12193,Paid
+4692,Cash on Delivery,5397.3,Refunded
+4693,Cash on Delivery,8997,Paid
+4694,Net Banking,11299.3,Refunded
+4695,UPI,0,Failed
+4696,Debit Card,0,Failed
+4697,UPI,0,Failed
+4698,Net Banking,12395,Paid
+4699,Credit Card,7494,Refunded
+4700,Credit Card,0,Failed
+4701,Debit Card,0,Failed
+4702,Debit Card,4745.25,Refunded
+4703,Net Banking,1477,Paid
+4704,Debit Card,0,Failed
+4705,Debit Card,0,Failed
+4706,Cash on Delivery,19693,Paid
+4707,Cash on Delivery,0,Failed
+4708,Cash on Delivery,6264.3,Paid
+4709,Credit Card,11739,Paid
+4710,Credit Card,2247.3,Paid
+4711,Debit Card,1598,Paid
+4712,Debit Card,0,Failed
+4713,UPI,24120.5,Paid
+4714,Credit Card,0,Failed
+4715,Net Banking,1798.2,Paid
+4716,Net Banking,14121.9,Paid
+4717,Net Banking,19626.5,Paid
+4718,UPI,8547.15,Paid
+4719,Debit Card,2297,Paid
+4720,Credit Card,715.65,Paid
+4721,UPI,9897,Paid
+4722,Debit Card,4498.2,Paid
+4723,Credit Card,0,Failed
+4724,Debit Card,1887.3,Refunded
+4725,Cash on Delivery,7597,Paid
+4726,Credit Card,10619.9,Paid
+4727,Net Banking,3299,Paid
+4728,Credit Card,19033.2,Paid
+4729,UPI,15336.0,Refunded
+4730,Credit Card,0,Failed
+4731,Credit Card,0,Failed
+4732,Debit Card,17902.8,Paid
+4733,Cash on Delivery,7795,Paid
+4734,Credit Card,14867.35,Refunded
+4735,Cash on Delivery,6294,Refunded
+4736,Debit Card,0,Failed
+4737,Credit Card,8097.3,Paid
+4738,Net Banking,23751.9,Paid
+4739,Credit Card,4840.25,Paid
+4740,Credit Card,7219.05,Paid
+4741,Credit Card,1477,Paid
+4742,Cash on Delivery,26766.5,Refunded
+4743,Credit Card,4096,Paid
+4744,Credit Card,8097.3,Paid
+4745,Net Banking,5998,Paid
+4746,Net Banking,0,Failed
+4747,Net Banking,9498.1,Paid
+4748,Net Banking,7213.35,Paid
+4749,Cash on Delivery,4544.1,Paid
+4750,Debit Card,20091,Paid
+4751,Debit Card,0,Failed
+4752,Cash on Delivery,9344.05,Paid
+4753,Cash on Delivery,9534.6,Paid
+4754,Net Banking,13197.4,Paid
+4755,Debit Card,12245,Paid
+4756,Debit Card,21843,Paid
+4757,Debit Card,14247.15,Paid
+4758,UPI,14391.0,Paid
+4759,Debit Card,4839.05,Refunded
+4760,Cash on Delivery,0,Failed
+4761,UPI,0,Failed
+4762,Net Banking,0,Failed
+4763,Debit Card,0,Failed
+4764,Debit Card,2292.3,Paid
+4765,Credit Card,0,Failed
+4766,Cash on Delivery,1577,Paid
+4767,Debit Card,11393,Paid
+4768,UPI,2379.15,Paid
+4769,Cash on Delivery,16146.9,Paid
+4770,Cash on Delivery,14247.15,Paid
+4771,Cash on Delivery,15564.6,Paid
+4772,Debit Card,0,Failed
+4773,Credit Card,1698,Paid
+4774,Cash on Delivery,5485.5,Paid
+4775,Credit Card,12457.8,Refunded
+4776,Cash on Delivery,0,Failed
+4777,Credit Card,0,Failed
+4778,Credit Card,4997,Refunded
+4779,Net Banking,3199,Paid
+4780,Cash on Delivery,4944,Paid
+4781,Debit Card,4248,Paid
+4782,Cash on Delivery,9345.75,Refunded
+4783,UPI,24689,Paid
+4784,UPI,4397,Paid
+4785,Debit Card,1798.2,Refunded
+4786,Net Banking,19792,Paid
+4787,Credit Card,1698.3,Paid
+4788,Credit Card,11153.7,Refunded
+4789,Cash on Delivery,878,Paid
+4790,Credit Card,13424.05,Paid
+4791,Net Banking,6880.75,Refunded
+4792,Cash on Delivery,6795.75,Paid
+4793,UPI,14094,Paid
+4794,Cash on Delivery,8996,Paid
+4795,Net Banking,7404.3,Paid
+4796,Net Banking,27532.35,Paid
+4797,Cash on Delivery,2428.2,Paid
+4798,Cash on Delivery,0,Failed
+4799,Credit Card,0,Failed
+4800,Credit Card,9396,Paid
+4801,Credit Card,8998.2,Paid
+4802,Cash on Delivery,6398,Paid
+4803,Credit Card,6998,Paid
+4804,Cash on Delivery,11394.3,Refunded
+4805,Cash on Delivery,1528.3,Paid
+4806,UPI,5179.05,Paid
+4807,Credit Card,4500.75,Paid
+4808,Credit Card,13045,Paid
+4809,UPI,1698,Refunded
+4810,UPI,6197,Paid
+4811,UPI,18193,Refunded
+4812,Net Banking,21390,Refunded
+4813,Debit Card,4195,Paid
+4814,Debit Card,10026.6,Refunded
+4815,Credit Card,0,Failed
+4816,UPI,5436.6,Paid
+4817,Credit Card,7247,Paid
+4818,Debit Card,12744.9,Paid
+4819,Cash on Delivery,3495,Paid
+4820,UPI,7223.3,Paid
+4821,Credit Card,22790,Paid
+4822,Net Banking,7397,Paid
+4823,Debit Card,0,Failed
+4824,Debit Card,9894,Refunded
+4825,Credit Card,8167.15,Paid
+4826,UPI,19972.8,Paid
+4827,Credit Card,0,Failed
+4828,Debit Card,4047.3,Paid
+4829,UPI,0,Failed
+4830,Credit Card,0,Failed
+4831,Debit Card,3702.15,Paid
+4832,Cash on Delivery,17292,Paid
+4833,Debit Card,0,Failed
+4834,Cash on Delivery,8409.05,Paid
+4835,Cash on Delivery,16464.6,Paid
+4836,Cash on Delivery,0,Failed
+4837,Debit Card,5796,Paid
+4838,Debit Card,8242,Paid
+4839,UPI,5398.2,Refunded
+4840,Debit Card,13134.6,Refunded
+4841,Net Banking,2997,Paid
+4842,Debit Card,2878.2,Paid
+4843,UPI,15804.9,Paid
+4844,Credit Card,10496,Paid
+4845,Net Banking,0,Failed
+4846,Net Banking,2397,Paid
+4847,Net Banking,20735.1,Paid
+4848,Net Banking,18576.9,Refunded
+4849,Credit Card,5697.15,Paid
+4850,Credit Card,1999,Paid
+4851,Debit Card,5096,Paid
+4852,Debit Card,8997,Paid
+4853,UPI,10300.85,Paid
+4854,Debit Card,6746.4,Paid
+4855,Debit Card,11495,Paid
+4856,Cash on Delivery,17593,Paid
+4857,Debit Card,7557.3,Paid
+4858,Credit Card,7168.7,Paid
+4859,Credit Card,13544,Refunded
+4860,Cash on Delivery,3848,Paid
+4861,UPI,15079.85,Refunded
+4862,Net Banking,5618.7,Paid
+4863,Debit Card,0,Failed
+4864,Debit Card,10163.7,Paid
+4865,Credit Card,13847.35,Paid
+4866,Debit Card,14396.4,Paid
+4867,Credit Card,10340,Paid
+4868,Net Banking,1439.1,Paid
+4869,Credit Card,8832.15,Paid
+4870,Debit Card,0,Failed
+4871,UPI,7644.9,Paid
+4872,Debit Card,17492,Refunded
+4873,Credit Card,4794.65,Paid
+4874,Net Banking,4047.3,Paid
+4875,UPI,23490,Paid
+4876,Debit Card,2974.15,Refunded
+4877,Debit Card,12487.35,Paid
+4878,Net Banking,8094,Refunded
+4879,Net Banking,11393,Paid
+4880,Credit Card,743.05,Paid
+4881,Net Banking,8547.15,Paid
+4882,Credit Card,0,Failed
+4883,Credit Card,12248.35,Paid
+4884,Debit Card,2372.15,Paid
+4885,UPI,0,Failed
+4886,Cash on Delivery,1899.05,Paid
+4887,Debit Card,15740,Paid
+4888,UPI,18693,Paid
+4889,Net Banking,15383.35,Paid
+4890,Debit Card,7217.15,Paid
+4891,Debit Card,1248.1,Paid
+4892,UPI,9694,Paid
+4893,Net Banking,0,Failed
+4894,UPI,6744,Refunded
+4895,Credit Card,16714.3,Paid
+4896,Net Banking,10195.75,Paid
+4897,UPI,12392,Refunded
+4898,Cash on Delivery,20493,Refunded
+4899,UPI,0,Failed
+4900,Cash on Delivery,14194,Paid
+4901,Credit Card,1998,Refunded
+4902,Credit Card,20994,Paid
+4903,UPI,14191,Paid
+4904,UPI,10915.5,Paid
+4905,Credit Card,5848.2,Paid
+4906,Net Banking,12494,Paid
+4907,UPI,9992,Paid
+4908,Debit Card,18594,Paid
+4909,Debit Card,14292,Paid
+4910,UPI,2097,Paid
+4911,Cash on Delivery,2846,Paid
+4912,Credit Card,1909.95,Paid
+4913,Cash on Delivery,3397,Paid
+4914,Debit Card,10476.9,Paid
+4915,Credit Card,14231.55,Paid
+4916,Net Banking,5861.6,Paid
+4917,Net Banking,15654.6,Paid
+4918,UPI,0,Failed
+4919,UPI,17093.7,Paid
+4920,Debit Card,7396,Refunded
+4921,Debit Card,9536.4,Paid
+4922,Debit Card,12533.35,Paid
+4923,Credit Card,3246,Paid
+4924,Credit Card,0,Failed
+4925,Net Banking,12591.9,Paid
+4926,Debit Card,3236.4,Paid
+4927,UPI,11693.7,Refunded
+4928,Debit Card,8706.55,Paid
+4929,UPI,828,Paid
+4930,Net Banking,0,Failed
+4931,Net Banking,3299,Paid
+4932,Cash on Delivery,6247.8,Paid
+4933,UPI,7822.8,Paid
+4934,Credit Card,19592,Paid
+4935,Net Banking,10524.6,Paid
+4936,UPI,0,Failed
+4937,UPI,3297,Paid
+4938,Cash on Delivery,11111.2,Paid
+4939,Net Banking,13846.5,Paid
+4940,Net Banking,0,Failed
+4941,UPI,16194,Paid
+4942,Debit Card,0,Failed
+4943,UPI,1352.3,Paid
+4944,Credit Card,17284.3,Paid
+4945,Debit Card,14895,Paid
+4946,Credit Card,29629.55,Paid
+4947,Net Banking,2598,Paid
+4948,Debit Card,2519.1,Paid
+4949,Debit Card,4497,Paid
+4950,Debit Card,9021.2,Paid
+4951,Net Banking,21411.0,Refunded
+4952,Credit Card,2547.45,Paid
+4953,UPI,0,Failed
+4954,Debit Card,21395,Paid
+4955,Cash on Delivery,0,Failed
+4956,Cash on Delivery,20984.55,Paid
+4957,Credit Card,9346.6,Paid
+4958,Debit Card,19180.5,Paid
+4959,Credit Card,17663.35,Paid
+4960,Debit Card,12996,Paid
+4961,Net Banking,9493.35,Paid
+4962,Net Banking,0,Failed
+4963,UPI,0,Failed
+4964,Cash on Delivery,13850.1,Refunded
+4965,Cash on Delivery,0,Failed
+4966,Cash on Delivery,11342,Paid
+4967,Cash on Delivery,12745.75,Paid
+4968,Cash on Delivery,7451.8,Paid
+4969,Credit Card,24993,Paid
+4970,Net Banking,6298.2,Paid
+4971,Net Banking,9342.35,Paid
+4972,Debit Card,0,Failed
+4973,Credit Card,6896,Paid
+4974,Cash on Delivery,25789,Paid
+4975,Debit Card,4197,Paid
+4976,Debit Card,10107.35,Paid
+4977,Cash on Delivery,0,Failed
+4978,UPI,4651.2,Paid
+4979,Net Banking,7293,Paid
+4980,Cash on Delivery,6298.2,Paid
+4981,Net Banking,19945.25,Paid
+4982,UPI,4048.2,Paid
+4983,Debit Card,7941,Paid
+4984,UPI,2208.3,Refunded
+4985,Cash on Delivery,3398.3,Paid
+4986,Debit Card,0,Failed
+4987,Cash on Delivery,8410.75,Paid
+4988,UPI,0,Failed
+4989,Cash on Delivery,9624.6,Paid
+4990,Cash on Delivery,3696,Paid
+4991,UPI,4998,Refunded
+4992,Credit Card,0,Failed
+4993,Debit Card,0,Failed
+4994,UPI,12065.75,Paid
+4995,UPI,5009.05,Paid
+4996,UPI,0,Failed
+4997,Debit Card,10043,Paid
+4998,Cash on Delivery,2998,Paid
+4999,Credit Card,1578,Paid
+5000,Net Banking,1518.1,Paid
